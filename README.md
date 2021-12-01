@@ -6,3 +6,6 @@
 
 ## Sidebar Menu
 ![Sidebar Menu](https://github.com/aeonSolutions/Site-Logistics-Android/blob/main/ScreenShots/Screenshot_20201117-195732.jpg)
+
+## Logging of Attendances
+![Logging of attendances](https://github.com/aeonSolutions/Site-Logistics-Android/blob/main/ScreenShots/Screenshot_20201126-103247.jpg)
