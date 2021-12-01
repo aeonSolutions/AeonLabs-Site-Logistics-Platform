@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/fragment_weather_icon"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintHeight_percent="0.55"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintWidth_percent="0.45"
+            app:srcCompat="@drawable/noweather" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/fragment_weather_icon"
+            app:layout_constraintTop_toBottomOf="parent">
+
+            <TextView
+                android:id="@+id/fragment_weather_city"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="City"
+                android:textSize="26sp" />
+
+            <View
+                android:id="@+id/divider2"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="?android:attr/listDivider" />
+
+            <TextView
+                android:id="@+id/fragment_weather_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:text="descriçao" />
+
+            <TextView
+                android:id="@+id/fragment_weather_temperature"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Temperatura: 15°C" />
+
+            <TextView
+                android:id="@+id/fragment_weather_humidity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="humidade: 85%" />
+
+            <TextView
+                android:id="@+id/fragment_weather_pressure"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:text="Pressão: 1000mb" />
+
+            <TextView
+                android:id="@+id/fragment_weather_windSpeed"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Vento: 6km/h" />
+
+            <TextView
+                android:id="@+id/fragment_weather_windDirection"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:text="Direcção: 210°" />
+
+            <TextView
+                android:id="@+id/fragment_weather_sunrise"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nascer do sol: 07:53" />
+
+            <TextView
+                android:id="@+id/fragment_weather_sunset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Por do Sol: 19:00" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/fragment_weather_condition"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rain"
+            android:textSize="26sp"
+            app:layout_constraintEnd_toEndOf="@+id/fragment_weather_icon"
+            app:layout_constraintStart_toStartOf="@+id/fragment_weather_icon"
+            app:layout_constraintTop_toBottomOf="@+id/fragment_weather_icon" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:fillViewport="true"
+
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:focusableInTouchMode="true"
+            android:clickable="true">
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:text="@string/fragment_livraison_add_ref"
+                android:textSize="18sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <EditText
+                android:id="@+id/fragment_livraison_refdoc"
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:layout_marginEnd="8dp"
+                android:layout_weight="55"
+                android:background="@drawable/list_border"
+                android:ems="10"
+                android:imeOptions="actionDone"
+                android:inputType="textPersonName"
+                app:layout_constraintEnd_toStartOf="@+id/fragment_livraison_add_galleryGrid"
+                app:layout_constraintStart_toStartOf="@+id/textView22"
+                app:layout_constraintTop_toBottomOf="@+id/textView22" />
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fragment_livraison_add_material"
+                android:textSize="18sp"
+                app:layout_constraintStart_toStartOf="@+id/fragment_livraison_refdoc"
+                app:layout_constraintTop_toBottomOf="@+id/fragment_livraison_refdoc" />
+
+            <Spinner
+                android:id="@+id/fragment_livraison_material"
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:background="@drawable/list_border"
+                app:layout_constraintEnd_toStartOf="@+id/fragment_livraison_add_galleryGrid"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/textView19"
+                app:layout_constraintTop_toBottomOf="@+id/textView19" />
+
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fragment_livraison_add_outro"
+                android:textSize="18sp"
+                app:layout_constraintStart_toStartOf="@+id/fragment_livraison_material"
+                app:layout_constraintTop_toBottomOf="@+id/fragment_livraison_material" />
+
+            <EditText
+                android:id="@+id/fragment_livraison_outro"
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:layout_marginEnd="8dp"
+                android:background="@drawable/list_border"
+                android:ems="10"
+                android:imeOptions="actionDone"
+                android:inputType="textPersonName"
+                app:layout_constraintEnd_toStartOf="@+id/fragment_livraison_add_galleryGrid"
+                app:layout_constraintStart_toStartOf="@+id/textView23"
+                app:layout_constraintTop_toBottomOf="@+id/textView23" />
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:text="@string/fragment_livraison_add_qtd"
+                android:textSize="18sp"
+                app:layout_constraintStart_toStartOf="@+id/fragment_livraison_outro"
+                app:layout_constraintTop_toBottomOf="@+id/fragment_livraison_outro" />
+
+            <EditText
+                android:id="@+id/fragment_livraison_qtd"
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:background="@drawable/list_border"
+                android:ems="10"
+                android:imeOptions="actionDone"
+                android:inputType="numberDecimal"
+                app:layout_constraintStart_toStartOf="@+id/textView20"
+                app:layout_constraintTop_toBottomOf="@+id/textView20"
+                app:layout_constraintWidth_percent="0.20" />
+
+            <Spinner
+                android:id="@+id/fragment_livraison_units"
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="8dp"
+                android:background="@drawable/list_border"
+                android:visibility="visible"
+                app:layout_constraintBottom_toTopOf="@+id/textView21"
+                app:layout_constraintEnd_toStartOf="@+id/fragment_livraison_add_galleryGrid"
+                app:layout_constraintStart_toEndOf="@+id/fragment_livraison_qtd"
+                app:layout_constraintTop_toBottomOf="@+id/textView20"
+                app:layout_constraintVertical_bias="0.0"
+                app:layout_constraintWidth_percent="0.25" />
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="@string/fragment_livraison_add_notes"
+                android:textSize="18sp"
+                app:layout_constraintStart_toStartOf="@+id/fragment_livraison_qtd"
+                app:layout_constraintTop_toBottomOf="@+id/fragment_livraison_qtd" />
+
+            <EditText
+                android:id="@+id/fragment_livraison_notas"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:background="@drawable/list_border"
+                android:ems="10"
+                android:gravity="top|left"
+                android:imeOptions="actionDone"
+                android:inputType="textMultiLine"
+                android:lines="8"
+                android:maxLines="10"
+                android:minLines="4"
+                android:scrollbars="vertical"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/fragment_livraison_add_galleryGrid"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView21" />
+
+            <ImageView
+                android:id="@+id/fragment_livraison_add_btn_take_photo"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginBottom="8dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/fragment_livraison_add_galleryGrid"
+                app:srcCompat="@drawable/add_photo" />
+
+            <ImageView
+                android:id="@+id/fragment_livraison_add_calendar"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/calendar"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/calendar" />
+
+            <GridView
+                android:id="@+id/fragment_livraison_add_galleryGrid"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:background="@drawable/list_border"
+                android:clickable="true"
+                android:columnWidth="172dp"
+                android:gravity="center"
+                android:horizontalSpacing="5dp"
+                android:numColumns="auto_fit"
+                android:paddingLeft="5dp"
+                android:paddingTop="5dp"
+                android:paddingRight="5dp"
+                android:stretchMode="columnWidth"
+                android:verticalSpacing="5dp"
+                app:layout_constraintBottom_toTopOf="@+id/fragment_livraison_add_save_btn"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHeight_percent="1"
+                app:layout_constraintTop_toBottomOf="@+id/fragment_livraison_add_calendar"
+                app:layout_constraintWidth_percent="0.45"></GridView>
+
+            <ImageView
+                android:id="@+id/fragment_livraison_add_save_btn"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:srcCompat="@drawable/save" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+</FrameLayout>

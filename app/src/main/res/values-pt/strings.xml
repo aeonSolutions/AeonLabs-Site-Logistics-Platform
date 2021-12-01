@@ -1,0 +1,319 @@
+<resources>
+    <string name="app_name">Logística do Estaleiro</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_lang_fr">Francês</string>
+    <string name="action_lang_pt">Português</string>
+    <string name="action_lang_en">Inglês</string>
+
+    <string name="menu_logout">Sair</string>
+    <string name="menu_about">Sobre</string>
+    <string name="menu_contact">Contactos</string>
+    <string name="menu_empresa">Empresa</string>
+    <string name="menu_home">Pag. Inicial</string>
+    <string name="menu_share">Partilhar</string>
+    <string name="menu_visit_us">Visite-nos</string>
+    <string name="menu_privacy_policy">Politica de Privacidade</string>
+    <string name="menu_terms_of_use">Termos de Utilização</string>
+    <string name="menu_attendance_title">Presenças</string>
+    <string name="menu_attendance_log_extra">Registo excepcional</string>
+    <string name="menu_attendance_log_end_day">Encerrar o dia</string>
+    <string name="menu_site_title">Estaleiro</string>
+    <string name="menu_site_journal">Jornal diário</string>
+    <string name="menu_site_qtd">Auto de medição</string>
+    <string name="menu_site_bordereau">Tarefas de trabalho</string>
+    <string name="menu_site_project">Planos de projeto</string>
+    <string name="menu_regie_title">Regie</string>
+    <string name="menu_regie_add">Adicionar</string>
+    <string name="menu_regie_end">Terminar</string>
+    <string name="menu_livraison_title">Guias de Remessa</string>
+    <string name="menu_livraison_add">Adicionar nova</string>
+    <string name="menu_livraison_view">Ver registos</string>
+    <string name="menu_ocorrences_title">Ocorrências</string>
+    <string name="menu_ocorrences_add">Registar nova</string>
+    <string name="menu_ocorrences_view">Ver registos</string>
+    <string name="menu_utils_title">Utilitários</string>
+    <string name="menu_utils_calendar">Calendário</string>
+    <string name="menu_utils_weather">Info. meteorológica</string>
+    <string name="menu_utils_gallery">Galleria de fotos</string>
+    <string name="menu_utils_sync">Sincronizar com o escritório</string>
+
+    <string name="error_title">Erro</string>
+    <string name="error_download_photo">Erro ao efetuar download da foto</string>
+    <string name="error_upload_photo">Erro ao efetuar upload da foto</string>
+    <string name="error_file_not_found">Ficheiro não encontrado</string>
+    <string name="error_write_file">Erro ao gravar ficheiro</string>
+    <string name="error_no_data">Pacote de dados vazio</string>
+    <string name="error_ivalid_data">Pacote de dados inválidos</string>
+    <string name="error_ivalid_url">url inválido</string>
+    <string name="error_nfc_disabled">NFC está desativado</string>
+    <string name="error_nfc_not_supported">Este dispositivo não suporta NFC</string>
+    <string name="error_nfc_ask">ativar o NFC nas definicoes?</string>
+    <string name="error_location_disabled">Necessita de activar a localizaçao</string>
+    <string name="error_unable_get_location">Não foi possivel obter a localizaçao. Tente passar o cartao novamente.</string>
+    <string name="error_update_msg">Existe uma nova versão da App. Carregue em continuar para instalar.</string>
+    <string name="error_update_available">Atualização Disponivel</string>
+    <string name="error_session_expired">Sessão expirou</string>
+    <string name="error_no_camera">Erro ao iniciar a Camera fotografica</string>
+    <string name="error_not_today_date">A data seleccionada é diferente da do dia de hoje. Quer continuar?</string>
+    <string name="error_http_url_invalid">Erro ao analisar o URL de destino</string>
+    <string name="error_http_open_connection">Erro ao abrir a conexão ao servidor</string>
+    <string name="error_http_request_type">Erro ao definir conn. request type</string>
+    <string name="error_http_preparing_data">Erro ao preparar dados para enviar</string>
+    <string name="error_http_loading_file">Erro ao carregar o arquivo</string>
+    <string name="error_http_response">Erro de resposta do servidor</string>
+    <string name="error_http_loading_response">Erro ao carregar do servidor</string>
+    <string name="error_no_network">Internet não disponível. tente mais tarde.</string>
+    <string name="error_message_box_not_found">Erro ao carregar as mensagens</string>
+
+    <string name="alertbox_yes">Sim</string>
+    <string name="alertbox_continue">Continuar</string>
+    <string name="alertbox_cancel">Cancelar</string>
+    <string name="alertbox_title_question">Questão</string>
+    <string name="alertbox_title_notice">Aviso</string>
+    <string name="alertbox_title_result">Resultado</string>
+    <string name="alertbox_title_confirm">Confirmação</string>
+    <string name="alertbox_photo_del_msg">Tem a certeza que quer eliminar a photo da lista?</string>
+    <string name="alertbox_photo_del_msg_db">Tem a certeza que quer eliminar a photo no sistema?</string>
+    <string name="alertbox_add_selected_photo_msg">Adicionar fotos selecionadas na galeria?</string>
+    <string name="alertbox_need_select_item">Tem que escdolher um registo</string>
+    <string name="alertbox_resume_previous_text">Continuar com a edição anterior?</string>
+    <string name="alertbox_discard_changes">todas as alterações serão perdidas</string>
+
+    <string name="button_send_request">Enviar pedido</string>
+    <string name="button_send">Enviar</string>
+
+    <string name="commServer_error">Erro ao ligar ao servidor!</string>
+    <string name="commServer_check_internet">Verifique a ligação à internet e tente novamente</string>
+    <string name="commServer_connect_title_msg">aguarde um momento...</string>
+    <string name="commServer_connect_msg">a ligar ao servidor</string>
+    <string name="commServer_download_ok">Download efetuado</string>
+    <string name="commServer_submit_error">Erro ao submeter o pedido</string>
+    <string name="commServer_submit_ok">Pedido submetido com sucesso</string>
+
+    <string name="sendData_added_queue">Adicionado à fila de espera</string>
+    <string name="sendData_missing_queue">Falta registro da fila de espera</string>
+    <string name="sendData_missing_fields">Falta adicionar campos à fila de espera</string>
+    <string name="sendData_error_encrypt_data">Erro ao criptografar dados</string>
+    <string name="sendData_error_decrypt_data">Erro ao descriptografar dados</string>
+    <string name="sendData_error_ivector">os dados não podem ser validados (incompatibilidade iv)</string>
+
+    <string name="login_not_on_site">Não se encontra na Obra</string>
+    <string name="login_select_section">Seleccione uma secção na Obra</string>
+    <string name="login_subtitle_foreman">Ecarregado de Obra</string>
+
+    <string name="info_distance">Distância</string>
+    <string name="fragment_list_select_one">Tem que seleccionar um registo primeiro</string>
+
+    <string name="fragment_log_attendance_title">Registo de presenças</string>
+    <string name="fragment_log_attendance_description">Registo de presenças</string>
+    <string name="fragment_log_attendance_name">Nome</string>
+    <string name="fragment_log_attendance_info_message">Apresente Cartão</string>
+    <string name="fragment_log_attendance_checkin">Check-in:</string>
+    <string name="fragment_log_attendance_checkout">Checkout:</string>
+    <string name="fragment_log_attendance_no_checkin">w/ check-in</string>
+    <string name="fragment_log_attendance_no_checkout">w/ checkout</string>
+    <string name="fragment_log_attendance_morning_message">Cada trabalhador necessita de apresentar seu cartão pessoal de empresa antes de iniciar os trabalhos no estaleiro. Não peça o cartão de empresa aos trabalhadores! Em vez disso, entregue o tablet a cada trabalhador para iniciar o registro de presença em</string>
+
+    <string name="fragment_regie_start_title">Dar inicio à Regie</string>
+    <string name="fragment_regie_start_description">Dar inicio à Regie</string>
+    <string name="fragment_regie_start_select_worker">Tem que seleccionar um trabalhador primeiro</string>
+    <string name="fragment_regie_start_present_card_title">passe o cartão...</string>
+    <string name="fragment_regie_start_present_card_message">passe o cartão do Engenheiro</string>
+
+    <string name="fragment_regie_end_title">Terminar trabalho à Regie</string>
+    <string name="fragment_regie_end_description">Terminar trabalho à Regie</string>
+    <string name="fragment_regie_end_start_hour">Hora de Inicio</string>
+    <string name="fragment_regie_end_notes">Apontamentos</string>
+    <string name="fragment_regie_end_confirm_msg">Tem a certeza que pertende encerrar</string>
+    <string name="fragment_regie_end_select_regie">Tem que selecionar uma regie a decorrer</string>
+
+    <string name="fragment_regie_view_title">Editar notas - Regie</string>
+    <string name="fragment_regie_view_description">Editar notas - Regie</string>
+    <string name="fragment_regie_view_hour_start">Inicio:</string>
+    <string name="fragment_regie_view_hour_end">Fim:</string>
+    <string name="fragment_regie_view_added">Nota registada na base de dados</string>
+    <string name="fragment_regie_view_missing_description">necessita de indicar uma descrição</string>
+
+    <string name="fragment_calendar_title">Calendário</string>
+    <string name="fragment_calendar_selected_date">Data seleccionada</string>
+    <string name="fragment_calendar_saved_date">Data guardada</string>
+
+    <string name="weather_error_location">Erro ao obter a localização para inf. meteorológica</string>
+    <string name="weather_temp_max">Máximo</string>
+    <string name="weather_temp_min">Minimo</string>
+    <string name="weather_error">Erro ao obter inf. meteorológica</string>
+
+    <string name="fragment_weather_title">O tempo que faz hoje</string>
+    <string name="fragment_weather_city">Não existe informação disponivel</string>
+    <string name="fragment_weather_temp">Temperatura:</string>
+    <string name="fragment_weather_pressure">Pressão:</string>
+    <string name="fragment_weather_humidity">Humidade:</string>
+    <string name="fragment_weather_wind">Vento:</string>
+    <string name="fragment_weather_wind_direction">Direção:</string>
+    <string name="fragment_weather_sunrise">Nascer do Sol:</string>
+    <string name="fragment_weather_sunset">Por do Sol:</string>
+
+    <string name="fragment_occurrences_view_title">Ocorências / Acidentes em obra</string>
+    <string name="fragment_occurrences_view_code">Código</string>
+    <string name="fragment_occurrences_view_date">Data</string>
+    <string name="fragment_occurrences_view_description">Descrição</string>
+
+    <string name="fragment_occurrences_add_title">Ocorências / Acidentes em obra</string>
+    <string name="fragment_occurrences_add_description">Descrição</string>
+    <string name="fragment_occurrences_do_translation">traduzir o texto</string>
+    <string name="fragment_occurrences_error_translating">Erro ao traduzir o texto. Tente novamente.</string>
+    <string name="fragment_occurrences_add_missing_description">Tem que introduzir uma descrição da ocorrência</string>
+    <string name="fragment_occurrences_add_added">Ocorrência registada na base de dados...a adicionar fotos...aguarde.</string>
+    <string name="fragment_occurrences_add_error_photo">Erro ao criar foto. Tem espaço disponível no tablet?</string>
+    <string name="fragment_occurrences_add_submit_ok">Ocorrência registada com sucesso</string>
+    <string name="fragment_occurrences_add_btn_translate">Traduzir</string>
+    <string name="fragment_occurrences_add_btn_addphoto">Adicionar foto</string>
+    <string name="fragment_occurrences_add_btn_editphoto">Alterar foto</string>
+    <string name="fragment_occurrences_add_btn_delphoto">Apagar foto</string>
+
+    <string name="fragment_view_photo_tittle">Visualizar foto</string>
+    <string name="fragment_view_photo_not_found">Foto não encontrada</string>
+
+    <string name="fragment_gallery_title">Galeria de Fotos</string>
+    <string name="fragment_gallery_photos">Fotos</string>
+    <string name="fragment_gallery_take_photo">Tirar Foto</string>
+
+    <string name="fragment_album_title">Album</string>
+
+    <string name="fragment_livraison_add_missing_refdoc">Tem que indicar a referência do documento</string>
+    <string name="fragment_livraison_add_missing_material">Tem que indicar qual o material recebido em obra</string>
+    <string name="fragment_livraison_add_missing_qtd">Tem que indicar uma quantidade</string>
+    <string name="fragment_livraison_add_added">Documento registado na base de dados...a adicionar fotos...aguarde.</string>
+    <string name="fragment_livraison_add_submit_ok">Documento registado com sucesso</string>
+    <string name="fragment_livraison_add_title">Recepção de material em obra</string>
+    <string name="fragment_livraison_add_description">Recepção de material em obra</string>
+    <string name="fragment_livraison_add_ref">Ref. documento</string>
+    <string name="fragment_livraison_add_material">Tipo de materiais</string>
+    <string name="fragment_livraison_add_outro">Outro</string>
+    <string name="fragment_livraison_add_qtd">Quantidade</string>
+    <string name="fragment_livraison_add_notes">Notas</string>
+
+    <string name="fragment_livraison_view_title">Guia de Remessa</string>
+    <string name="fragment_livraison_view_description">Guia de Remessa</string>
+    <string name="fragment_livraison_view_code">Código</string>
+    <string name="fragment_livraison_view_date">Data</string>
+    <string name="fragment_livraison_view_material">Material recebido</string>
+    <string name="fragment_livraison_view_units">Unid</string>
+    <string name="fragment_livraison_view_qtd">Qtd</string>
+
+    <string name="fragment_journal_title">Diário de obra</string>
+    <string name="fragment_journal_description">Diário de obra</string>
+    <string name="fragment_journal_btn_qtd">Editar Qtds</string>
+    <string name="fragment_journal_btn_regie">Editar Régie</string>
+    <string name="fragment_journal_btn_bordereau">Editar tarefas</string>
+    <string name="fragment_journal_no_weather">Inf. de tempo não disponível</string>
+    <string name="fragment_journal_categories">Ver por categoria</string>
+    <string name="fragment_journal_workers">ver por trabalhador</string>
+    <string name="fragment_journal_add_entry">Adicionar entrada no diário</string>
+    <string name="fragment_journal_site">na obra</string>
+    <string name="fragment_journal_select_worker">Tem que selecionar um trabalhador/categoria</string>
+
+    <string name="fragment_journal_add_note_title">Nota</string>
+    <string name="fragment_journal_add_photos_title">Fotos para o registo selecionado</string>
+    <string name="fragment_journal_add_title">Editar diário</string>
+    <string name="fragment_journal_add_description">Editar diário</string>
+    <string name="fragment_journal_add_missing_description">Tem que indicar algo</string>
+    <string name="fragment_journal_add_added">Entrada no diário registada com sucesso ... a adicionar fotos ... um momento</string>
+    <string name="fragment_journal_add_submit_ok">Entrada no diário registada com sucesso </string>
+    <string name="fragment_journal_add_new_entry">Adicionar entrada no Diário</string>
+
+    <string name="fragment_bordereau_view_title">Tarefas</string>
+    <string name="fragment_bordereau_view_description">Tarefas</string>
+    <string name="fragment_bordereau_view_missing_name">Necessita de indicar um nome para a tarefa</string>
+    <string name="fragment_bordereau_view_new_task">Nova tarefa</string>
+    <string name="fragment_bordereau_view_new_task_msg">Indique um nome e selecione as unidades</string>
+    <string name="fragment_bordereau_view_add_avenant_ok">Alteração adicionada com sucesso</string>
+    <string name="fragment_bordereau_view_only_avenant">Apenas pode adicionar novas tarefas</string>
+    <string name="bordereau_view_code">Código</string>
+    <string name="bordereau_view_activity">Tarefa</string>
+    <string name="bordereau_view_units">Unid</string>
+    <string name="bordereau_view_total">Total</string>
+    <string name="bordereau_view_done">Feito</string>
+    <string name="bordereau_view_todo">Falta</string>
+    <string name="bordereau_view_values_percentages">Ver em percentagem</string>
+    <string name="bordereau_view_values_normal">Ver montantes</string>
+    <string name="bordereau_view_task_name">Nome da tarefa</string>
+
+    <string name="fragment_quantity_view_title">Auto de medição</string>
+    <string name="fragment_quantity_view_description">Auto de medição</string>
+    <string name="fragment_quantity_view_date">Data</string>
+    <string name="fragment_quantity_view_code">Código</string>
+    <string name="fragment_quantity_view_activity">Tarefa</string>
+    <string name="fragment_quantity_view_qtd">Qtd</string>
+    <string name="fragment_quantity_view_workers">Trab.</string>
+
+    <string name="fragment_quantity_add_title">Adicionar Auto de medição</string>
+    <string name="fragment_quantity_add_description">Adicionar Auto de medição</string>
+    <string name="fragment_quantity_add_submit_ok">Auto de medição gravado com sucesso</string>
+
+    <string name="fragment_project_view_title">Planos de projeto</string>
+    <string name="fragment_project_view_description">Planos de projeto</string>
+
+    <string name="toast_lang_select">Língua já seleccionada!</string>
+
+    <string name="prompt_worker_code">ID do trabalhador</string>
+    <string name="action_sign_in">Autenticar</string>
+    <string name="action_sign_in_short">Autenticar</string>
+    <string name="welcome">"Bem-vindo! "</string>
+    <string name="invalid_username">ID inválido</string>
+    <string name="login_failed">"Falhou a autenticação"</string>
+    <string name="login_activity_input_id">Introduza o seu ID </string>
+    <string name="login_activity_nfc">Apresente o cartão de empresa</string>
+    <string name="loading">aguarde um momento...</string>
+
+    <string name="update_required">Necessita de atualizar a App</string>
+    <string name="update_check">A verificar a versão da App ...</string>
+    <string name="update_ok">Tem a versão mais recente da App</string>
+
+
+
+    <string name="share_title">Quality Construction</string>
+    <string name="share_message">Hey Friend, checkout this awesome construction site: http://www.qualityconstruction.be</string>
+    <string name="share_via">Partilhar com</string>
+
+    <string name="fragment_about_registered_to">Esta App é de demonstracao </string>
+    <string name="fragment_about_developer">App desenvolvida e mantida por Miguel Silva &#169; 2019</string>
+    <string name="fragment_about_contact">mtpsilva@icloud.com</string>
+    <string name="fragment_about_download">Pode fazer download da versão mais recente em \n http://www.sitelogistics.construction</string>
+    <string name="fragment_about_version">Versão</string>
+    <string name="fragment_about_title">Sobre</string>
+    <string name="fragment_about_email_choose">Escolha cliente de email</string>
+    <string name="fragment_about_email_subject">Email de contacto da App</string>
+    <string name="fragment_about_email_message">Bom dia, \n Quero contacta-lo ... \n Cumprimentos, o seu nome </string>
+    <string name="fragment_about_testers">Equipa de testes e debug</string>
+
+    <string name="fragment_contacts_title">Contactos</string>
+    <string name="fragment_contacts_eg_title">Encarregado Geral</string>
+    <string name="fragment_contacts_eg_mobile">Telemóvel: +32 0 479 13 55 76</string>
+    <string name="fragment_contacts_eg_email">joseazevedo@qualityconstruction.be</string>
+    <string name="fragment_contacts_eg_name">José Azevedo</string>
+
+    <string name="fragment_contacts_ec_title">Engenharia</string>
+    <string name="fragment_contacts_ec_mobile">Telemóvel: +32 0 474 28 69 01</string>
+    <string name="fragment_contacts_ec_email">miguelsilva@qualityconstruction.be</string>
+    <string name="fragment_contacts_ec_name">Miguel Silva</string>
+
+    <string name="fragment_contacts_sf_title">Segurança &amp; formação</string>
+    <string name="fragment_contacts_sf_mobile">Telemóvel: +32 0 475 31 89 98</string>
+    <string name="fragment_contacts_sf_email">marcelobessa@qualityconstruction.be</string>
+    <string name="fragment_contacts_sf_name">Marcelo Bessa</string>
+
+    <string name="fragment_contacts_ag_title">Administradora geral</string>
+    <string name="fragment_contacts_ag_mobile">Telemóvel: +32 0 479 13 55 26</string>
+    <string name="fragment_contacts_ag_email">anaguedes@qualityconstruction.be</string>
+    <string name="fragment_contacts_ag_name">Ana Guedes</string>
+
+    <string name="fragment_home_title">Bem vindo</string>
+    <string name="fragment_privacy_title">Privacidade</string>
+    <string name="fragment_terms_title">Termos de Utilização</string>
+
+    <string name="message_box_title">Mensagem do escritório</string>
+</resources>

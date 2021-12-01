@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/fragment_regie_view_save_btn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:srcCompat="@drawable/save" />
+
+        <ImageView
+            android:id="@+id/fragment_regie_view_calendar"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginEnd="4dp"
+            android:src="@drawable/calendar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/calendar" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/fragment_regie_view_list"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:background="@drawable/list_border"
+            app:layout_constraintBottom_toTopOf="@+id/fragment_regie_view_save_btn"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHeight_percent="1.0"
+            app:layout_constraintTop_toBottomOf="@+id/fragment_regie_view_calendar"
+            app:layout_constraintWidth_percent=".60" />
+
+        <EditText
+            android:id="@+id/fragment_regie_view_notes"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:background="@drawable/list_border"
+            android:ems="10"
+            android:gravity="top|left"
+            android:imeOptions="actionDone"
+            android:inputType="textMultiLine"
+            android:lines="8"
+            android:maxLines="10"
+            android:minLines="4"
+            android:scrollbars="vertical"
+            app:layout_constraintBottom_toBottomOf="@+id/fragment_regie_view_list"
+            app:layout_constraintEnd_toStartOf="@+id/fragment_regie_view_list"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/fragment_regie_view_list" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:text="@string/fragment_regie_end_notes"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toTopOf="@+id/fragment_regie_view_notes"
+            app:layout_constraintStart_toStartOf="@+id/fragment_regie_view_notes" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

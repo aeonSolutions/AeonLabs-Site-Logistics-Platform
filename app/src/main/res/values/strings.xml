@@ -1,0 +1,418 @@
+<resources>
+    <string name="app_name">Construction Site Logistics</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_lang_fr">French</string>
+    <string name="action_lang_pt">Portuguese</string>
+    <string name="action_lang_en">English</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_about">About</string>
+    <string name="menu_contact">Contacts</string>
+    <string name="menu_empresa">Entreprise</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_visit_us">Visit us</string>
+    <string name="menu_privacy_policy">Privacy Policy</string>
+    <string name="menu_terms_of_use">Terms of Use</string>
+    <string name="menu_attendance_title">Worker\'s activity</string>
+    <string name="menu_attendance_log_extra">Start the day </string>
+    <string name="menu_attendance_log_end_day">Close the day</string>
+    <string name="menu_site_title">Construction Site</string>
+    <string name="menu_site_journal">Journal</string>
+    <string name="menu_site_qtd">Work Production</string>
+    <string name="menu_site_bordereau">Work Tasks</string>
+    <string name="menu_site_project">Project plans</string>
+    <string name="menu_regie_title">Unscheduled Work</string>
+    <string name="menu_regie_planned">Planned for today</string>
+    <string name="menu_regie_add">Start works</string>
+    <string name="menu_regie_end">End works</string>
+    <string name="menu_livraison_title">Delivery</string>
+    <string name="menu_livraison_planned">Planned for today</string>
+    <string name="menu_livraison_add">Add new document</string>
+    <string name="menu_livraison_view">View documents logged</string>
+    <string name="menu_ocorrences_title">Occurrences</string>
+    <string name="menu_ocorrences_add">Add new occurrence</string>
+    <string name="menu_ocorrences_view">View occurrences logged</string>
+    <string name="menu_messages_title">Message Center</string>
+    <string name="menu_messages_engineer">Engineer on site</string>
+    <string name="menu_messages_office">Office</string>
+    <string name="menu_warehouse_title">Warehouse</string>
+    <string name="menu_hardware_title">Hardware</string>
+    <string name="menu_consumables_title">DIY materials</string>
+    <string name="menu_clothes_title">Clothes and Protection</string>
+
+    <string name="menu_utils_title">Utilities</string>
+    <string name="menu_utils_calendar">Calendar</string>
+    <string name="menu_utils_weather">Weather</string>
+    <string name="menu_utils_gallery">Photo Gallery</string>
+    <string name="menu_utils_sync">Synchronize with Office</string>
+
+    <string name="login_not_on_site">You are not at the construction site</string>
+    <string name="login_select_section">Select one section at the construction site</string>
+    <string name="login_subtitle_foreman">Foreman</string>
+
+    <string name="info_distance">Distance</string>
+    <string name="fragment_list_select_one">You need to select a record first</string>
+
+    <string name="toast_lang_select">Language already selected!</string>
+
+    <string name="prompt_worker_code">Worker ID</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome! "</string>
+    <string name="invalid_username">Not a valid ID</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_activity_input_id" >Type in your worker ID</string>
+    <string name="login_activity_nfc" >Pass Company Card</string>
+    <string name="loading">Loading...</string>
+
+    <string name="update_required">You need to update the App</string>
+    <string name="update_check">Checkin App version ...</string>
+    <string name="update_ok">You have the latest version </string>
+
+    <string name="error_title">Error</string>
+    <string name="error_download_photo">Error downloading Photo</string>
+    <string name="error_upload_photo">Error uploading Photo</string>
+    <string name="error_file_not_found">File not found</string>
+    <string name="error_write_file">Error writing file</string>
+    <string name="error_no_data">No data received</string>
+    <string name="error_ivalid_data">Invalid data received</string>
+    <string name="error_ivalid_url">Invalid url</string>
+    <string name="error_nfc_disabled">NFC is disabled</string>
+    <string name="error_nfc_not_supported">NFC is not supported</string>
+    <string name="error_nfc_ask">Enable NFC in settings?</string>
+    <string name="error_location_disabled">you need to enable location</string>
+    <string name="error_unable_get_location">Não foi possivel obter a localizaçao. Tente passar o cartao novamente.</string>
+    <string name="error_update_msg">There\'s a new version of the App. Click continue to install.</string>
+    <string name="error_update_available">Update available</string>
+    <string name="error_session_expired">Sessão expirou</string>
+    <string name="error_no_camera">Erro ao iniciar a Camera fotografica</string>
+    <string name="error_not_today_date">Selected date is different from today date. Do you want to continue?</string>
+    <string name="error_http_url_invalid">Error parsing destination url</string>
+    <string name="error_http_open_connection">Error opening connection</string>
+    <string name="error_http_request_type">Error setting conn. request type</string>
+    <string name="error_http_preparing_data">Error on preparing data to send</string>
+    <string name="error_http_loading_file">Error loading file</string>
+    <string name="error_http_response">Response error from server</string>
+    <string name="error_http_loading_response">Error loading from server</string>
+    <string name="error_no_network">Internet not available. try again later.</string>
+    <string name="error_message_box_not_found">Error loading messages</string>
+
+    <string name="alertbox_yes">Yes</string>
+    <string name="alertbox_continue">Continue</string>
+    <string name="alertbox_cancel">Cancel</string>
+    <string name="alertbox_keep_current_date">Keep date</string>
+    <string name="alertbox_change_today">Change to today</string>
+
+    <string name="alertbox_title_question">Question</string>
+    <string name="alertbox_title_notice">Warning</string>
+    <string name="alertbox_title_result">Result</string>
+    <string name="alertbox_title_confirm">Confirmation</string>
+    <string name="alertbox_photo_del_msg">Are you sure you want to remove the photo from the list?</string>
+    <string name="alertbox_photo_del_msg_db">Are you sure you want to delete the photo from the system?</string>
+    <string name="alertbox_add_selected_photo_msg">Add gallery selected photos ?</string>
+    <string name="alertbox_need_select_item">You need to select a record</string>
+    <string name="alertbox_resume_previous_text">Continue with previous editing?</string>
+    <string name="alertbox_discard_changes">you will lose all changes</string>
+    <string name="alertbox_question_retry">Do you want to try again ?</string>
+
+    <string name="button_send_request">Send request</string>
+    <string name="button_send">Send</string>
+    <string name="button_close">Close</string>
+    <string name="button_continue">Continue</string>
+
+    <string name="commServer_error">Error contacting server!</string>
+    <string name="commServer_check_internet">Check your internet connection and try again</string>
+    <string name="commServer_connect_title_msg">Loading...</string>
+    <string name="commServer_connect_msg">Contacting server</string>
+    <string name="commServer_download_ok">Downloaded sucessfully</string>
+    <string name="commServer_submit_error">Error on submitting request</string>
+    <string name="commServer_submit_ok">Request submitted successfully</string>
+    <string name="commServer_retry">no network. Retrying in</string>
+
+    <string name="sendData_added_queue">Added to Queue</string>
+    <string name="sendData_missing_queue">Queue record is missing</string>
+    <string name="sendData_missing_fields">Queue Fields record is missing</string>
+    <string name="sendData_error_encrypt_data">Error Encrypting Data</string>
+    <string name="sendData_error_decrypt_data">Error Decrypting Data</string>
+    <string name="sendData_error_ivector">data cannot be validated (iv mismatch)</string>
+
+    <string name="nfc_message_write_error">Error Writing Message !</string>
+    <string name="nfc_message_read_error">Error reading card</string>
+    <string name="nfc_message_read_auth_error">Data on card is corrupted. Contact the office to replace the card.</string>
+    <string name="nfc_message_write_success">Successfully written to Tag !</string>
+    <string name="nfc_message_write_progress">Writing to Tag..</string>
+    <string name="nfc_message_tag_detected">NFC Tag Detected !</string>
+    <string name="nfc_message_read_tag">Read from NFC Tag</string>
+    <string name="nfc_message_write_tag">Write to NFC Tag</string>
+    <string name="nfc_message_tap_tag">Tap the NFC Tag to your device !</string>
+    <string name="nfc_hint_message">Message</string>
+    <string name="fragment_nfc_pass_card_title">Pass Company Card</string>
+    <string name="fragment_nfc_pass_card_again_title">Pass Company Card again</string>
+    <string name="nfc_message_try_again">try again...</string>
+    <string name="nfc_message_initialize_new_card">Initializing card...</string>
+    <string name="nfc_message_card_not_writeable">(no memory on card)</string>
+
+    <string name="nfcNotSupportedErrorTitle">NFC Not Supported</string>
+    <string name="nfcNotSupportedError">This device does not support NFC.</string>
+    <string name="nfcDisabledErrorTitle">NFC Disabled</string>
+    <string name="nfcDisabledError">This device supports NFC, but it is disabled. Enable it in the device\'s settings.</string>
+    <string name="nfcReadOnlyErrorTitle">NFC Read Only</string>
+    <string name="nfcReadOnlyError">The NFC tag is read only.</string>
+    <string name="nfcFormattingErrorTitle">Formatting Error</string>
+    <string name="nfcFormattingError">There was an error formatting the NFC tag.</string>
+    <string name="nfcTagLostErrorTitle">Tag Lost</string>
+    <string name="nfcTagLostError">The tag was lost or pulled away while writing to it.</string>
+    <string name="nfcNoNdefErrorTitle">Invalid Tag</string>
+    <string name="nfcNoNdefError">The NFC tag does not support NDEF format.</string>
+    <string name="nfcBadSpaceErrorTitle">Not Enough Space</string>
+    <string name="nfcBadSpaceError">The NFC tag cannot hold the amount of data required.</string>
+    <string name="nfcUnknownErrorTitle">Unknown Error :(</string>
+    <string name="nfcUnknownError">An unknown error occurred while writing to the NFC tag.</string>
+    <string name="nfcEmptyCard">Card has no data</string>
+
+    <string name="fragment_qrcode_title">Construction site QR code</string>
+
+    <string name="fragment_hardware_title">Hardware</string>
+    <string name="fragment_hardware_description">Name or designation of the Hardware</string>
+    <string name="frgment_hardware_state_title">State of conservation</string>
+    <string name="fragment_hardware_checkbox_working">In working condition</string>
+    <string name="fragment_hardware_checkbox_broken">Broken condition</string>
+    <string name="fragment_hardware_checkbox_stolen">Missing on site</string>
+    <string name="fragment_hardware_designation_title">Hardware</string>
+    <string name="fragment_hardware_submit_ok">Hardware entry successfully saved </string>
+    <string name="fragment_hardware_missing_designation">Hardware missing designation name</string>
+    <string name="fragment_hardware_missing_state_conservation">Hardware missing state of conservation</string>
+    <string name="fragment_hardware_missing_request">Missing request new Tool or hardware</string>
+    <string name="fragment_hardware_checkbox_order_one">Order new one</string>
+    <string name="fragment_hardware_checkbox_delivered_one">delivered</string>
+    <string name="fragment_hardware_table_title_designation">Designation</string>
+    <string name="fragment_hardware_table_title_state">State</string>
+    <string name="fragment_hardware_table_title_worker">Assigned to</string>
+    <string name="fragment_hardware_table_title_requested">Requested</string>
+
+    <string name="fragment_materials_diy_title">Do it yourself materials</string>
+    <string name="fragment_materials_diy_description">Do it yourself materials</string>
+    <string name="frgment_materials_diy_stock_title">Existing Stock</string>
+    <string name="fragment_materials_diy_checkbox_order">Request more</string>
+    <string name="fragment_materials_diy_designation_title">DIY Material</string>
+    <string name="fragment_materials_diy_submit_ok">Diy material entry successfully saved </string>
+    <string name="fragment_materials_diy_missing_designation">DIY material missing designation name</string>
+    <string name="fragment_materials_diy_missing_stock_qty">Missing Stock Quantity</string>
+
+
+    <string name="fragment_materials_diy_missing_request">Missing request new Tool or hardware</string>
+    <string name="fragment_materials_diy_checkbox_order_one">Order new one</string>
+    <string name="fragment_materials_diy_checkbox_delivered_one">delivered</string>
+    <string name="fragment_materials_diy_table_title_designation">Designation</string>
+    <string name="fragment_materials_diy_table_title_state">State</string>
+    <string name="fragment_materials_diy_table_title_worker">Assigned to</string>
+    <string name="fragment_materials_diy_table_title_requested">Requested</string>
+
+    <string name="fragment_calendar_title">Calendar</string>
+    <string name="fragment_calendar_selected_date">Date selected</string>
+    <string name="fragment_calendar_saved_date">Date saved</string>
+
+    <string name="weather_error_location">Error getting location for meteo</string>
+    <string name="weather_temp_max">Maximum</string>
+    <string name="weather_temp_min">Minimum</string>
+    <string name="weather_error">Error getting meteo info</string>
+
+    <string name="fragment_weather_title">Today\'s weather</string>
+    <string name="fragment_weather_city">info not available</string>
+    <string name="fragment_weather_temp">Temperature:</string>
+    <string name="fragment_weather_pressure">Pressure:</string>
+    <string name="fragment_weather_humidity">Humidity:</string>
+    <string name="fragment_weather_wind">Wind:</string>
+    <string name="fragment_weather_wind_direction">Direction:</string>
+    <string name="fragment_weather_sunrise">Sun rise:</string>
+    <string name="fragment_weather_sunset">Sun set:</string>
+
+    <string name="fragment_view_photo_tittle">View photo</string>
+    <string name="fragment_view_photo_not_found">Photo not found</string>
+    <string name="fragment_photos_title">Photos for the selected entry</string>
+    <string name="fragment_gallery_title">Galleria</string>
+    <string name="fragment_gallery_photos">Photos</string>
+    <string name="fragment_gallery_take_photo">Take Photo</string>
+
+    <string name="fragment_album_title">Album</string>
+
+    <string name="fragment_log_attendance_title">Log Attendance</string>
+    <string name="fragment_log_attendance_view_card_data_title">Records on Card</string>
+    <string name="fragment_log_attendance_description">Log Attendance</string>
+    <string name="fragment_log_attendance_name">Name</string>
+    <string name="fragment_log_attendance_info_message">To begin the attendance register process click on the bottom button "start register"</string>
+    <string name="fragment_log_attendance_checkin">CheckIn:</string>
+    <string name="fragment_log_attendance_checkout">CheckOut:</string>
+    <string name="fragment_log_attendance_no_checkin">w/ checkin</string>
+    <string name="fragment_log_attendance_no_checkout">w/ checkout</string>
+    <string name="fragment_log_attendance_morning_message">Each worker has to present its personal company card before begin works at the construction site. Do not ask for the workers company card! Instead Give the tablet to each worker to begin attendance logging at </string>
+    <string name="fragment_log_attendance_start_card_record">Register with Card</string>
+    <string name="fragment_log_attendance_view_card_records">View attendance records stored on worker\'s card</string>
+    <string name="fragment_log_attendance_start_qrcode">Register with QR Code</string>
+
+    <string name="fragment_regie_start_title">Start work at regie</string>
+    <string name="fragment_regie_start_description">Start work at regie</string>
+    <string name="fragment_regie_start_select_worker">You need to select a worker first</string>
+    <string name="fragment_regie_start_present_card_title">pass card...</string>
+    <string name="fragment_regie_start_present_card_message">pass Engineer\'s card</string>
+
+    <string name="fragment_regie_end_title">Finalize work at regie</string>
+    <string name="fragment_regie_end_description">Finalize work at regie</string>
+    <string name="fragment_regie_end_start_hour">Start time</string>
+    <string name="fragment_regie_end_notes">Notes</string>
+    <string name="fragment_regie_end_confirm_msg">Are you sure you want to close </string>
+    <string name="fragment_regie_end_select_regie">You need to select ongoing work at regie</string>
+
+    <string name="fragment_regie_view_title">Edit notes on Regie works</string>
+    <string name="fragment_regie_view_description">Edit notes on Regie works</string>
+    <string name="fragment_regie_view_hour_start">Start:</string>
+    <string name="fragment_regie_view_hour_end">End:</string>
+    <string name="fragment_regie_view_added">Note entry registered on the database</string>
+    <string name="fragment_regie_view_missing_description">You need to type a description</string>
+
+    <string name="fragment_occurrences_view_title">Occurences / Work accidents</string>
+    <string name="fragment_occurrences_view_code">Code</string>
+    <string name="fragment_occurrences_view_date">Date</string>
+    <string name="fragment_occurrences_view_description">Description</string>
+    <string name="fragment_occurrences_add_title">Occurences / Work accidents</string>
+    <string name="fragment_occurrences_add_description">Description</string>
+    <string name="fragment_occurrences_do_translation">translate text</string>
+    <string name="fragment_occurrences_error_translating">Error translating text. Try again.</string>
+    <string name="fragment_occurrences_add_missing_description">You need to type a description of the occurence</string>
+    <string name="fragment_occurrences_add_added">Occurrence registed on the database...adding photos...one moment</string>
+    <string name="fragment_occurrences_add_error_photo">Error saving photo. Is there enough space on the device?</string>
+    <string name="fragment_occurrences_add_submit_ok">Occurence successfully saved </string>
+    <string name="fragment_occurrences_add_btn_translate">Translate</string>
+    <string name="fragment_occurrences_add_btn_addphoto">Add photo</string>
+    <string name="fragment_occurrences_add_btn_editphoto">Change foto</string>
+    <string name="fragment_occurrences_add_btn_delphoto">Delete foto</string>
+
+    <string name="fragment_livraison_add_missing_refdoc">You need to type a document reference</string>
+    <string name="fragment_livraison_add_missing_material">You need to type the material recieved</string>
+    <string name="fragment_livraison_add_missing_qtd">You need to type a quantitity</string>
+    <string name="fragment_livraison_add_added">Document registed on the database...adding photos...one moment</string>
+    <string name="fragment_livraison_add_submit_ok">Document successfully registed</string>
+    <string name="fragment_livraison_add_title">Reception of materials at site</string>
+    <string name="fragment_livraison_add_description">Reception of materials at site</string>
+    <string name="fragment_livraison_add_ref">Document reference</string>
+    <string name="fragment_livraison_add_material">Type of materials</string>
+    <string name="fragment_livraison_add_outro">Other</string>
+    <string name="fragment_livraison_add_qtd">Quantity</string>
+    <string name="fragment_livraison_add_notes">Notes</string>
+    <string name="fragment_livraison_view_title">Materials arrival on site</string>
+    <string name="fragment_livraison_view_description">Materials arrival on site</string>
+    <string name="fragment_livraison_view_code">Code</string>
+    <string name="fragment_livraison_view_date">Date</string>
+    <string name="fragment_livraison_view_material">Received materials</string>
+    <string name="fragment_livraison_view_units">Units</string>
+    <string name="fragment_livraison_view_qtd">Qtd</string>
+
+    <string name="fragment_journal_title">Journal</string>
+    <string name="fragment_journal_description">Journal</string>
+    <string name="fragment_journal_btn_qtd">Production</string>
+    <string name="fragment_journal_btn_regie">Unscheduled Works</string>
+    <string name="fragment_journal_btn_bordereau">Work Tasks</string>
+    <string name="fragment_journal_no_weather">weather info not available</string>
+    <string name="fragment_journal_categories">see by category</string>
+    <string name="fragment_journal_workers">see by worker</string>
+    <string name="fragment_journal_add_entry">Add Journal entry</string>
+    <string name="fragment_journal_site">on site</string>
+    <string name="fragment_journal_select_worker">You have to select a worker/category first</string>
+    <string name="fragment_journal_view_planning">view planning</string>
+    <string name="fragment_journal_view_journal">view journal</string>
+
+    <string name="fragment_journal_add_note_title">Annotations</string>
+    <string name="fragment_journal_add_title">Edit journal</string>
+    <string name="fragment_journal_add_description">Edit journal</string>
+    <string name="fragment_journal_add_missing_description">You need to type something</string>
+    <string name="fragment_journal_add_added">Journal entry registered on the database...adding photos...one moment</string>
+    <string name="fragment_journal_add_submit_ok">Journal entry successfully saved </string>
+    <string name="fragment_journal_add_new_entry">Add entry in Journal</string>
+
+    <string name="fragment_bordereau_view_title">Activity tasks</string>
+    <string name="fragment_bordereau_view_description">Activity tasks</string>
+    <string name="fragment_bordereau_view_missing_name">You need to type a name for the activity task</string>
+    <string name="fragment_bordereau_view_new_task">New activity task</string>
+    <string name="fragment_bordereau_view_new_task_msg">Type a name and select the correct units</string>
+    <string name="fragment_bordereau_view_add_avenant_ok">Amendment successfully added</string>
+    <string name="fragment_bordereau_view_only_avenant">you can only add new amendments</string>
+    <string name="bordereau_view_code">Code</string>
+    <string name="bordereau_view_activity">Activity task</string>
+    <string name="bordereau_view_units">Units</string>
+    <string name="bordereau_view_total">Total</string>
+    <string name="bordereau_view_done">Done</string>
+    <string name="bordereau_view_todo">ToDo</string>
+    <string name="bordereau_view_values_percentages">View as percentage</string>
+    <string name="bordereau_view_values_normal">View amounts</string>
+    <string name="bordereau_view_task_name">Task name</string>
+
+    <string name="fragment_quantity_view_title">Work production quantities</string>
+    <string name="fragment_quantity_view_description">Work production quantities</string>
+    <string name="fragment_quantity_view_date">Date</string>
+    <string name="fragment_quantity_view_code">Code</string>
+    <string name="fragment_quantity_view_activity">Activity task</string>
+    <string name="fragment_quantity_view_qtd">Qty</string>
+    <string name="fragment_quantity_view_workers">Workers</string>
+
+    <string name="fragment_quantity_add_title">Add work production quantities</string>
+    <string name="fragment_quantity_add_description">Work production quantities</string>
+    <string name="fragment_quantity_add_submit_ok">Work production quantity successfully saved</string>
+
+    <string name="fragment_project_view_title">Project plans</string>
+    <string name="fragment_project_view_description">Project plans</string>
+
+    <string name="share_title">Quality Construction</string>
+    <string name="share_message">Hey Friend, checkout this awesome construction site: http://www.qualityconstruction.be</string>
+    <string name="share_via">Share via</string>
+
+    <string name="fragment_about_registered_to">This App version is for demonstration purposes only</string>
+    <string name="fragment_about_developer">Developed and maintained by Miguel Silva &#169; 2019</string>
+    <string name="fragment_about_contact">mtpsilva@icloud.com</string>
+    <string name="fragment_about_download">You can download the latest version at \n http://www.sitelogistics.construction</string>
+    <string name="fragment_about_version">Version:</string>
+    <string name="fragment_about_serial" translatable="false">Tablet serial:</string>
+    <string name="fragment_about_title">About</string>
+    <string name="fragment_about_email_choose">Choose email client</string>
+    <string name="fragment_about_email_subject">Contact email from Construction App</string>
+    <string name="fragment_about_email_message">Hello, \n I want to contact you because ... \n Best regards, Your name </string>
+    <string name="fragment_about_testers">Application testers and debuggers</string>
+
+    <string name="fragment_contacts_title">Contacts</string>
+    <string name="fragment_contacts_eg_title">General manager</string>
+    <string name="fragment_contacts_eg_mobile">Mobile number: +32 0 479 13 55 76</string>
+    <string name="fragment_contacts_eg_email">joseazevedo@qualityconstruction.be</string>
+    <string name="fragment_contacts_eg_name">José Azevedo</string>
+
+    <string name="fragment_contacts_ec_title">Engineering</string>
+    <string name="fragment_contacts_ec_mobile">Mobile number: +32 0 474 28 69 01</string>
+    <string name="fragment_contacts_ec_email">miguelsilva@qualityconstruction.be</string>
+    <string name="fragment_contacts_ec_name">Miguel Silva</string>
+
+    <string name="fragment_contacts_sf_title">Safety &amp; Formation</string>
+    <string name="fragment_contacts_sf_mobile">Mobile number: +32 0 475 31 89 98</string>
+    <string name="fragment_contacts_sf_email">marcelobessa@qualityconstruction.be</string>
+    <string name="fragment_contacts_sf_name">Marcelo Bessa</string>
+
+    <string name="fragment_contacts_ag_title">General Administrator</string>
+    <string name="fragment_contacts_ag_mobile">Mobile number: +32 0 479 13 55 26</string>
+    <string name="fragment_contacts_ag_email">anaguedes@qualityconstruction.be</string>
+    <string name="fragment_contacts_ag_name">Ana Guedes</string>
+
+    <string name="fragment_home_title">Welcome</string>
+    <string name="fragment_privacy_title">Privacy</string>
+    <string name="fragment_terms_title">Terms of use</string>
+
+    <string name="message_box_title">Message from Office</string>
+
+    <string name="fragment_sync_title">Synchronize data</string>
+    <string name="fragment_sync_delete_all">Delete all</string>
+    <string name="fragment_sync_send_all">Send all</string>
+
+    <string name="fragment_common_annotations">Annotations</string>
+
+
+</resources>

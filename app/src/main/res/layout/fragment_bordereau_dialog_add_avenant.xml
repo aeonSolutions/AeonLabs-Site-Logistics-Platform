@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/task_dlg_bordereau"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top"
+        android:hint="@string/bordereau_view_task_name"
+        android:inputType="textMultiLine"
+        android:lines="3"
+        android:maxLines="3"
+        android:minLines="3"
+        android:scrollbars="vertical" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bordereau_view_units" />
+
+    <Spinner
+        android:id="@+id/units_dlg_bordereau"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="8dp"
+        android:background="#A4E9E6E6"
+        android:visibility="visible"
+        app:layout_constraintVertical_bias="0.0"
+        app:layout_constraintWidth_percent="0.25"
+        android:spinnerMode="dialog"/>
+
+</LinearLayout>

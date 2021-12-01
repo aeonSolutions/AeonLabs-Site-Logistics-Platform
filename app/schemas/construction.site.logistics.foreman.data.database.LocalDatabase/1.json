@@ -1,0 +1,170 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 1,
+    "identityHash": "4d903227a63f9ecf5e1dedb9b5d38200",
+    "entities": [
+      {
+        "tableName": "queue",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`CodQueue` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `Title` TEXT, `Description` TEXT, `MsgSuccess` TEXT, `MsgError` TEXT, `MsgType` TEXT, `Url` TEXT)",
+        "fields": [
+          {
+            "fieldPath": "CodQueue",
+            "columnName": "CodQueue",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "Title",
+            "columnName": "Title",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "Description",
+            "columnName": "Description",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "MsgSuccess",
+            "columnName": "MsgSuccess",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "MsgError",
+            "columnName": "MsgError",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "MsgType",
+            "columnName": "MsgType",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "Url",
+            "columnName": "Url",
+            "affinity": "TEXT",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [
+            "CodQueue"
+          ],
+          "autoGenerate": true
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "fields",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`CodField` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `CodQueue` INTEGER NOT NULL, `Name` TEXT, `Value` TEXT, `RequestVar` TEXT, `Type` TEXT)",
+        "fields": [
+          {
+            "fieldPath": "CodField",
+            "columnName": "CodField",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "CodQueue",
+            "columnName": "CodQueue",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "Name",
+            "columnName": "Name",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "Value",
+            "columnName": "Value",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "RequestVar",
+            "columnName": "RequestVar",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "Type",
+            "columnName": "Type",
+            "affinity": "TEXT",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [
+            "CodField"
+          ],
+          "autoGenerate": true
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "files",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`CodFile` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `CodQueue` INTEGER NOT NULL, `Filename` TEXT, `Url` TEXT, `Title` TEXT, `AppendCode` INTEGER)",
+        "fields": [
+          {
+            "fieldPath": "CodFile",
+            "columnName": "CodFile",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "CodQueue",
+            "columnName": "CodQueue",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "Filename",
+            "columnName": "Filename",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "Url",
+            "columnName": "Url",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "Title",
+            "columnName": "Title",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "AppendCode",
+            "columnName": "AppendCode",
+            "affinity": "INTEGER",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [
+            "CodFile"
+          ],
+          "autoGenerate": true
+        },
+        "indices": [],
+        "foreignKeys": []
+      }
+    ],
+    "views": [],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '4d903227a63f9ecf5e1dedb9b5d38200')"
+    ]
+  }
+}

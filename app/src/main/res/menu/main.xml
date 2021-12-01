@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#FFC700">
+    <item
+        android:id="@+id/action_lang_fr"
+        android:orderInCategory="100"
+        android:title="@string/action_lang_fr"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_lang_pt"
+        android:orderInCategory="100"
+        android:title="@string/action_lang_pt"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_lang_en"
+        android:orderInCategory="100"
+        android:title="@string/action_lang_en"
+        app:showAsAction="never" />
+</menu>

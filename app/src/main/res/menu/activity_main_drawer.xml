@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/journal"
+            android:title="@string/menu_home" />
+    </group>
+
+    <item android:title="@string/menu_warehouse_title">
+        <menu>
+            <item
+                android:id="@+id/nav_hardware"
+                android:icon="@drawable/hardware"
+                android:title="@string/menu_hardware_title" />
+            <item
+                android:id="@+id/nav_consumables"
+                android:icon="@drawable/screws_nuts"
+                android:title="@string/menu_consumables_title" />
+            <item
+                android:id="@+id/nav_clothes"
+                android:icon="@drawable/screws_nuts"
+                android:title="@string/menu_clothes_title" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_site_title">
+        <menu>
+            <item
+                android:id="@+id/nav_qtd"
+                android:icon="@drawable/quantities"
+                android:title="@string/menu_site_qtd" />
+            <item
+                android:id="@+id/nav_bordereau"
+                android:icon="@drawable/bordereau"
+                android:title="@string/menu_site_bordereau" />
+            <item
+                android:id="@+id/nav_project"
+                android:icon="@drawable/project"
+                android:title="@string/menu_site_project" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_regie_title">
+        <menu>
+            <item
+                android:id="@+id/nav_regie_planned"
+                android:icon="@drawable/calendar_menu_icon"
+                android:title="@string/menu_regie_planned" />
+            <item
+                android:id="@+id/nav_regie_add"
+                android:icon="@drawable/regie_start"
+                android:title="@string/menu_regie_add" />
+            <item
+                android:id="@+id/nav_regie_end"
+                android:icon="@drawable/regie_end"
+                android:title="@string/menu_regie_end" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_livraison_title">
+        <menu>
+            <item
+                android:id="@+id/nav_livraison_planned"
+                android:icon="@drawable/calendar_menu_icon"
+                android:title="@string/menu_livraison_planned" />
+            <item
+                android:id="@+id/nav_livraison_add"
+                android:icon="@drawable/delivery"
+                android:title="@string/menu_livraison_add" />
+            <item
+                android:id="@+id/nav_livraison_view"
+                android:icon="@drawable/delivery_view"
+                android:title="@string/menu_livraison_view" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_ocorrences_title">
+        <menu>
+            <item
+                android:id="@+id/nav_occurrences_add"
+                android:icon="@drawable/occurrences"
+                android:title="@string/menu_ocorrences_add" />
+            <item
+                android:id="@+id/nav_occurrences_view"
+                android:icon="@drawable/occurrences_view"
+                android:title="@string/menu_ocorrences_view" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_attendance_title">
+        <menu>
+            <item
+                android:id="@+id/nav_attendance_log_extra"
+                android:icon="@drawable/attendance"
+                android:title="@string/menu_attendance_log_extra" />
+            <item
+                android:id="@+id/nav_attendance_log_end_day"
+                android:icon="@drawable/attendance"
+                android:title="@string/menu_attendance_log_end_day" />
+            <item
+                android:id="@+id/nav_attendance_log_coffee_breaks"
+                android:icon="@drawable/attendance"
+                android:title="Coffee Breaks" />
+            <item
+                android:id="@+id/nav_attendance_log_craneman"
+                android:icon="@drawable/attendance"
+                android:title="Craneman / Machinist" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_utils_title">
+        <menu>
+            <item
+                android:id="@+id/nav_utils_calendar"
+                android:icon="@drawable/calendar_menu_icon"
+                android:title="@string/menu_utils_calendar" />
+            <item
+                android:id="@+id/nav_utils_gallery"
+                android:icon="@drawable/gallery"
+                android:title="@string/menu_utils_gallery" />
+            <item
+                android:id="@+id/nav_utils_weather"
+                android:icon="@drawable/weather"
+                android:title="@string/menu_utils_weather" />
+            <item
+                android:id="@+id/nav_utils_sync"
+                android:icon="@drawable/sync"
+                android:title="@string/menu_utils_sync" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_empresa">
+        <menu>
+            <item
+                android:id="@+id/nav_contactos"
+                android:icon="@drawable/contacts"
+                android:title="@string/menu_contact" />
+            <item
+                android:id="@+id/nav_privacy"
+                android:icon="@drawable/privacy_policy"
+                android:title="@string/menu_privacy_policy" />
+            <item
+                android:id="@+id/nav_terms"
+                android:icon="@drawable/terms_use"
+                android:title="@string/menu_terms_of_use" />
+        </menu>
+    </item>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_visit_us"
+                android:icon="@drawable/ic_globe"
+                android:title="@string/menu_visit_us" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/about"
+                android:title="@string/menu_about" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/contacts"
+                android:title="@string/menu_logout" />
+        </menu>
+    </item>
+
+</menu>

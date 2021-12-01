@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/adapter_quantity_card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        app:cardCornerRadius="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/adapter_quantity_date"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/adapter_quantity_name"
+        android:layout_weight="15"
+        android:text="Data "
+        android:textColor="#000"
+        android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/adapter_quantity_code"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center|center_horizontal"
+                android:layout_weight="15"
+                android:text="Código"
+                android:textColor="#000"
+                android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/adapter_quantity_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/adapter_quantity_date"
+        android:layout_weight="35"
+        android:text="Nome da tarefa"
+        android:textColor="#000"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/adapter_quantity_qtd"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/adapter_quantity_name"
+        android:layout_weight="10"
+        android:text="Qtd"
+        android:textColor="#000"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/adapter_quantity_workers"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/adapter_quantity_name"
+        android:layout_weight="25"
+        android:text="Trabalhadores"
+        android:textColor="#000"
+        android:textSize="14sp" />
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

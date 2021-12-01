@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:fillViewport="true"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/idd"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/fragment_journal_save_btn"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginBottom="8dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:srcCompat="@drawable/save" />
+
+            <ImageView
+                android:id="@+id/fragment_journal_calendar"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/calendar"
+                app:layout_constraintBottom_toBottomOf="@+id/fragment_journal_weather"
+                app:layout_constraintEnd_toEndOf="@+id/fragment_journal_list"
+                app:layout_constraintTop_toTopOf="@+id/fragment_journal_weather"
+                app:layout_constraintVertical_bias="1.0"
+                app:srcCompat="@drawable/calendar" />
+
+            <LinearLayout
+                android:id="@+id/fragment_journal_weather"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:orientation="horizontal"
+                app:layout_constraintEnd_toStartOf="@+id/fragment_journal_calendar"
+                app:layout_constraintStart_toStartOf="@+id/fragment_journal_list"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_percent=".35">
+
+
+                <ImageView
+                    android:id="@+id/fragment_journal_weather_icon"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/noweather"
+                    app:srcCompat="@drawable/noweather" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/fragment_journal_weather_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_weight="1"
+                        android:text="@string/fragment_journal_no_weather"
+                        android:textColor="#000"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/fragment_journal_workers_list"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginBottom="8dp"
+                android:background="@drawable/list_border"
+                app:layout_constraintBottom_toTopOf="@+id/linearLayout6"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/fragment_journal_worker_selection"
+                app:layout_constraintWidth_percent="0.45" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/fragment_journal_list"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginBottom="8dp"
+                android:background="@drawable/list_border"
+                app:layout_constraintBottom_toTopOf="@+id/linearLayout6"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/fragment_journal_planning_selection"
+                app:layout_constraintWidth_percent="0.45" />
+
+            <TextView
+                android:id="@+id/fragment_journal_num_workers"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="0"
+                android:textColor="#000"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                app:layout_constraintStart_toEndOf="@+id/imageView"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Switch
+                android:id="@+id/fragment_journal_worker_selection"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:text="@string/fragment_journal_categories"
+                android:textOff="@string/fragment_journal_categories"
+                android:textOn="@string/fragment_journal_workers"
+                app:layout_constraintEnd_toEndOf="@+id/fragment_journal_workers_list"
+                app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+            <LinearLayout
+                android:id="@+id/linearLayout6"
+                android:layout_width="0dp"
+                android:layout_height="55dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:orientation="horizontal"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toEndOf="@+id/fragment_journal_save_btn">
+
+                <Button
+                    android:id="@+id/fragment_journal_qtd_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/fragment_journal_btn_qtd" />
+
+                <Button
+                    android:id="@+id/fragment_journal_regie_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/fragment_journal_btn_regie" />
+
+                <Button
+                    android:id="@+id/fragment_journal_bordereau_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/fragment_journal_btn_bordereau" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/construction_worker" />
+
+            <Switch
+                android:id="@+id/fragment_journal_planning_selection"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fragment_journal_view_journal"
+                app:layout_constraintEnd_toEndOf="@+id/fragment_journal_list"
+                app:layout_constraintTop_toBottomOf="@+id/fragment_journal_weather" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+
+</FrameLayout>
