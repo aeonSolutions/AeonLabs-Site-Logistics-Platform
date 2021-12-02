@@ -1,0 +1,42 @@
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\bin\Debug\Menu Layout Vertical.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\bin\Debug\Menu Layout Vertical.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\bin\Debug\Menu Layout Vertical.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\bin\Debug\Menu Layout Vertical.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\bin\Debug\environment.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\bin\Debug\tasksManager.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\bin\Debug\environment.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\bin\Debug\environment.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\bin\Debug\environment.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\bin\Debug\tasksManager.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\bin\Debug\tasksManager.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\bin\Debug\tasksManager.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\bin\Debug\customControls.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\bin\Debug\customControls.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\bin\Debug\customControls.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\bin\Debug\customControls.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\menuBuilder.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\menuBuilder.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\menuBuilder.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\menuBuilder.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\AeonLabs.Layout.Menu.Vertical.Resources.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\AeonLabs.Layout.Menu.Vertical.strings.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\Menu Layout Vertical.vbproj.GenerateResource.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\Menu Layout Vertical.vbproj.CoreCompileInputs.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\Menu Layout Vertical.vbproj.CopyComplete
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\menuBuilder.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\menuBuilder.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\menuBuilder.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\Menu Layout Vertical.vbprojAssemblyReference.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows NET\Platform\AppsMain\builds\debug\menuBuilder.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows NET\Platform\AppsMain\builds\debug\menuBuilder.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows NET\Platform\AppsMain\builds\debug\menuBuilder.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows NET\Platform\AppsMain\builds\debug\menuBuilder.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows NET\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\Menu Layout Vertical.vbprojAssemblyReference.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows NET\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\AeonLabs.Layout.Menu.Vertical.Resources.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows NET\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\AeonLabs.Layout.Menu.Vertical.strings.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows NET\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\Menu Layout Vertical.vbproj.GenerateResource.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows NET\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\Menu Layout Vertical.vbproj.CoreCompileInputs.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows NET\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\Menu Layout Vertical.vbproj.CopyComplete
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows NET\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\menuBuilder.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows NET\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\menuBuilder.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows NET\Platform\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\obj\Debug\menuBuilder.pdb

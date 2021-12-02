@@ -1,0 +1,106 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+gui.core
+</name>
+</assembly>
+<members>
+<member name="T:ConstructionSiteLogistics.Gui.Forms.Core.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ConstructionSiteLogistics.Gui.Forms.Core.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ConstructionSiteLogistics.Gui.Forms.Core.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="F:ConstructionSiteLogistics.Gui.Forms.Core.FormCustomized.f_TargetOpacity">
+ <summary>
+ The opacity the form is transitioning to.
+ </summary>
+</member>
+<member name="F:ConstructionSiteLogistics.Gui.Forms.Core.FormCustomized.f_FadeTime">
+ <summary>
+ The time it takes to fade from 0 to 1 or the other way around.
+ </summary>
+</member>
+<member name="F:ConstructionSiteLogistics.Gui.Forms.Core.FormCustomized.f_ActiveOpacity">
+ <summary>
+ The opacity that the form will transition to when the form gets focus.
+ </summary>
+</member>
+<member name="F:ConstructionSiteLogistics.Gui.Forms.Core.FormCustomized.f_InactiveOpacity">
+ <summary>
+ the opacity that the form will transition to when the form doesn't have focus.
+ </summary>
+</member>
+<member name="F:ConstructionSiteLogistics.Gui.Forms.Core.FormCustomized.f_MinimizedOpacity">
+ <summary>
+ the opacity that the form will transition to when the form is minimized.
+ </summary>
+</member>
+<member name="F:ConstructionSiteLogistics.Gui.Forms.Core.FormCustomized.heldMessage">
+ <summary>
+ WindowsMessage that is being held until the end of a transition.
+ </summary>
+</member>
+<member name="F:ConstructionSiteLogistics.Gui.Forms.Core.FormCustomized.timer">
+ <summary>
+ Timer to aid in fade effects.
+ </summary>
+</member>
+<member name="P:ConstructionSiteLogistics.Gui.Forms.Core.FormCustomized.TargetOpacity">
+ <summary>
+ The opacity the form is transitioning to.
+ </summary>
+</member>
+<member name="P:ConstructionSiteLogistics.Gui.Forms.Core.FormCustomized.FadeTime">
+ <summary>
+ The time it takes to fade from 1 to 0 or the other way around.
+ </summary>
+</member>
+<member name="P:ConstructionSiteLogistics.Gui.Forms.Core.FormCustomized.ActiveOpacity">
+ <summary>
+ The opacity that the form will transition to when the form gets focus.
+ </summary>
+</member>
+<member name="P:ConstructionSiteLogistics.Gui.Forms.Core.FormCustomized.InactiveOpacity">
+ <summary>
+ the opacity that the form will transition to when the form doesn't have focus.
+ </summary>
+</member>
+<member name="P:ConstructionSiteLogistics.Gui.Forms.Core.FormCustomized.MinimizedOpacity">
+ <summary>
+ the opacity that the form will transition to when the form is minimized.
+ </summary>
+</member>
+<member name="M:ConstructionSiteLogistics.Gui.Forms.Core.FormCustomized.#ctor">
+ <summary>
+ Creates a new FormCustomized.
+ </summary>
+</member>
+<member name="M:ConstructionSiteLogistics.Gui.Forms.Core.FormCustomized.DisableFade">
+ <summary>
+ Turns off opacitiy fading.
+ </summary>
+</member>
+<member name="M:ConstructionSiteLogistics.Gui.Forms.Core.FormCustomized.EnableFadeDefaults">
+ <summary>
+ Turns on opacitiy fading.
+ </summary>
+</member>
+<member name="M:ConstructionSiteLogistics.Gui.Forms.Core.FormCustomized.WndProc(System.Windows.Forms.Message@)">
+ <summary>
+ Intercepts WindowMessages before they are processed.
+ </summary>
+</member>
+</members>
+</doc>

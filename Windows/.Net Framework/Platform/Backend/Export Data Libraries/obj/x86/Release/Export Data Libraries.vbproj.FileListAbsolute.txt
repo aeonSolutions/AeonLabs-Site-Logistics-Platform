@@ -1,0 +1,14 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Export Data Libraries\bin\x86\Release\export.libraries.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Export Data Libraries\bin\x86\Release\export.libraries.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Export Data Libraries\bin\x86\Release\export.libraries.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Export Data Libraries\bin\x86\Release\DocumentFormat.OpenXml.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Export Data Libraries\bin\x86\Release\System.IO.Packaging.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Export Data Libraries\bin\x86\Release\DocumentFormat.OpenXml.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Export Data Libraries\bin\x86\Release\System.IO.Packaging.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Export Data Libraries\obj\x86\Release\ConstructionSiteLogistics.libraries.ExportData.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Export Data Libraries\obj\x86\Release\Export Data Libraries.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Export Data Libraries\obj\x86\Release\Export Data Libraries.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Export Data Libraries\obj\x86\Release\Export Data Libraries.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Export Data Libraries\obj\x86\Release\export.libraries.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Export Data Libraries\obj\x86\Release\export.libraries.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Export Data Libraries\obj\x86\Release\export.libraries.pdb

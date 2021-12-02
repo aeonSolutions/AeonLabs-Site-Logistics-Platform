@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.akexorcist:screenorientationhelper:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/191f46150adf3458dd5f4c8af90393cd/jetified-screenorientationhelper-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/191f46150adf3458dd5f4c8af90393cd/jetified-screenorientationhelper-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/191f46150adf3458dd5f4c8af90393cd/jetified-screenorientationhelper-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.akexorcist/screenorientationhelper/1.0.0/f660e916c68fc2e903043715d912ac9ced305f6/screenorientationhelper-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.akexorcist/screenorientationhelper/1.0.0/53484497ecc7c1fd89271bdbd19e225ce2ce6b42/screenorientationhelper-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

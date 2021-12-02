@@ -1,0 +1,12 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Meteo\obj\Debug\ConstructionSiteLogistics.AddOn.Meteo.meteo_frm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Meteo\obj\Debug\ConstructionSiteLogistics.AddOn.Meteo.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Meteo\obj\Debug\Meteo.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Meteo\obj\Debug\Meteo.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\meteo.addon.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\meteo.addon.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\meteo.addon.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\meteo.addon.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Meteo\obj\Debug\Meteo.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Meteo\obj\Debug\meteo.addon.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Meteo\obj\Debug\meteo.addon.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Meteo\obj\Debug\meteo.addon.pdb

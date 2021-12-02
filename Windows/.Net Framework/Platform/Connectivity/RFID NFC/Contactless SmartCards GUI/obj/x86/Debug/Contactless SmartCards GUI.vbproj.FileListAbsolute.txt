@@ -1,0 +1,42 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\contactless.smartcards.gui.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\contactless.smartcards.gui.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\contactless.smartcards.gui.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\contactless.smartcards.gui.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\contactless.smartcards.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\core.libraries.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\gui.core.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\panel.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\Newtonsoft.Json.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\ClosedXML.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\CircularProgressBar.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\DocumentFormat.OpenXml.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\ExcelNumberFormat.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\core.libraries.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\core.libraries.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\panel.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\panel.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\gui.core.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\gui.core.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\gui.core.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\contactless.smartcards.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\contactless.smartcards.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\Newtonsoft.Json.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\ClosedXML.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\ClosedXML.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\CircularProgressBar.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\CircularProgressBar.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\DocumentFormat.OpenXml.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\bin\x86\Debug\ExcelNumberFormat.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\obj\x86\Debug\Contactless SmartCards GUI.vbprojAssemblyReference.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\obj\x86\Debug\ConstructionSiteLogistics.SmartCards.GUI.initializeSmartCard.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\obj\x86\Debug\ConstructionSiteLogistics.SmartCards.GUI.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\obj\x86\Debug\Contactless SmartCards GUI.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\obj\x86\Debug\Contactless SmartCards GUI.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\obj\x86\Debug\Contactless SmartCards GUI.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\obj\x86\Debug\contactless.smartcards.gui.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\obj\x86\Debug\contactless.smartcards.gui.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Contactless SmartCards GUI\obj\x86\Debug\contactless.smartcards.gui.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\contactless.smartcards.gui.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\contactless.smartcards.gui.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\contactless.smartcards.gui.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\contactless.smartcards.gui.xml

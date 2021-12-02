@@ -1,0 +1,1406 @@
+﻿The given key was not present in the dictionary.
+--------- Stack trace ---------
+----------03-05-20 22:33:37----------
+----------OS version:1.0.0.0----------
+    Error Line: 53
+
+-------------------------------
+--------- Cause ---------
+1- System.Collections.Generic.Dictionary`2[TKey,TValue] get_Item
+2- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+The given key was not present in the dictionary.
+--------- Stack trace ---------
+----------03-05-20 22:33:38----------
+----------OS version:1.0.0.0----------
+    Error Line: 53
+
+-------------------------------
+--------- Cause ---------
+1- System.Collections.Generic.Dictionary`2[TKey,TValue] get_Item
+2- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+The given key was not present in the dictionary.
+--------- Stack trace ---------
+----------03-05-20 22:33:38----------
+----------OS version:1.0.0.0----------
+    Error Line: 53
+
+-------------------------------
+--------- Cause ---------
+1- System.Collections.Generic.Dictionary`2[TKey,TValue] get_Item
+2- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+The given key was not present in the dictionary.
+--------- Stack trace ---------
+----------03-05-20 22:33:39----------
+----------OS version:1.0.0.0----------
+    Error Line: 53
+
+-------------------------------
+--------- Cause ---------
+1- System.Collections.Generic.Dictionary`2[TKey,TValue] get_Item
+2- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: c. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: w. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: w. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: w. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: w. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: s. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: c. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: c. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: d. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: d. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Error parsing boolean value. Path , line 1, position 1.
+--------- Stack trace ---------
+----------03-05-20 22:33:42----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseFalse
+2- Newtonsoft.Json.JsonTextReader ParseValue
+3- Newtonsoft.Json.JsonTextReader Read
+4- Newtonsoft.Json.JsonReader ReadForType
+5- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+6- Newtonsoft.Json.JsonSerializer DeserializeInternal
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- Newtonsoft.Json.JsonConvert DeserializeObject
+10- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Error parsing boolean value. Path , line 1, position 1.
+--------- Stack trace ---------
+----------03-05-20 22:33:43----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseFalse
+2- Newtonsoft.Json.JsonTextReader ParseValue
+3- Newtonsoft.Json.JsonTextReader Read
+4- Newtonsoft.Json.JsonReader ReadForType
+5- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+6- Newtonsoft.Json.JsonSerializer DeserializeInternal
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- Newtonsoft.Json.JsonConvert DeserializeObject
+10- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+The given key was not present in the dictionary.
+--------- Stack trace ---------
+----------03-05-20 22:37:46----------
+----------OS version:1.0.0.0----------
+    Error Line: 53
+
+-------------------------------
+--------- Cause ---------
+1- System.Collections.Generic.Dictionary`2[TKey,TValue] get_Item
+2- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+The given key was not present in the dictionary.
+--------- Stack trace ---------
+----------03-05-20 22:37:47----------
+----------OS version:1.0.0.0----------
+    Error Line: 53
+
+-------------------------------
+--------- Cause ---------
+1- System.Collections.Generic.Dictionary`2[TKey,TValue] get_Item
+2- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+The given key was not present in the dictionary.
+--------- Stack trace ---------
+----------03-05-20 22:37:47----------
+----------OS version:1.0.0.0----------
+    Error Line: 53
+
+-------------------------------
+--------- Cause ---------
+1- System.Collections.Generic.Dictionary`2[TKey,TValue] get_Item
+2- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+The given key was not present in the dictionary.
+--------- Stack trace ---------
+----------03-05-20 22:37:47----------
+----------OS version:1.0.0.0----------
+    Error Line: 53
+
+-------------------------------
+--------- Cause ---------
+1- System.Collections.Generic.Dictionary`2[TKey,TValue] get_Item
+2- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: c. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: c. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: w. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: w. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: w. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: w. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: w. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: w. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: s. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: c. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: c. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: d. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:50----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: d. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:51----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:51----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:37:51----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Error parsing boolean value. Path , line 1, position 1.
+--------- Stack trace ---------
+----------03-05-20 22:37:51----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseFalse
+2- Newtonsoft.Json.JsonTextReader ParseValue
+3- Newtonsoft.Json.JsonTextReader Read
+4- Newtonsoft.Json.JsonReader ReadForType
+5- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+6- Newtonsoft.Json.JsonSerializer DeserializeInternal
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- Newtonsoft.Json.JsonConvert DeserializeObject
+10- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Error parsing boolean value. Path , line 1, position 1.
+--------- Stack trace ---------
+----------03-05-20 22:37:51----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseFalse
+2- Newtonsoft.Json.JsonTextReader ParseValue
+3- Newtonsoft.Json.JsonTextReader Read
+4- Newtonsoft.Json.JsonReader ReadForType
+5- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+6- Newtonsoft.Json.JsonSerializer DeserializeInternal
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- Newtonsoft.Json.JsonConvert DeserializeObject
+10- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+The given key was not present in the dictionary.
+--------- Stack trace ---------
+----------03-05-20 22:40:27----------
+----------OS version:1.0.0.0----------
+    Error Line: 53
+
+-------------------------------
+--------- Cause ---------
+1- System.Collections.Generic.Dictionary`2[TKey,TValue] get_Item
+2- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+The given key was not present in the dictionary.
+--------- Stack trace ---------
+----------03-05-20 22:40:28----------
+----------OS version:1.0.0.0----------
+    Error Line: 53
+
+-------------------------------
+--------- Cause ---------
+1- System.Collections.Generic.Dictionary`2[TKey,TValue] get_Item
+2- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+The given key was not present in the dictionary.
+--------- Stack trace ---------
+----------03-05-20 22:40:28----------
+----------OS version:1.0.0.0----------
+    Error Line: 53
+
+-------------------------------
+--------- Cause ---------
+1- System.Collections.Generic.Dictionary`2[TKey,TValue] get_Item
+2- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+The given key was not present in the dictionary.
+--------- Stack trace ---------
+----------03-05-20 22:40:28----------
+----------OS version:1.0.0.0----------
+    Error Line: 53
+
+-------------------------------
+--------- Cause ---------
+1- System.Collections.Generic.Dictionary`2[TKey,TValue] get_Item
+2- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:31----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:31----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:31----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:31----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:31----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:31----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: w. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:31----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: c. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:31----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: w. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:31----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: w. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:31----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: w. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:31----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: w. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:31----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: c. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:31----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: c. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:31----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: d. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:31----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:32----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Unexpected character encountered while parsing value: a. Path , line 0, position 0.
+--------- Stack trace ---------
+----------03-05-20 22:40:32----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.JsonReader ReadForType
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+5- Newtonsoft.Json.JsonSerializer DeserializeInternal
+6- Newtonsoft.Json.JsonConvert DeserializeObject
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Error parsing boolean value. Path , line 1, position 1.
+--------- Stack trace ---------
+----------03-05-20 22:40:32----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseFalse
+2- Newtonsoft.Json.JsonTextReader ParseValue
+3- Newtonsoft.Json.JsonTextReader Read
+4- Newtonsoft.Json.JsonReader ReadForType
+5- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+6- Newtonsoft.Json.JsonSerializer DeserializeInternal
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- Newtonsoft.Json.JsonConvert DeserializeObject
+10- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+Error parsing boolean value. Path , line 1, position 1.
+--------- Stack trace ---------
+----------03-05-20 22:40:32----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParseFalse
+2- Newtonsoft.Json.JsonTextReader ParseValue
+3- Newtonsoft.Json.JsonTextReader Read
+4- Newtonsoft.Json.JsonReader ReadForType
+5- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+6- Newtonsoft.Json.JsonSerializer DeserializeInternal
+7- Newtonsoft.Json.JsonConvert DeserializeObject
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- Newtonsoft.Json.JsonConvert DeserializeObject
+10- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+After parsing a value an unexpected character was encountered: w. Path message, line 1, position 100.
+--------- Stack trace ---------
+----------25-06-20 21:55:54----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParsePostValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.Serialization.JsonSerializerInternalReader PopulateDictionary
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader CreateObject
+5- Newtonsoft.Json.Serialization.JsonSerializerInternalReader CreateValueInternal
+6- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+7- Newtonsoft.Json.JsonSerializer DeserializeInternal
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- Newtonsoft.Json.JsonConvert DeserializeObject
+10- Newtonsoft.Json.JsonConvert DeserializeObject
+11- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+
+After parsing a value an unexpected character was encountered: w. Path message, line 1, position 100.
+--------- Stack trace ---------
+----------25-06-20 21:55:54----------
+----------OS version:1.0.0.0----------
+    Error Line: 52
+
+-------------------------------
+--------- Cause ---------
+1- Newtonsoft.Json.JsonTextReader ParsePostValue
+2- Newtonsoft.Json.JsonTextReader Read
+3- Newtonsoft.Json.Serialization.JsonSerializerInternalReader PopulateDictionary
+4- Newtonsoft.Json.Serialization.JsonSerializerInternalReader CreateObject
+5- Newtonsoft.Json.Serialization.JsonSerializerInternalReader CreateValueInternal
+6- Newtonsoft.Json.Serialization.JsonSerializerInternalReader Deserialize
+7- Newtonsoft.Json.JsonSerializer DeserializeInternal
+8- Newtonsoft.Json.JsonConvert DeserializeObject
+9- Newtonsoft.Json.JsonConvert DeserializeObject
+10- Newtonsoft.Json.JsonConvert DeserializeObject
+11- ConstructionSiteLogistics.Libraries.Core.ManagementNetwork IsResponseOk
+-------------end report---------------
+
+

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+network
+</name>
+</assembly>
+<members>
+<member name="T:AeonLabs.Network.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AeonLabs.Network.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AeonLabs.Network.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:AeonLabs.Network.My.Resources.strings">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AeonLabs.Network.My.Resources.strings.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AeonLabs.Network.My.Resources.strings.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:AeonLabs.Network.My.Resources.strings.bytes">
+<summary>
+  Looks up a localized string similar to bytes.
+</summary>
+</member>
+<member name="P:AeonLabs.Network.My.Resources.strings.contactingCommServer">
+<summary>
+  Looks up a localized string similar to Error contacting server.
+</summary>
+</member>
+<member name="P:AeonLabs.Network.My.Resources.strings.errorNoNetwork">
+<summary>
+  Looks up a localized string similar to Network unavailable.
+</summary>
+</member>
+<member name="P:AeonLabs.Network.My.Resources.strings.errorNoRecordsFound">
+<summary>
+  Looks up a localized string similar to No records found.
+</summary>
+</member>
+<member name="P:AeonLabs.Network.My.Resources.strings.JsonFieldsMismatch">
+<summary>
+  Looks up a localized string similar to JSON fields mismatch.
+</summary>
+</member>
+<member name="P:AeonLabs.Network.My.Resources.strings.JsonkeyNotFound">
+<summary>
+  Looks up a localized string similar to JSON key not found.
+</summary>
+</member>
+<member name="P:AeonLabs.Network.My.Resources.strings.question">
+<summary>
+  Looks up a localized string similar to Question.
+</summary>
+</member>
+<member name="P:AeonLabs.Network.My.Resources.strings.size">
+<summary>
+  Looks up a localized string similar to size.
+</summary>
+</member>
+<member name="P:AeonLabs.Network.My.Resources.strings.tryAgain">
+<summary>
+  Looks up a localized string similar to Try again.
+</summary>
+</member>
+</members>
+</doc>

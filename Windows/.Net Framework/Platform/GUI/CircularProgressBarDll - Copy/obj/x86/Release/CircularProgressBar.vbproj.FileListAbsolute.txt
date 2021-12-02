@@ -1,0 +1,9 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\bin\x86\Release\CircularProgressBar.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\bin\x86\Release\CircularProgressBar.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\bin\x86\Release\CircularProgressBar.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\obj\x86\Release\CircularProgressBar.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\obj\x86\Release\CircularProgressBar.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\obj\x86\Release\CircularProgressBar.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\obj\x86\Release\CircularProgressBar.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\obj\x86\Release\CircularProgressBar.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\obj\x86\Release\CircularProgressBar.pdb

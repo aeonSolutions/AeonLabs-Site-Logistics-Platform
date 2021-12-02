@@ -1,0 +1,66 @@
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\bin\Debug\CircularProgressBar.dll
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\bin\Debug\CircularProgressBar.pdb
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\bin\Debug\CircularProgressBar.xml
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBar.Resources.resources
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbproj.GenerateResource.Cache
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBar.dll
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBar.xml
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBar.pdb
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbprojResolveAssemblyReference.cache
+C:\Projects\New folder\CPBDll\CircularProgressBarDll\bin\Debug\CircularProgressBar.dll
+C:\Projects\New folder\CPBDll\CircularProgressBarDll\bin\Debug\CircularProgressBar.pdb
+C:\Projects\New folder\CPBDll\CircularProgressBarDll\bin\Debug\CircularProgressBar.xml
+C:\Projects\New folder\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbprojResolveAssemblyReference.cache
+C:\Projects\New folder\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBar.Resources.resources
+C:\Projects\New folder\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbproj.GenerateResource.Cache
+C:\Projects\New folder\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBar.dll
+C:\Projects\New folder\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBar.xml
+C:\Projects\New folder\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBar.pdb
+C:\Projects\CircularProgressBar\CircularProgressBarDll\bin\Debug\CircularProgressBar.dll
+C:\Projects\CircularProgressBar\CircularProgressBarDll\bin\Debug\CircularProgressBar.pdb
+C:\Projects\CircularProgressBar\CircularProgressBarDll\bin\Debug\CircularProgressBar.xml
+C:\Projects\CircularProgressBar\CircularProgressBarDll\obj\Debug\CircularProgressBar.Resources.resources
+C:\Projects\CircularProgressBar\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbproj.GenerateResource.cache
+C:\Projects\CircularProgressBar\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbproj.CoreCompileInputs.cache
+C:\Projects\CircularProgressBar\CircularProgressBarDll\obj\Debug\CircularProgressBar.dll
+C:\Projects\CircularProgressBar\CircularProgressBarDll\obj\Debug\CircularProgressBar.xml
+C:\Projects\CircularProgressBar\CircularProgressBarDll\obj\Debug\CircularProgressBar.pdb
+C:\Users\Aeon\Desktop\Source\CircularProgressBarDll\bin\Debug\CircularProgressBar.dll
+C:\Users\Aeon\Desktop\Source\CircularProgressBarDll\bin\Debug\CircularProgressBar.pdb
+C:\Users\Aeon\Desktop\Source\CircularProgressBarDll\bin\Debug\CircularProgressBar.xml
+C:\Users\Aeon\Desktop\Source\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbprojAssemblyReference.cache
+C:\Users\Aeon\Desktop\Source\CircularProgressBarDll\obj\Debug\CircularProgressBar.Resources.resources
+C:\Users\Aeon\Desktop\Source\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbproj.GenerateResource.cache
+C:\Users\Aeon\Desktop\Source\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbproj.CoreCompileInputs.cache
+C:\Users\Aeon\Desktop\Source\CircularProgressBarDll\obj\Debug\CircularProgressBar.dll
+C:\Users\Aeon\Desktop\Source\CircularProgressBarDll\obj\Debug\CircularProgressBar.xml
+C:\Users\Aeon\Desktop\Source\CircularProgressBarDll\obj\Debug\CircularProgressBar.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\bin\Debug\CircularProgressBar.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\bin\Debug\CircularProgressBar.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\bin\Debug\CircularProgressBar.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\obj\Debug\CircularProgressBar.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\obj\Debug\CircularProgressBar.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\obj\Debug\CircularProgressBar.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\CircularProgressBarDll\obj\Debug\CircularProgressBar.pdb
+E:\DiskContents\Software\Code\AeonLabs Platform\Windows\InternalCode\CircularProgressBarDll\bin\Debug\CircularProgressBar.dll
+E:\DiskContents\Software\Code\AeonLabs Platform\Windows\InternalCode\CircularProgressBarDll\bin\Debug\CircularProgressBar.pdb
+E:\DiskContents\Software\Code\AeonLabs Platform\Windows\InternalCode\CircularProgressBarDll\bin\Debug\CircularProgressBar.xml
+E:\DiskContents\Software\Code\AeonLabs Platform\Windows\InternalCode\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbprojAssemblyReference.cache
+E:\DiskContents\Software\Code\AeonLabs Platform\Windows\InternalCode\CircularProgressBarDll\obj\Debug\CircularProgressBar.Resources.resources
+E:\DiskContents\Software\Code\AeonLabs Platform\Windows\InternalCode\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbproj.GenerateResource.cache
+E:\DiskContents\Software\Code\AeonLabs Platform\Windows\InternalCode\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbproj.CoreCompileInputs.cache
+E:\DiskContents\Software\Code\AeonLabs Platform\Windows\InternalCode\CircularProgressBarDll\obj\Debug\CircularProgressBar.dll
+E:\DiskContents\Software\Code\AeonLabs Platform\Windows\InternalCode\CircularProgressBarDll\obj\Debug\CircularProgressBar.xml
+E:\DiskContents\Software\Code\AeonLabs Platform\Windows\InternalCode\CircularProgressBarDll\obj\Debug\CircularProgressBar.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\CircularProgressBar.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\CircularProgressBar.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\CircularProgressBar.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbprojAssemblyReference.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\CircularProgressBarDll\obj\Debug\CircularProgressBar.Resources.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbproj.GenerateResource.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\CircularProgressBarDll\obj\Debug\CircularProgressBar.vbproj.CoreCompileInputs.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\CircularProgressBarDll\obj\Debug\CircularProgressBar.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\CircularProgressBarDll\obj\Debug\CircularProgressBar.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\CircularProgressBarDll\obj\Debug\CircularProgressBar.pdb

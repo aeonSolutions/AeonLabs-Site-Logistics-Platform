@@ -1,0 +1,30 @@
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\Basic libraries.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\Basic libraries.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\Basic libraries.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\Basic libraries.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\assemblyEnvironment.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\Custom Controls.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\environment.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\Newtonsoft.Json.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\Custom Controls.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\Custom Controls.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\Custom Controls.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\assemblyEnvironment.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\assemblyEnvironment.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\assemblyEnvironment.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\environment.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\environment.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\environment.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\bin\Debug\Newtonsoft.Json.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Debug\Basic libraries.vbprojAssemblyReference.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Debug\AeonLabs.BasicLibraries.Resources.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Debug\Basic libraries.vbproj.GenerateResource.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Debug\Basic libraries.vbproj.CoreCompileInputs.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Debug\Basic libraries.vbproj.CopyComplete
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\BasicLibraries.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\BasicLibraries.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\BasicLibraries.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\BasicLibraries.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Debug\BasicLibraries.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Debug\BasicLibraries.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Debug\BasicLibraries.pdb

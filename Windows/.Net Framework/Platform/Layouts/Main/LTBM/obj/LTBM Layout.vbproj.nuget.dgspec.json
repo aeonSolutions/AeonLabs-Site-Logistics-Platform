@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\DiskContents\\Software\\Code\\AeonLabs Platform\\Windows\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj": {}
+  },
+  "projects": {
+    "H:\\DiskContents\\Software\\Code\\AeonLabs Platform\\Windows\\Platform\\Backend\\Layout\\Menu Layout Vertical\\Menu Layout Vertical\\Menu Layout Vertical.vbproj": {
+      "restore": {
+        "projectUniqueName": "H:\\DiskContents\\Software\\Code\\AeonLabs Platform\\Windows\\Platform\\Backend\\Layout\\Menu Layout Vertical\\Menu Layout Vertical\\Menu Layout Vertical.vbproj",
+        "projectName": "Menu Layout Vertical",
+        "projectPath": "H:\\DiskContents\\Software\\Code\\AeonLabs Platform\\Windows\\Platform\\Backend\\Layout\\Menu Layout Vertical\\Menu Layout Vertical\\Menu Layout Vertical.vbproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "H:\\DiskContents\\Software\\Code\\AeonLabs Platform\\Windows\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj": {
+      "restore": {
+        "projectUniqueName": "H:\\DiskContents\\Software\\Code\\AeonLabs Platform\\Windows\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj",
+        "projectName": "Custom Controls",
+        "projectPath": "H:\\DiskContents\\Software\\Code\\AeonLabs Platform\\Windows\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "H:\\DiskContents\\Software\\Code\\AeonLabs Platform\\Windows\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\DiskContents\\Software\\Code\\AeonLabs Platform\\Windows\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj",
+        "projectName": "LTBM Layout",
+        "projectPath": "H:\\DiskContents\\Software\\Code\\AeonLabs Platform\\Windows\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj",
+        "packagesPath": "C:\\Users\\Aeon\\.nuget\\packages\\",
+        "outputPath": "H:\\DiskContents\\Software\\Code\\AeonLabs Platform\\Windows\\Platform\\Layouts\\Main\\LTBM\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Aeon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "H:\\DiskContents\\Software\\Code\\AeonLabs Platform\\Windows\\Platform\\Backend\\Layout\\Menu Layout Vertical\\Menu Layout Vertical\\Menu Layout Vertical.vbproj": {
+                "projectPath": "H:\\DiskContents\\Software\\Code\\AeonLabs Platform\\Windows\\Platform\\Backend\\Layout\\Menu Layout Vertical\\Menu Layout Vertical\\Menu Layout Vertical.vbproj"
+              },
+              "H:\\DiskContents\\Software\\Code\\AeonLabs Platform\\Windows\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj": {
+                "projectPath": "H:\\DiskContents\\Software\\Code\\AeonLabs Platform\\Windows\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "ILMerge": {
+              "target": "Package",
+              "version": "[3.0.29, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

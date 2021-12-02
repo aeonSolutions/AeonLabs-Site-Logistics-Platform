@@ -1,0 +1,24 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\bin\x86\Debug\translations.addon.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\bin\x86\Debug\translations.addon.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\bin\x86\Debug\translations.addon.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\bin\x86\Debug\translations.addon.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\bin\x86\Debug\core.libraries.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\bin\x86\Debug\Newtonsoft.Json.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\bin\x86\Debug\panel.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\bin\x86\Debug\core.libraries.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\bin\x86\Debug\core.libraries.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\bin\x86\Debug\Newtonsoft.Json.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\bin\x86\Debug\panel.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\bin\x86\Debug\panel.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\obj\x86\Debug\web translation.vbprojAssemblyReference.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\obj\x86\Debug\ConstructionSiteLogistics.AddOn.Translations.Web.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\obj\x86\Debug\web translation.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\obj\x86\Debug\web translation.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\obj\x86\Debug\web translation.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\obj\x86\Debug\translations.addon.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\obj\x86\Debug\translations.addon.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\obj\x86\Debug\translations.addon.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\translations.addon.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\translations.addon.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\translations.addon.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\translations.addon.xml

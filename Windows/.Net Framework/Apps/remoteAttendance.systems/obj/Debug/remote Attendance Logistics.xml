@@ -1,0 +1,248 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+remote Attendance Logistics
+</name>
+</assembly>
+<members>
+<member name="T:AeonLabs.RemoteAttendanceLogistics.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.addons">
+<summary>
+  Looks up a localized string similar to 2.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.attendance">
+<summary>
+  Looks up a localized string similar to 7.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.attendanceAnnotations">
+<summary>
+  Looks up a localized string similar to 8.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.attendanceRecords">
+<summary>
+  Looks up a localized string similar to 5.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.holidays">
+<summary>
+  Looks up a localized string similar to 9.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.journal">
+<summary>
+  Looks up a localized string similar to 25.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.journalattendance">
+<summary>
+  Looks up a localized string similar to 23.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.journalLog">
+<summary>
+  Looks up a localized string similar to 24.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.login">
+<summary>
+  Looks up a localized string similar to 1.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.mobileDevices">
+<summary>
+  Looks up a localized string similar to 13.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.photos">
+<summary>
+  Looks up a localized string similar to 20.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.queries">
+<summary>
+  Looks up a localized string similar to 6.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.site">
+<summary>
+  Looks up a localized string similar to 14.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.siteActivitiesMap">
+<summary>
+  Looks up a localized string similar to 19.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.siteActivitiesMapEdit">
+<summary>
+  Looks up a localized string similar to 32.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.siteClosedDays">
+<summary>
+  Looks up a localized string similar to 3.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.siteDailyProduction">
+<summary>
+  Looks up a localized string similar to 21.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.siteGeneralContractors">
+<summary>
+  Looks up a localized string similar to 16.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.siteManagers">
+<summary>
+  Looks up a localized string similar to 15.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.siteMaterialsDelivery">
+<summary>
+  Looks up a localized string similar to 22.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.siteMaterialsReception">
+<summary>
+  Looks up a localized string similar to 12.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.siteSections">
+<summary>
+  Looks up a localized string similar to 17.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.siteTeams">
+<summary>
+  Looks up a localized string similar to 18.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.templateFiles">
+<summary>
+  Looks up a localized string similar to 1050.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.unscheduledWorks">
+<summary>
+  Looks up a localized string similar to 4.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.userProfile">
+<summary>
+  Looks up a localized string similar to 31.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.workerAbsenses">
+<summary>
+  Looks up a localized string similar to 10.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.workerClothes">
+<summary>
+  Looks up a localized string similar to 11.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.workerDossier">
+<summary>
+  Looks up a localized string similar to 28.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.workerLimosas">
+<summary>
+  Looks up a localized string similar to 29.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.apiTasks.workerLocate">
+<summary>
+  Looks up a localized string similar to 27.
+</summary>
+</member>
+<member name="T:AeonLabs.RemoteAttendanceLogistics.My.Resources.strings">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.strings.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.strings.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.strings.errorDataFileNotFound">
+<summary>
+  Looks up a localized string similar to DataFile not found.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.strings.menuHelpTitle">
+<summary>
+  Looks up a localized string similar to Help.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.strings.menuItemAbout">
+<summary>
+  Looks up a localized string similar to About.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.strings.menuItemCheckUpdate">
+<summary>
+  Looks up a localized string similar to Check for Updates.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.strings.menuItemLogout">
+<summary>
+  Looks up a localized string similar to Logout.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.strings.menuItemMyProfile">
+<summary>
+  Looks up a localized string similar to Profile.
+</summary>
+</member>
+<member name="P:AeonLabs.RemoteAttendanceLogistics.My.Resources.strings.menuItemSettings">
+<summary>
+  Looks up a localized string similar to Settings.
+</summary>
+</member>
+</members>
+</doc>

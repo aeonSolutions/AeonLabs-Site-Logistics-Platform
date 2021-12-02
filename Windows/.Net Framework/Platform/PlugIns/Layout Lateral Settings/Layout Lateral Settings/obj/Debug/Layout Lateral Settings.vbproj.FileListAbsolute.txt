@@ -1,0 +1,29 @@
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\settings.layout.widget.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\settings.layout.widget.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\settings.layout.widget.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\settings.layout.widget.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\environment.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\FontAwesome.Sharp.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\MACTrackBarLib.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\panel.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\environment.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\environment.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\environment.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\panel.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\panel.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\MACTrackBarLib.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\MACTrackBarLib.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\obj\Debug\Layout Lateral Settings.vbprojAssemblyReference.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\obj\Debug\AeonLabs.PlugIns.SideBar.Settings.lateralSettingsForm.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\obj\Debug\AeonLabs.PlugIns.SideBar.Settings.Resources.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\obj\Debug\AeonLabs.PlugIns.SideBar.Settings.strings.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\obj\Debug\Layout Lateral Settings.vbproj.GenerateResource.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\obj\Debug\Layout Lateral Settings.vbproj.CoreCompileInputs.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\obj\Debug\Layout Lateral Settings.vbproj.CopyComplete
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\obj\Debug\settings.layout.widget.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\obj\Debug\settings.layout.widget.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\obj\Debug\settings.layout.widget.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\customControls.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\customControls.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\customControls.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\PlugIns\Layout Lateral Settings\Layout Lateral Settings\bin\Debug\customControls.dll.config

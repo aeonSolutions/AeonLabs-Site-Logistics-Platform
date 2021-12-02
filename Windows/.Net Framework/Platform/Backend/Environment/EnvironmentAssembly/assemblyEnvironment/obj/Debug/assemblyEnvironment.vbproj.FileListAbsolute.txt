@@ -1,0 +1,16 @@
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\bin\Debug\assemblyEnvironment.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\bin\Debug\assemblyEnvironment.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\bin\Debug\assemblyEnvironment.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\bin\Debug\assemblyEnvironment.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\bin\Debug\Custom Controls.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\bin\Debug\Custom Controls.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\bin\Debug\Custom Controls.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\bin\Debug\Custom Controls.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\obj\Debug\assemblyEnvironment.vbprojAssemblyReference.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\obj\Debug\AeonLabs.Environment.Assembly.Resources.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\obj\Debug\assemblyEnvironment.vbproj.GenerateResource.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\obj\Debug\assemblyEnvironment.vbproj.CoreCompileInputs.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\obj\Debug\assemblyEnvironment.vbproj.CopyComplete
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\obj\Debug\assemblyEnvironment.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\obj\Debug\assemblyEnvironment.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\obj\Debug\assemblyEnvironment.pdb

@@ -1,0 +1,10 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\GUI Controls\AlphaGradientPanel\bin\x86\Debug\panel.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\GUI Controls\AlphaGradientPanel\bin\x86\Debug\panel.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\GUI Controls\AlphaGradientPanel\bin\x86\Debug\panel.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\GUI Controls\AlphaGradientPanel\obj\x86\Debug\BlueActivity.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\GUI Controls\AlphaGradientPanel\obj\x86\Debug\AlphaGradientPanel.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\GUI Controls\AlphaGradientPanel\obj\x86\Debug\AlphaGradientPanel.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\GUI Controls\AlphaGradientPanel\obj\x86\Debug\panel.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\GUI Controls\AlphaGradientPanel\obj\x86\Debug\panel.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\GUI Controls\AlphaGradientPanel\obj\x86\Debug\panel.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\GUI Controls\AlphaGradientPanel\obj\x86\Debug\AlphaGradientPanel.vbprojAssemblyReference.cache

@@ -1,0 +1,24 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\Setup Wizard.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\Setup Wizard.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\Setup Wizard.vbprojAssemblyReference.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\Setup Wizard.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\setup2.exe
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\setup2.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\setup2.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\ConstructionSiteLogistics.Setup.Gui2.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\ConstructionSiteLogistics.Setup.Gui2.setupWizardMainForm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\ConstructionSiteLogistics.Setup.Gui2.setupWizard_addOns.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\ConstructionSiteLogistics.Setup.Gui2.setupWizard_country.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\ConstructionSiteLogistics.Setup.Gui2.setupWizard_createAdminAccount.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\ConstructionSiteLogistics.Setup.Gui2.setupWizard_createDB.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\ConstructionSiteLogistics.Setup.Gui2.setupWizard_DiagnosticsCrashData.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\ConstructionSiteLogistics.Setup.Gui2.setupWizard_finnish.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\ConstructionSiteLogistics.Setup.Gui2.setupWizard_language.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\ConstructionSiteLogistics.Setup.Gui2.setupWizard_NewFtpWebSettings.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\ConstructionSiteLogistics.Setup.Gui2.setupWizard_platformType.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\ConstructionSiteLogistics.Setup.Gui2.setupWizard_ServerAddress.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\ConstructionSiteLogistics.Setup.Gui2.setupWizard_settingUp.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\ConstructionSiteLogistics.Setup.Gui2.setupWizard_signIn.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\setup2.exe
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\setup2.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard\obj\x86\Debug\setup2.pdb

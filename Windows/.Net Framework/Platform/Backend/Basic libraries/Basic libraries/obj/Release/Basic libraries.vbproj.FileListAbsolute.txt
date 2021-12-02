@@ -1,0 +1,12 @@
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\release\BasicLibraries.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\release\BasicLibraries.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\release\BasicLibraries.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\release\BasicLibraries.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Release\Basic libraries.vbprojAssemblyReference.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Release\AeonLabs.BasicLibraries.Resources.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Release\Basic libraries.vbproj.GenerateResource.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Release\Basic libraries.vbproj.CoreCompileInputs.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Release\Basic libraries.vbproj.CopyComplete
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Release\BasicLibraries.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Release\BasicLibraries.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Release\BasicLibraries.pdb

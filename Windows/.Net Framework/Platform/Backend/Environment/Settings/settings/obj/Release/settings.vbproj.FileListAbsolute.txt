@@ -1,0 +1,13 @@
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\release\settings.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\release\settings.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\release\settings.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\release\settings.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\Settings\settings\obj\Release\settings.vbprojAssemblyReference.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\Settings\settings\obj\Release\AeonLabs.Settings.Resources.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\Settings\settings\obj\Release\AeonLabs.Settings.strings.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\Settings\settings\obj\Release\settings.vbproj.GenerateResource.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\Settings\settings\obj\Release\settings.vbproj.CoreCompileInputs.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\Settings\settings\obj\Release\settings.vbproj.CopyComplete
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\Settings\settings\obj\Release\settings.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\Settings\settings\obj\Release\settings.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Environment\Settings\settings\obj\Release\settings.pdb

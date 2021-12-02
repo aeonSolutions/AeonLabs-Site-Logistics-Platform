@@ -1,0 +1,484 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MACTrackBarLib
+</name>
+</assembly>
+<members>
+<member name="T:XComponent.SliderBar.ColorHelper">
+ <summary>
+ Summary description for ColorHelper.
+ </summary>
+</member>
+<member name="M:XComponent.SliderBar.ColorHelper.CreateColorFromRGB(System.Int32,System.Int32,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="red"></param>
+ <param name="green"></param>
+ <param name="blue"></param>
+ <returns></returns>
+</member>
+<member name="M:XComponent.SliderBar.ColorHelper.OpacityMix(System.Drawing.Color,System.Drawing.Color,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="blendColor"></param>
+ <param name="baseColor"></param>
+ <param name="opacity"></param>
+ <returns></returns>
+</member>
+<member name="M:XComponent.SliderBar.ColorHelper.SoftLightMix(System.Drawing.Color,System.Drawing.Color,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="baseColor"></param>
+ <param name="blendColor"></param>
+ <param name="opacity"></param>
+ <returns></returns>
+</member>
+<member name="M:XComponent.SliderBar.ColorHelper.OverlayMix(System.Drawing.Color,System.Drawing.Color,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="baseColor"></param>
+ <param name="blendColor"></param>
+ <param name="opacity"></param>
+ <returns></returns>
+</member>
+<member name="M:XComponent.SliderBar.ColorHelper.SoftLightMath(System.Int32,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="ibase"></param>
+ <param name="blend"></param>
+ <returns></returns>
+</member>
+<member name="M:XComponent.SliderBar.ColorHelper.OverlayMath(System.Int32,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="ibase"></param>
+ <param name="blend"></param>
+ <returns></returns>
+</member>
+<member name="T:XComponent.SliderBar.DrawMACStyleHelper">
+ <summary>
+ Summary description for DrawMACStyleHelper.
+ </summary>
+</member>
+<member name="M:XComponent.SliderBar.DrawMACStyleHelper.#ctor">
+ <summary>
+ The contructor 
+ </summary>
+</member>
+<member name="M:XComponent.SliderBar.DrawMACStyleHelper.DrawAquaPill(System.Drawing.Graphics,System.Drawing.RectangleF,System.Drawing.Color,System.Windows.Forms.Orientation)">
+ <summary>
+ 
+ </summary>
+ <param name="g"></param>
+ <param name="drawRectF"></param>
+ <param name="drawColor"></param>
+ <param name="orientation"></param>
+</member>
+<member name="M:XComponent.SliderBar.DrawMACStyleHelper.DrawAquaPillSingleLayer(System.Drawing.Graphics,System.Drawing.RectangleF,System.Drawing.Color,System.Windows.Forms.Orientation)">
+ <summary>
+ 
+ </summary>
+ <param name="g"></param>
+ <param name="drawRectF"></param>
+ <param name="drawColor"></param>
+ <param name="orientation"></param>
+</member>
+<member name="M:XComponent.SliderBar.DrawMACStyleHelper.FillPill(System.Drawing.Brush,System.Drawing.RectangleF,System.Drawing.Graphics)">
+ <summary>
+ 
+ </summary>
+ <param name="b"></param>
+ <param name="rect"></param>
+ <param name="g"></param>
+</member>
+<member name="T:XComponent.SliderBar.ValueChangedHandler">
+ <summary>
+ Represents the method that will handle a change in value.
+ </summary>
+</member>
+<member name="F:XComponent.SliderBar.MACBorderStyle.None">
+ <summary>
+ No border.
+ </summary>
+</member>
+<member name="F:XComponent.SliderBar.MACBorderStyle.Dashed">
+ <summary>
+ A dashed border.
+ </summary>
+</member>
+<member name="F:XComponent.SliderBar.MACBorderStyle.Dotted">
+ <summary>
+ A dotted-line border.
+ </summary>
+</member>
+<member name="F:XComponent.SliderBar.MACBorderStyle.Inset">
+ <summary>
+ A sunken border.
+ </summary>
+</member>
+<member name="F:XComponent.SliderBar.MACBorderStyle.Outset">
+ <summary>
+ A raised border.
+ </summary>
+</member>
+<member name="F:XComponent.SliderBar.MACBorderStyle.Solid">
+ <summary>
+ A solid border.
+ </summary>
+</member>
+<member name="F:XComponent.SliderBar.MACBorderStyle.Adjust">
+ <summary>
+ The border is drawn outside the specified rectangle, preserving the dimensions of the rectangle for drawing.
+ </summary>
+</member>
+<member name="F:XComponent.SliderBar.MACBorderStyle.Bump">
+ <summary>
+ The inner and outer edges of the border have a raised appearance.
+ </summary>
+</member>
+<member name="F:XComponent.SliderBar.MACBorderStyle.Etched">
+ <summary>
+ The inner and outer edges of the border have an etched appearance.
+ </summary>
+</member>
+<member name="F:XComponent.SliderBar.MACBorderStyle.Flat">
+ <summary>
+ The border has no three-dimensional effects.
+ </summary>
+</member>
+<member name="F:XComponent.SliderBar.MACBorderStyle.Raised">
+ <summary>
+ The border has raised inner and outer edges.
+ </summary>
+</member>
+<member name="F:XComponent.SliderBar.MACBorderStyle.RaisedInner">
+ <summary>
+ The border has a raised inner edge and no outer edge.
+ </summary>
+</member>
+<member name="F:XComponent.SliderBar.MACBorderStyle.RaisedOuter">
+ <summary>
+ The border has a raised outer edge and no inner edge.
+ </summary>
+</member>
+<member name="F:XComponent.SliderBar.MACBorderStyle.Sunken">
+ <summary>
+ The border has sunken inner and outer edges.
+ </summary>
+</member>
+<member name="F:XComponent.SliderBar.MACBorderStyle.SunkenInner">
+ <summary>
+ The border has a sunken inner edge and no outer edge.
+ </summary>
+</member>
+<member name="F:XComponent.SliderBar.MACBorderStyle.SunkenOuter">
+ <summary>
+ The border has a sunken outer edge and no inner edge.
+ </summary>
+</member>
+<member name="T:XComponent.SliderBar.MACTrackBar">
+ <summary>
+	  <para>
+		MACTrackBar represents an advanced track bar that is very better than the 
+		standard trackbar.
+   </para>
+   <para>
+   MACTrackBar supports the following features:
+   <list type="bullet">
+     <item><c>MAC style, Office2003 style, IDE2003 style and Plain style.</c></item>
+     <item><c>Vertical and Horizontal trackbar.</c></item>
+     <item><c>Supports many Text Tick styles: None, TopLeft, BottomRight, Both. You can change Text Font, ForeColor.</c></item> 
+     <item><c>Supports many Tick styles: None, TopLeft, BottomRight, Both.</c></item> 
+     <item><c>You can change <see cref="P:XComponent.SliderBar.MACTrackBar.TickColor"/>, <see cref="P:XComponent.SliderBar.MACTrackBar.TickFrequency"/>, <see cref="P:XComponent.SliderBar.MACTrackBar.TickHeight"/>.</c></item> 
+     <item><c>You can change <see cref="P:XComponent.SliderBar.MACTrackBar.TrackerColor"/> and <see cref="P:XComponent.SliderBar.MACTrackBar.TrackerSize"/>.</c></item> 
+     <item><c>You can change <see cref="P:XComponent.SliderBar.MACTrackBar.TrackLineColor"/> and <see cref="P:XComponent.SliderBar.MACTrackBar.TrackLineHeight"/>.</c></item> 	
+     <item><c>Easy to Use and Integrate in Visual Studio .NET.</c></item> 
+     <item><c>100% compatible to the standard control in VS.NET.</c></item> 
+     <item><c>100% managed code.</c></item> 
+     <item><c>No coding RAD component.</c></item> 
+   </list>
+   </para>
+ </summary>
+</member>
+<member name="E:XComponent.SliderBar.MACTrackBar.ValueChanged">
+ <summary>
+ Occurs when the property Value has been changed.
+ </summary>
+</member>
+<member name="E:XComponent.SliderBar.MACTrackBar.Scroll">
+ <summary>
+ Occurs when either a mouse or keyboard action moves the slider.
+ </summary>
+</member>
+<member name="M:XComponent.SliderBar.MACTrackBar.#ctor">
+ <summary>
+ Constructor method of <see cref="T:XComponent.SliderBar.MACTrackBar"/> class
+ </summary>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.AutoSize">
+ <summary>
+ Gets or sets a value indicating whether the height or width of the track bar is being automatically sized.
+ </summary>
+ <remarks>You can set the AutoSize property to true to cause the track bar to adjust either its height or width, depending on orientation, to ensure that the control uses only the required amount of space.</remarks>
+ <value>true if the track bar is being automatically sized; otherwise, false. The default is true.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.LargeChange">
+ <summary>
+ Gets or sets a value to be added to or subtracted from the <see cref="P:XComponent.SliderBar.MACTrackBar.Value"/> property when the slider is moved a large distance.
+ </summary>
+ <remarks>
+ When the user presses the PAGE UP or PAGE DOWN key or clicks the track bar on either side of the slider, the <see cref="P:XComponent.SliderBar.MACTrackBar.Value"/> 
+ property changes according to the value set in the <see cref="P:XComponent.SliderBar.MACTrackBar.LargeChange"/> property. 
+ You might consider setting the <see cref="P:XComponent.SliderBar.MACTrackBar.LargeChange"/> value to a percentage of the <see cref="P:System.Windows.Forms.Control.Height"/> (for a vertically oriented track bar) or 
+ <see cref="P:System.Windows.Forms.Control.Width"/> (for a horizontally oriented track bar) values. This keeps the distance your track bar moves proportionate to its size.
+ </remarks>
+ <value>A numeric value. The default value is 2.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.SmallChange">
+ <summary>
+ Gets or sets a value to be added to or subtracted from the <see cref="P:XComponent.SliderBar.MACTrackBar.Value"/> property when the slider is moved a small distance.
+ </summary>
+ <remarks>
+ When the user presses one of the arrow keys, the <see cref="P:XComponent.SliderBar.MACTrackBar.Value"/> property changes according to the value set in the SmallChange property.
+ You might consider setting the <see cref="P:XComponent.SliderBar.MACTrackBar.SmallChange"/> value to a percentage of the <see cref="P:System.Windows.Forms.Control.Height"/> (for a vertically oriented track bar) or 
+ <see cref="P:System.Windows.Forms.Control.Width"/> (for a horizontally oriented track bar) values. This keeps the distance your track bar moves proportionate to its size.
+ </remarks>
+ <value>A numeric value. The default value is 1.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.TrackLineHeight">
+ <summary>
+ Gets or sets the height of track line.
+ </summary>
+ <value>The default value is 4.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.TickColor">
+ <summary>
+ Gets or sets the tick's <see cref="T:System.Drawing.Color"/> of the control.
+ </summary>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.TickFrequency">
+ <summary>
+ Gets or sets a value that specifies the delta between ticks drawn on the control.
+ </summary>
+ <remarks>
+ For a <see cref="T:XComponent.SliderBar.MACTrackBar"/> with a large range of values between the <see cref="P:XComponent.SliderBar.MACTrackBar.Minimum"/> and the 
+ <see cref="P:XComponent.SliderBar.MACTrackBar.Maximum"/>, it might be impractical to draw all the ticks for values on the control. 
+ For example, if you have a control with a range of 100, passing in a value of 
+ five here causes the control to draw 20 ticks. In this case, each tick 
+ represents five units in the range of values.
+ </remarks>
+ <value>The numeric value representing the delta between ticks. The default is 1.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.TickHeight">
+ <summary>
+ Gets or sets the height of tick.
+ </summary>
+ <value>The height of tick in pixels. The default value is 2.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.IndentHeight">
+ <summary>
+ Gets or sets the height of indent (or Padding-Y).
+ </summary>
+ <value>The height of indent in pixels. The default value is 6.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.IndentWidth">
+ <summary>
+ Gets or sets the width of indent (or Padding-Y).
+ </summary>
+ <value>The width of indent in pixels. The default value is 6.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.TrackerSize">
+ <summary>
+ Gets or sets the tracker's size. 
+ The tracker's width must be greater or equal to tracker's height.
+ </summary>
+ <value>The <see cref="P:System.Windows.Forms.Control.Size"/> object that represents the height and width of the tracker in pixels.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.TextTickStyle">
+ <summary>
+ Gets or sets the text tick style of the trackbar.
+ There are 4 styles for selection: None, TopLeft, BottomRight, Both. 
+ </summary>
+ <remarks>You can use the <see cref="P:System.Windows.Forms.Control.Font"/>, <see cref="P:System.Windows.Forms.Control.ForeColor"/>
+ properties to customize the tick text.</remarks>
+ <value>One of the <see cref="P:XComponent.SliderBar.MACTrackBar.TickStyle"/> values. The default is <b>BottomRight</b>.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.TickStyle">
+ <summary>
+ Gets or sets the tick style of the trackbar.
+ There are 4 styles for selection: None, TopLeft, BottomRight, Both. 
+ </summary>
+ <remarks>You can use the <see cref="P:XComponent.SliderBar.MACTrackBar.TickColor"/>, <see cref="P:XComponent.SliderBar.MACTrackBar.TickFrequency"/>, 
+ <see cref="P:XComponent.SliderBar.MACTrackBar.TickHeight"/> properties to customize the trackbar's ticks.</remarks>
+ <value>One of the <see cref="P:XComponent.SliderBar.MACTrackBar.TickStyle"/> values. The default is <b>BottomRight</b>.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.TrackerColor">
+ <summary>
+ Gets or set tracker's color.
+ </summary>
+ <value>
+ <remarks>You can change size of tracker by <see cref="P:XComponent.SliderBar.MACTrackBar.TrackerSize"/> property.</remarks>
+ A <see cref="T:System.Drawing.Color"/> that represents the color of the tracker. 
+ </value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.Value">
+ <summary>
+ Gets or sets a numeric value that represents the current position of the slider on the track bar.
+ </summary>
+ <remarks>The Value property contains the number that represents the current position of the slider on the track bar.</remarks>
+ <value>A numeric value that is within the <see cref="P:XComponent.SliderBar.MACTrackBar.Minimum"/> and <see cref="P:XComponent.SliderBar.MACTrackBar.Maximum"/> range. 
+ The default value is 0.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.Minimum">
+ <summary>
+ Gets or sets the lower limit of the range this <see cref="T:XComponent.SliderBar.MACTrackBar"/> is working with.
+ </summary>
+ <remarks>You can use the <see cref="M:XComponent.SliderBar.MACTrackBar.SetRange(System.Int32,System.Int32)"/> method to set both the <see cref="P:XComponent.SliderBar.MACTrackBar.Maximum"/> and <see cref="P:XComponent.SliderBar.MACTrackBar.Minimum"/> properties at the same time.</remarks>
+ <value>The minimum value for the <see cref="T:XComponent.SliderBar.MACTrackBar"/>. The default value is 0.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.Maximum">
+ <summary>
+ Gets or sets the upper limit of the range this <see cref="T:XComponent.SliderBar.MACTrackBar"/> is working with.
+ </summary>
+ <remarks>You can use the <see cref="M:XComponent.SliderBar.MACTrackBar.SetRange(System.Int32,System.Int32)"/> method to set both the <see cref="P:XComponent.SliderBar.MACTrackBar.Maximum"/> and <see cref="P:XComponent.SliderBar.MACTrackBar.Minimum"/> properties at the same time.</remarks>
+ <value>The maximum value for the <see cref="T:XComponent.SliderBar.MACTrackBar"/>. The default value is 10.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.Orientation">
+ <summary>
+ Gets or sets a value indicating the horizontal or vertical orientation of the track bar.
+ </summary>
+ <remarks>
+ When the <b>Orientation</b> property is set to <b>Orientation.Horizontal</b>, 
+ the slider moves from left to right as the <see cref="P:XComponent.SliderBar.MACTrackBar.Value"/> increases. 
+ When the <b>Orientation</b> property is set to <b>Orientation.Vertical</b>, the slider moves 
+ from bottom to top as the <see cref="P:XComponent.SliderBar.MACTrackBar.Value"/> increases.
+ </remarks>
+ <value>One of the <see cref="P:XComponent.SliderBar.MACTrackBar.Orientation"/> values. The default value is <b>Horizontal</b>.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.BorderStyle">
+ <summary>
+ Gets or sets the border type of the trackbar control.
+ </summary>
+ <value>A <see cref="T:XComponent.SliderBar.MACBorderStyle"/> that represents the border type of the trackbar control. 
+ The default is <b>MACBorderStyle.None</b>.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.BorderColor">
+ <summary>
+ Gets or sets the border color of the control.
+ </summary>
+ <value>A <see cref="T:System.Drawing.Color"/> object that represents the border color of the control.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.TrackLineColor">
+ <summary>
+ Gets or sets the color of the track line.
+ </summary>
+ <value>A <see cref="T:System.Drawing.Color"/> object that represents the color of the track line.</value>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.FitSize">
+ <summary>
+ Gets the Size of area need for drawing.
+ </summary>
+</member>
+<member name="P:XComponent.SliderBar.MACTrackBar.TrackerRect">
+ <summary>
+ Gets the rectangle containing the tracker.
+ </summary>
+</member>
+<member name="M:XComponent.SliderBar.MACTrackBar.OnScroll">
+ <summary>
+ Raises the Scroll event.
+ </summary>
+</member>
+<member name="M:XComponent.SliderBar.MACTrackBar.SetRange(System.Int32,System.Int32)">
+ <summary>
+ Sets the minimum and maximum values for a TrackBar.
+ </summary>
+ <param name="minValue">The lower limit of the range of the track bar.</param>
+ <param name="maxValue">The upper limit of the range of the track bar.</param>
+</member>
+<member name="M:XComponent.SliderBar.MACTrackBar.ResetAppearance">
+ <summary>
+ Reset the appearance properties.
+ </summary>
+</member>
+<member name="M:XComponent.SliderBar.MACTrackBar.OnCreateControl">
+ <summary>
+ The OnCreateControl method is called when the control is first created.
+ </summary>
+</member>
+<member name="M:XComponent.SliderBar.MACTrackBar.OnLostFocus(System.EventArgs)">
+ <summary>
+ This member overrides <see cref="M:System.Windows.Forms.Control.OnLostFocus(System.EventArgs)">Control.OnLostFocus</see>.
+ </summary>
+</member>
+<member name="M:XComponent.SliderBar.MACTrackBar.OnGotFocus(System.EventArgs)">
+ <summary>
+ This member overrides <see cref="M:System.Windows.Forms.Control.OnGotFocus(System.EventArgs)">Control.OnGotFocus</see>.
+ </summary>
+</member>
+<member name="M:XComponent.SliderBar.MACTrackBar.OnClick(System.EventArgs)">
+ <summary>
+ This member overrides <see cref="M:System.Windows.Forms.Control.OnClick(System.EventArgs)">Control.OnClick</see>.
+ </summary>
+</member>
+<member name="M:XComponent.SliderBar.MACTrackBar.ProcessCmdKey(System.Windows.Forms.Message@,System.Windows.Forms.Keys)">
+ <summary>
+ This member overrides <see cref="M:System.Windows.Forms.Control.ProcessCmdKey(System.Windows.Forms.Message@,System.Windows.Forms.Keys)">Control.ProcessCmdKey</see>.
+ </summary>
+</member>
+<member name="M:XComponent.SliderBar.MACTrackBar.Dispose(System.Boolean)">
+ <summary>
+ Dispose of instance resources.
+ </summary>
+ <param name="disposing">true to release both managed and unmanaged resources; false to release only unmanaged resources.</param>
+</member>
+<member name="M:XComponent.SliderBar.MACTrackBar.OnPaint(System.Windows.Forms.PaintEventArgs)">
+ <summary>
+ This member overrides <see cref="M:System.Windows.Forms.Control.OnPaint(System.Windows.Forms.PaintEventArgs)">Control.OnPaint</see>.
+ </summary>
+</member>
+<member name="M:XComponent.SliderBar.MACTrackBar.DrawTrackLine(System.Drawing.Graphics,System.Drawing.RectangleF)">
+ <summary>
+ 
+ </summary>
+ <param name="g"></param>
+ <param name="drawRect"></param>
+</member>
+<member name="M:XComponent.SliderBar.MACTrackBar.DrawBorder(System.Drawing.Graphics)">
+ <summary>
+ 
+ </summary>
+ <param name="g"></param>
+</member>
+<member name="T:XComponent.SliderBar.Designer.MACTrackBarDesigner">
+ <summary>
+ The Designer for the <see cref="T:XComponent.SliderBar.MACTrackBar"/>.
+ </summary>
+</member>
+<member name="P:XComponent.SliderBar.Designer.MACTrackBarDesigner.SelectionRules">
+ <summary>
+ Returns the allowable design time selection rules.
+ </summary>
+</member>
+<member name="M:XComponent.SliderBar.Designer.MACTrackBarDesigner.PostFilterProperties(System.Collections.IDictionary)">
+ <summary>
+ Remove Button and Control properties that are 
+ not supported by the <see cref="T:XComponent.SliderBar.MACTrackBar"/>.
+ </summary>
+</member>
+<member name="M:XComponent.SliderBar.Designer.MACTrackBarDesigner.PostFilterEvents(System.Collections.IDictionary)">
+ <summary>
+ Remove Button and Control events that are 
+ not supported by the <see cref="T:XComponent.SliderBar.MACTrackBar"/>.
+ </summary>
+</member>
+</members>
+</doc>

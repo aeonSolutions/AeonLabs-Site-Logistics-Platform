@@ -1,0 +1,72 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MessageBox
+</name>
+</assembly>
+<members>
+<member name="T:AeonLabs.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AeonLabs.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AeonLabs.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:AeonLabs.My.Resources.strings">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AeonLabs.My.Resources.strings.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AeonLabs.My.Resources.strings.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:AeonLabs.My.Resources.strings._continue">
+<summary>
+  Looks up a localized string similar to Continue.
+</summary>
+</member>
+<member name="P:AeonLabs.My.Resources.strings.cancel">
+<summary>
+  Looks up a localized string similar to Cancel.
+</summary>
+</member>
+<member name="P:AeonLabs.My.Resources.strings.no">
+<summary>
+  Looks up a localized string similar to No.
+</summary>
+</member>
+<member name="P:AeonLabs.My.Resources.strings.ok">
+<summary>
+  Looks up a localized string similar to OK.
+</summary>
+</member>
+<member name="P:AeonLabs.My.Resources.strings.retry">
+<summary>
+  Looks up a localized string similar to Retry.
+</summary>
+</member>
+<member name="P:AeonLabs.My.Resources.strings.yes">
+<summary>
+  Looks up a localized string similar to Yes.
+</summary>
+</member>
+</members>
+</doc>

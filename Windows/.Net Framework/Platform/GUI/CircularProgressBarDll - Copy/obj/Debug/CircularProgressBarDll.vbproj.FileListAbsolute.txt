@@ -1,0 +1,11 @@
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBarDll.vbprojResolveAssemblyReference.cache
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBarDll.vbproj.GenerateResource.Cache
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\bin\Debug\System.Windows.Forms.dll
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\bin\Debug\System.Windows.Forms.xml
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\bin\Debug\CircularProgressBar.dll
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\bin\Debug\CircularProgressBar.pdb
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\bin\Debug\CircularProgressBar.xml
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBar.Resources.resources
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBar.dll
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBar.xml
+C:\Users\Valleriani\Documents\Visual Studio 2015\Projects\CPBDll\CircularProgressBarDll\obj\Debug\CircularProgressBar.pdb

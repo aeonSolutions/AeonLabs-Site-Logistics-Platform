@@ -1,0 +1,3 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\obj\Debug\ConstructionSiteLogistics.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\obj\Debug\Google Translation.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\AddOns\Google Translation\obj\Debug\Google Translation.vbproj.CoreCompileInputs.cache

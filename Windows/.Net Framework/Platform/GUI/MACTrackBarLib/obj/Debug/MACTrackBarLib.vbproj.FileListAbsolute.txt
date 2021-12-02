@@ -1,0 +1,10 @@
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MACTrackBarLib\bin\Debug\MACTrackBarLib.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MACTrackBarLib\bin\Debug\MACTrackBarLib.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MACTrackBarLib\bin\Debug\MACTrackBarLib.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MACTrackBarLib\obj\Debug\MACTrackBarLib.vbprojAssemblyReference.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MACTrackBarLib\obj\Debug\MACTrackBar.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MACTrackBarLib\obj\Debug\MACTrackBarLib.vbproj.GenerateResource.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MACTrackBarLib\obj\Debug\MACTrackBarLib.vbproj.CoreCompileInputs.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MACTrackBarLib\obj\Debug\MACTrackBarLib.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MACTrackBarLib\obj\Debug\MACTrackBarLib.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MACTrackBarLib\obj\Debug\MACTrackBarLib.pdb
