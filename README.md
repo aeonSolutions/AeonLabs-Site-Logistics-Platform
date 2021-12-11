@@ -1,11 +1,8 @@
-# Site Logistics Android
- This is the Android App of the site logistics platform
+# Site Logistics 
+ This is development repo for the site logistics management system
+there is an old website located here:
+https://www.aeonlabs.solutions/sitelogistics.construction/
 
-## Main Screen
-![Main screen](https://github.com/aeonSolutions/Site-Logistics-Android/blob/main/ScreenShots/Screenshot_20201126-103228.jpg)
-
-## Sidebar Menu
-![Sidebar Menu](https://github.com/aeonSolutions/Site-Logistics-Android/blob/main/ScreenShots/Screenshot_20201117-195732.jpg)
-
-## Logging of Attendances
-![Logging of attendances](https://github.com/aeonSolutions/Site-Logistics-Android/blob/main/ScreenShots/Screenshot_20201126-103247.jpg)
+- Android : the code for the foreman android app (SDK 29)
+- Windows : the code for the office windows app (latest working vb.net)
+- Cloud: the code for the Cloud API (PHP, MySQL)
