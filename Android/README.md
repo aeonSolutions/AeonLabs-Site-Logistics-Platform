@@ -6,3 +6,5 @@ there is a global env. file located in \app\src\main\java\construction\site\logi
 
 # Requirments
 A mobile smartphone or tablet with NFC technology and location 
+
+![](https://github.com/aeonSolutions/Site-Logistics-Platform/blob/main/Android/ScreenShots/Screenshot_20201117-124355.jpg)
