@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name">QC Worker</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_lang_fr">Français</string>
+    <string name="action_lang_pt">Portugais</string>
+    <string name="action_lang_en">Anglais</string>
+
+    <string name="menu_logout">Déconnexion</string>
+    <string name="menu_about">Sur</string>
+    <string name="menu_contact">Contacts</string>
+    <string name="menu_empresa">Entreprise</string>
+    <string name="menu_desempenho">Performance</string>
+    <string name="menu_ausencia">Demande d\'absence / congés</string>
+    <string name="menu_ficha">Dossier Personnel</string>
+    <string name="menu_pessoal">Personnel</string>
+    <string name="menu_alimentacao">Alimentation</string>
+    <string name="menu_alojamento">Hébergement</string>
+    <string name="menu_aloj_alim">Hébergement &amp; Alimentation</string>
+    <string name="menu_limosa">Limosas</string>
+    <string name="menu_obra">Chantier</string>
+    <string name="menu_home">Accueil</string>
+    <string name="menu_sugestao">Suggestion / plainte</string>
+    <string name="menu_share">Partager</string>
+    <string name="menu_visit_us">Visitez nous en ligne</string>
+    <string name="menu_privacy_policy">Politique de confidentialité</string>
+    <string name="menu_terms_of_use">Conditions d\'utilisation</string>
+    <string name="toast_lang_select">Langue déjà sélectionnée!</string>
+
+    <string name="prompt_worker_code">Ouvrier ID</string>
+    <string name="action_sign_in">se connecter</string>
+    <string name="action_sign_in_short">se connecter</string>
+    <string name="welcome">"Bienvenu! "</string>
+    <string name="invalid_username">Identifiant non valide</string>
+    <string name="login_failed">"Échec de la connexion"</string>
+    <string name="login_activity_input_id">Tapez votre numéro de ouvrier</string>
+    <string name="login_activity_nfc">Présentez votre carte de ouvrier</string>
+    <string name="loading">attendre un moment svp...</string>
+
+    <string name="update_required">Vous devez mettre à jour l\'application</string>
+    <string name="update_check">Vérification de la version App ...</string>
+    <string name="update_ok">Vous avez la dernière version</string>
+
+    <string name="error_title">Error</string>
+    <string name="error_file_not_found">File not found</string>
+    <string name="error_write_file">Error writing file</string>
+    <string name="error_no_data">No data received</string>
+    <string name="error_ivalid_data">Données reçues non valides</string>
+    <string name="error_ivalid_url">url non valide</string>
+    <string name="error_nfc_disabled">NFC est désactivé</string>
+    <string name="error_nfc_not_supported">NFC n\'est pas supporté</string>
+    <string name="error_nfc_ask">Activer NFC dans les paramètres?</string>
+    <string name="error_location_disabled">Vous devez activer le localization</string>
+    <string name="error_update_msg">Il y a une nouvelle version de l\'application. Cliquez sur Continuer pour installer.</string>
+    <string name="error_update_available">Mise à jour disponible</string>
+
+    <string name="alertbox_continue">Continuer</string>
+    <string name="alertbox_cancel">Annuler</string>
+    <string name="alertbox_title_question">Question</string>
+
+    <string name="button_send_request">Envoyer une demande</string>
+    <string name="button_send">Envoyer</string>
+
+    <string name="commServer_error">Serveur non disponible!</string>
+    <string name="commServer_connect_title_msg">Chargement...</string>
+    <string name="commServer_connect_msg">Connexion avec le serveur</string>
+    <string name="commServer_check_internet">Verifique a ligação à internet e tente novamente</string>
+    <string name="commServer_download_ok">Download efetuado</string>
+    <string name="commServer_submit_error">Erreur lors de la soumission de la demande</string>
+    <string name="commServer_submit_ok">Demande soumise avec succès</string>
+
+    <string name="share_title">Quality Construction</string>
+    <string name="share_message">Hey ami, consultez ce site de construction impressionnante: http://www.qualityconstruction.be</string>
+    <string name="share_via">Partege via</string>
+
+    <string name="fragment_about_registered_to">Cette version de l\'application est enregistrée à Quality Construction</string>
+    <string name="fragment_about_developer">Développé et maintenu par Miguel Silva &#169; 2019</string>
+    <string name="fragment_about_contact">mtpsilva@icloud.com</string>
+    <string name="fragment_about_download">Vous pouvez télécharger la dernière version sur \n http://www.qualityconstruction.be/app</string>
+    <string name="fragment_about_version">Version</string>
+    <string name="fragment_about_title">Sur</string>
+    <string name="fragment_about_email_choose">Choisissez un client de email</string>
+    <string name="fragment_about_email_subject">Email de contact de Construction App</string>
+    <string name="fragment_about_email_message">Bonjour, \n Je veux vous contacter parce que ... \n cordialment, votre nom </string>
+    <string name="fragment_about_testers">Testeurs d\'applications et débogueurs</string>
+
+    <string name="fragment_contacts_title">Contacts QC</string>
+    <string name="fragment_contacts_eg_title">Chef d\'equipe</string>
+    <string name="fragment_contacts_eg_mobile">numéro gsm: +32 0 479 13 55 76</string>
+    <string name="fragment_contacts_eg_email">joseazevedo@qualityconstruction.be</string>
+    <string name="fragment_contacts_eg_name">Monsieur José Azevedo</string>
+
+    <string name="fragment_contacts_ec_title">Ingénieur &amp; Projects</string>
+    <string name="fragment_contacts_ec_mobile">numéro gsm: +32 0 474 28 69 01</string>
+    <string name="fragment_contacts_ec_email">miguelsilva@qualityconstruction.be</string>
+    <string name="fragment_contacts_ec_name">Miguel Silva</string>
+
+    <string name="fragment_contacts_sf_title">Sécurité &amp; Formation</string>
+    <string name="fragment_contacts_sf_mobile">numéro gsm: +32 0 475 31 89 98</string>
+    <string name="fragment_contacts_sf_email">marcelobessa@qualityconstruction.be</string>
+    <string name="fragment_contacts_sf_name">Marcelo Bessa</string>
+
+    <string name="fragment_contacts_ag_title">Administratrice Générale</string>
+    <string name="fragment_contacts_ag_mobile">numéro gsm: +32 0 479 13 55 26</string>
+    <string name="fragment_contacts_ag_email">anaguedes@qualityconstruction.be</string>
+    <string name="fragment_contacts_ag_name">Ana Guedes</string>
+
+    <string name="fragment_limosas_title">Limosa du chantier</string>
+    <string name="fragment_limosas_short_description">Voir limosa QR code du chantier</string>
+    <string name="fragment_limosas_nosite">vous n\'êtes pas sur un chantier de construction</string>
+    <string name="fragment_limosas_nolimosa">vous ne disposez pas d\'un Limosa pour ce chantier de construction</string>
+
+    <string name="fragment_lodging_title">Hébergement</string>
+    <string name="fragment_lodging_short_description">Vérifiez ou demander le changement d\'hébergement</string>
+    <string name="fragment_lodging_actual">Vous êtes actuellement logé dans</string>
+    <string name="fragment_lodging_request_change">Je veux faire une demande pour changer de lieu à</string>
+    <string name="fragment_lodging_reason">Dites-nous pourquoi vous voulez changer</string>
+    <string name="fragment_lodging_no_places">pas de places disponibles</string>
+    <string name="fragment_lodging_no_assign">pas de place réservée</string>
+    <string name="fragment_lodging_invalid_selection">Vous devez choisir un endroit différent</string>
+    <string name="fragment_lodging_invalid_reason">Vous devez indiquer un motif</string>
+
+    <string name="fragment_suggestion_title">Suggestion / plainte</string>
+    <string name="fragment_suggestion_submit_title">Je veux faire une plainte ou une suggestion</string>
+    <string name="fragment_suggestion_box">Dites-nous ce que vous pensez</string>
+    <string name="fragment_suggestion_invalid_reason">Vous devez indiquer un motif</string>
+
+    <string name="fragment_performance_title">Performance</string>
+    <string name="fragment_performance_short_text">Ce mois-ci rendement au travail</string>
+    <string name="fragment_performance_explanation_text">Le valeur est déterminée en fonction du nombre de jours travaillés et du nombre total de jours d\'absence pendant ce mois.</string>
+
+
+    <string name="fragment_absense_title">Absence / Congés</string>
+    <string name="fragment_absense_short_description">Calendrier jours d\'absence ou vacances</string>
+    <string name="fragment_absense_schedule_request">Je veux planifier des jours d\'absence ou pour les vacances</string>
+    <string name="fragment_absense_reason">Quel est le motif</string>
+    <string name="fragment_absense_select_date">sélectionnez une date</string>
+    <string name="fragment_absense_start_date">Date de début</string>
+    <string name="fragment_absense_end_date">Date de fin</string>
+    <string name="fragment_absense_invalid_reason">Vous devez indiquer un motif</string>
+
+    <string name="fragment_absense_invalid_start_date">Start date has to be no earlier than tomorrow</string>
+    <string name="fragment_absense_invalid_end_date">End date needs to be later than start date</string>
+
+    <string name="fragment_workerfile_title">Données personnelles</string>
+    <string name="fragment_workerfile_worker_number">Ouvrier num.:</string>
+    <string name="fragment_workerfile_short_description">Vérifier ou modifier les données</string>
+    <string name="fragment_workerfile_header">Dossier personnel de l\'entreprise</string>
+    <string name="fragment_workerfile_name">Nom</string>
+    <string name="fragment_workerfile_email">Email</string>
+    <string name="fragment_workerfile_mobile"> numero GSM</string>
+    <string name="fragment_workerfile_mobile_112">Personne à contacter en cas d\'urgence</string>
+    <string name="fragment_workerfile_nib">Compte bancaire NIB</string>
+    <string name="fragment_workerfile_edit_data">Je veux changer les détails du fichier personnel</string>
+    <string name="fragment_workerfile_nothing_changes">Nothing to change on your personal file</string>
+    <string name="fragment_workerfile_ivalid_user">Erreur chargement des données du travailleur</string>
+    <string name="fragment_workerfile_address">Adresse</string>
+
+    <string name="fragment_food_title">Sélection de repas</string>
+    <string name="fragment_food_short_description">Choisissez votre dîner pour aujourd\'hui</string>
+    <string name="fragment_food_header">Choix de repas du jour pour le dîner</string>
+    <string name="fragment_food_selection">Choisissez votre repas</string>
+    <string name="fragment_food_place">Vous êtes affecté à manger au restaurant</string>
+    <string name="fragment_food_info">Vous pouvez faire une réservation de repas que jusqu\'à 12h et annuler jusqu\'à 18h</string>
+    <string name="fragment_food_no_assign">Vous n\'avez pas de restaurant assigné à vous. Contactez le bureau pour en savoir plus. Je vous remercie.</string>
+    <string name="fragment_food_no_eat">Je ne dîne pas ce soir</string>
+    <string name="fragment_food_alertbox_no_meal">Es-tu sûr de ne pas dîner ce soir?</string>
+
+    <string name="fragment_home_title">Bienvenue</string>
+    <string name="fragment_privacy_title">P. Confidentialité</string>
+    <string name="fragment_terms_title">Cond. d\'utilisation</string>
+</resources>

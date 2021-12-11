@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/menu_home" />
+    </group>
+
+    <item android:title="@string/menu_obra">
+        <menu>
+            <item
+                android:id="@+id/nav_limosas"
+                android:icon="@drawable/qrcode"
+                android:title="@string/menu_limosa" />
+        </menu>
+    </item>
+    <item android:title="@string/menu_aloj_alim">
+        <menu>
+            <item
+                android:id="@+id/nav_alojamento"
+                android:icon="@drawable/lodging"
+                android:title="@string/menu_alojamento" />
+            <item
+                android:id="@+id/nav_alimentacao"
+                android:icon="@drawable/food"
+                android:title="@string/menu_alimentacao" />
+        </menu>
+    </item>
+    <item android:title="@string/menu_pessoal">
+        <menu>
+            <item
+                android:id="@+id/nav_ficha"
+                android:icon="@drawable/personalfile"
+                android:title="@string/menu_ficha" />
+            <item
+                android:id="@+id/nav_ausencia"
+                android:icon="@drawable/absense"
+                android:title="@string/menu_ausencia" />
+            <item
+                android:id="@+id/nav_desempenho"
+                android:icon="@drawable/performance"
+                android:title="@string/menu_desempenho" />
+            <item
+                android:id="@+id/nav_sugestao"
+                android:icon="@drawable/complaint"
+                android:title="@string/menu_sugestao" />
+        </menu>
+    </item>
+    <item android:title="@string/menu_empresa">
+        <menu>
+            <item
+                android:id="@+id/nav_contactos"
+                android:icon="@drawable/contacts"
+                android:title="@string/menu_contact" />
+            <item
+                android:id="@+id/nav_privacy"
+                android:icon="@drawable/privacy_policy"
+                android:title="@string/menu_privacy_policy" />
+            <item
+                android:id="@+id/nav_terms"
+                android:icon="@drawable/terms_use"
+                android:title="@string/menu_terms_of_use" />
+        </menu>
+    </item>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_visit_us"
+                android:icon="@drawable/ic_globe"
+                android:title="@string/menu_visit_us" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/about"
+                android:title="@string/menu_about" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/contacts"
+                android:title="@string/menu_logout" />
+        </menu>
+    </item>
+
+</menu>

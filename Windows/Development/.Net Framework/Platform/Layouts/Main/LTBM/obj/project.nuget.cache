@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LYd+0lwlAb2Qt2M+RRU2ZG88F1cVj/1zklUgKX5eajRbo8AjggpF/Ivet0VnhFmaq+oIvEE1b8truFTRgXSC9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel\\.nuget\\packages\\ilmerge\\3.0.29\\ilmerge.3.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

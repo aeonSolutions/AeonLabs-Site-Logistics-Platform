@@ -1,0 +1,717 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeAnalysis.PublicApiAnalyzers.2.9.8\build\Microsoft.CodeAnalysis.PublicApiAnalyzers.props" Condition="Exists('..\packages\Microsoft.CodeAnalysis.PublicApiAnalyzers.2.9.8\build\Microsoft.CodeAnalysis.PublicApiAnalyzers.props')" />
+  <Import Project="..\packages\Microsoft.CodeAnalysis.BannedApiAnalyzers.2.9.8\build\Microsoft.CodeAnalysis.BannedApiAnalyzers.props" Condition="Exists('..\packages\Microsoft.CodeAnalysis.BannedApiAnalyzers.2.9.8\build\Microsoft.CodeAnalysis.BannedApiAnalyzers.props')" />
+  <Import Project="..\packages\Microsoft.CodeAnalysis.FxCopAnalyzers.2.9.8\build\Microsoft.CodeAnalysis.FxCopAnalyzers.props" Condition="Exists('..\packages\Microsoft.CodeAnalysis.FxCopAnalyzers.2.9.8\build\Microsoft.CodeAnalysis.FxCopAnalyzers.props')" />
+  <Import Project="..\packages\Microsoft.NetFramework.Analyzers.2.9.8\build\Microsoft.NetFramework.Analyzers.props" Condition="Exists('..\packages\Microsoft.NetFramework.Analyzers.2.9.8\build\Microsoft.NetFramework.Analyzers.props')" />
+  <Import Project="..\packages\Microsoft.NetCore.Analyzers.2.9.8\build\Microsoft.NetCore.Analyzers.props" Condition="Exists('..\packages\Microsoft.NetCore.Analyzers.2.9.8\build\Microsoft.NetCore.Analyzers.props')" />
+  <Import Project="..\packages\Microsoft.CodeQuality.Analyzers.2.9.8\build\Microsoft.CodeQuality.Analyzers.props" Condition="Exists('..\packages\Microsoft.CodeQuality.Analyzers.2.9.8\build\Microsoft.CodeQuality.Analyzers.props')" />
+  <Import Project="..\packages\Microsoft.CodeAnalysis.VersionCheckAnalyzer.2.9.8\build\Microsoft.CodeAnalysis.VersionCheckAnalyzer.props" Condition="Exists('..\packages\Microsoft.CodeAnalysis.VersionCheckAnalyzer.2.9.8\build\Microsoft.CodeAnalysis.VersionCheckAnalyzer.props')" />
+  <Import Project="..\packages\Microsoft.CodeAnalysis.Analyzers.2.9.8\build\Microsoft.CodeAnalysis.Analyzers.props" Condition="Exists('..\packages\Microsoft.CodeAnalysis.Analyzers.2.9.8\build\Microsoft.CodeAnalysis.Analyzers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5BC1384E-CC5A-4330-88F7-CB128F7EC3D6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ConstructionSiteLogistics.My.MyApplication</StartupObject>
+    <RootNamespace>ConstructionSiteLogistics</RootNamespace>
+    <AssemblyName>Construction Site Logistics</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Construction Site Logistics.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Construction Site Logistics.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoUpdater.NET, Version=1.5.2.0, Culture=neutral, PublicKeyToken=501435c91b35f4bc, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autoupdater.NET.Official.1.5.2\lib\net40\AutoUpdater.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="ClosedXML, Version=0.94.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ClosedXML.0.94.2\lib\net46\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.10.0.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.10.0\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelNumberFormat, Version=1.0.8.0, Culture=neutral, PublicKeyToken=23c6f5d73be07eca, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelNumberFormat.1.0.8\lib\net20\ExcelNumberFormat.dll</HintPath>
+    </Reference>
+    <Reference Include="FastMember, Version=1.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FastMember.1.5.0\lib\net461\FastMember.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeAnalysis, Version=3.4.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeAnalysis.Common.3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeAnalysis.FlowAnalysis.Utilities, Version=2.9.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeAnalysis.FlowAnalysis.Utilities.2.9.6\lib\netstandard1.3\Microsoft.CodeAnalysis.FlowAnalysis.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeAnalysis.VisualBasic, Version=3.4.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeAnalysis.VisualBasic.3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.VisualBasic.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeAnalysis.VisualBasic.Workspaces, Version=3.4.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeAnalysis.VisualBasic.Workspaces.3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeAnalysis.Workspaces, Version=3.4.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeAnalysis.Workspaces.Common.3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.Workspaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\WindowsBase.4.6.1055.0\lib\WindowsBase.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DialogForms\initializeSmartCard.Designer.vb">
+      <DependentUpon>initializeSmartCard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DialogForms\initializeSmartCard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogForms\tableSearchOptions.Designer.vb">
+      <DependentUpon>tableSearchOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DialogForms\tableSearchOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogForms\Settings.Designer.vb">
+      <DependentUpon>Settings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DialogForms\Settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMdiForm.Designer.vb">
+      <DependentUpon>MainMdiForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainMdiForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modules\AesCipher.vb" />
+    <Compile Include="modules\JSonFunctions.vb" />
+    <Compile Include="modules\NFCard.vb" />
+    <Compile Include="modules\ExportExcelClass.vb" />
+    <Compile Include="modules\Settings.lib.vb" />
+    <Compile Include="modules\Strings.vb" />
+    <Compile Include="modules\UIdataLoading.vb" />
+    <Compile Include="modules\Searches.vb" />
+    <Compile Include="modules\UI.vb" />
+    <Compile Include="modules\WorkersDataTable.vb" />
+    <Compile Include="modules\FingerPrint.vb" />
+    <Compile Include="modules\HttpData.vb" />
+    <Compile Include="modules\language.lib.vb" />
+    <Compile Include="sitePlanning\PlanDailyTasksAddTeams.Designer.vb">
+      <DependentUpon>PlanDailyTasksAddTeams.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sitePlanning\PlanDailyTasksAddTeams.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sitePlanning\PlanDailyTasks.Designer.vb">
+      <DependentUpon>PlanDailyTasks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sitePlanning\PlanDailyTasks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="site\siteProductionEditTasks.Designer.vb">
+      <DependentUpon>siteProductionEditTasks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="site\siteProductionEditTasks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="site\siteLivraisonStats.Designer.vb">
+      <DependentUpon>siteLivraisonStats.vb</DependentUpon>
+    </Compile>
+    <Compile Include="site\siteLivraisonStats.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="site\receptionMaterialsList.Designer.vb">
+      <DependentUpon>receptionMaterialsList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="site\receptionMaterialsList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="site\journalView.Designer.vb">
+      <DependentUpon>journalView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="site\journalView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="site\siteClosureList.Designer.vb">
+      <DependentUpon>siteClosureList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="site\siteClosureList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogForms\usersProfile.Designer.vb">
+      <DependentUpon>usersProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DialogForms\usersProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkersAttendance\loggerStats.Designer.vb">
+      <DependentUpon>loggerStats.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WorkersAttendance\loggerStats.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogForms\MessageBox.Designer.vb">
+      <DependentUpon>MessageBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DialogForms\MessageBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modules\ApplicationEvents.vb" />
+    <Compile Include="modules\BusyThread.vb" />
+    <Compile Include="Avisos.Designer.vb">
+      <DependentUpon>Avisos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Avisos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modules\CCBoxItem.vb" />
+    <Compile Include="modules\CheckedComboBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="modules\backgroundTasks.vb" />
+    <Compile Include="modules\ManagementTranslation.lib.vb" />
+    <Compile Include="modules\UIEffects.vb" />
+    <Compile Include="modules\_Snipets.vb" />
+    <Compile Include="site\siteClosure.Designer.vb">
+      <DependentUpon>siteClosure.vb</DependentUpon>
+    </Compile>
+    <Compile Include="site\siteClosure.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="site\siteManagement.Designer.vb">
+      <DependentUpon>siteManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="site\siteManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="site\siteReceptionMaterials.Designer.vb">
+      <DependentUpon>siteReceptionMaterials.vb</DependentUpon>
+    </Compile>
+    <Compile Include="site\siteReceptionMaterials.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="site\siteRegieEdit.Designer.vb">
+      <DependentUpon>siteRegieEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="site\siteRegieEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sitePlanning\teamsPlan.Designer.vb">
+      <DependentUpon>teamsPlan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sitePlanning\teamsPlan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Workers\workerClothesList.Designer.vb">
+      <DependentUpon>workerClothesList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Workers\workerClothesList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Workers\workersAbsenceList.Designer.vb">
+      <DependentUpon>workersAbsenceList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Workers\workersAbsenceList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Workers\workersClothes.Designer.vb">
+      <DependentUpon>workersClothes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Workers\workersClothes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Workers\workersAbsense.Designer.vb">
+      <DependentUpon>workersAbsense.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Workers\workersAbsense.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="site\SiteLivraisonEdit.Designer.vb">
+      <DependentUpon>SiteLivraisonEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="site\SiteLivraisonEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modules\state.vb" />
+    <Compile Include="MsgCenter.Designer.vb">
+      <DependentUpon>MsgCenter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MsgCenter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.vb">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BusyTasks\waitingServer.Designer.vb">
+      <DependentUpon>waitingServer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BusyTasks\waitingServer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Workers\WorkersList.Designer.vb">
+      <DependentUpon>WorkersList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Workers\WorkersList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Workers\WorkerLocate.Designer.vb">
+      <DependentUpon>WorkerLocate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Workers\WorkerLocate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogForms\mobileDevices.Designer.vb">
+      <DependentUpon>mobileDevices.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DialogForms\mobileDevices.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogForms\Meteo.Designer.vb">
+      <DependentUpon>Meteo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DialogForms\Meteo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogForms\Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DialogForms\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modules\ManagementNetwork.lib.vb" />
+    <Compile Include="BusyTasks\UploadForm.Designer.vb">
+      <DependentUpon>UploadForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BusyTasks\UploadForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modules\RichTextBoxPrintCtrl.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="modules\ManagementFiles.lib.vb" />
+    <Compile Include="Help\about.Designer.vb">
+      <DependentUpon>about.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Help\about.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogForms\entreprises.Designer.vb">
+      <DependentUpon>entreprises.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DialogForms\entreprises.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogForms\categories.Designer.vb">
+      <DependentUpon>categories.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DialogForms\categories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkersAttendance\attendanceRecordsVerification.Designer.vb">
+      <DependentUpon>attendanceRecordsVerification.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WorkersAttendance\attendanceRecordsVerification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BusyTasks\DownloadForm.Designer.vb">
+      <DependentUpon>DownloadForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BusyTasks\DownloadForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Workers\workerDocuments.Designer.vb">
+      <DependentUpon>workerDocuments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Workers\workerDocuments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modules\functions.vb" />
+    <Compile Include="WorkersAttendance\report.Designer.vb">
+      <DependentUpon>report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WorkersAttendance\report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BusyTasks\waiting.Designer.vb">
+      <DependentUpon>waiting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BusyTasks\waiting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkersAttendance\loggerMultiday.Designer.vb">
+      <DependentUpon>loggerMultiday.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WorkersAttendance\loggerMultiday.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogForms\holidays.Designer.vb">
+      <DependentUpon>holidays.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DialogForms\holidays.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkersAttendance\logger.Designer.vb">
+      <DependentUpon>logger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WorkersAttendance\logger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkersAttendance\loggerLogday.Designer.vb">
+      <DependentUpon>loggerLogday.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WorkersAttendance\loggerLogday.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sitePlanning\teams.Designer.vb">
+      <DependentUpon>teams.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sitePlanning\teams.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="site\site.Designer.vb">
+      <DependentUpon>site.vb</DependentUpon>
+    </Compile>
+    <Compile Include="site\site.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Workers\workers.Designer.vb">
+      <DependentUpon>workers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Workers\workers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DialogForms\initializeSmartCard.resx">
+      <DependentUpon>initializeSmartCard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DialogForms\tableSearchOptions.resx">
+      <DependentUpon>tableSearchOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DialogForms\Settings.resx">
+      <DependentUpon>Settings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help\about.resx">
+      <DependentUpon>about.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMdiForm.resx">
+      <DependentUpon>MainMdiForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sitePlanning\PlanDailyTasks.resx">
+      <DependentUpon>PlanDailyTasks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="site\siteProductionEditTasks.resx">
+      <DependentUpon>siteProductionEditTasks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="site\siteLivraisonStats.resx">
+      <DependentUpon>siteLivraisonStats.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="site\receptionMaterialsList.resx">
+      <DependentUpon>receptionMaterialsList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="site\journalView.resx">
+      <DependentUpon>journalView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="site\siteClosureList.resx">
+      <DependentUpon>siteClosureList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DialogForms\usersProfile.resx">
+      <DependentUpon>usersProfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkersAttendance\loggerStats.resx">
+      <DependentUpon>loggerStats.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DialogForms\MessageBox.resx">
+      <DependentUpon>MessageBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sitePlanning\PlanDailyTasksAddTeams.resx">
+      <DependentUpon>PlanDailyTasksAddTeams.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="site\siteClosure.resx">
+      <DependentUpon>siteClosure.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="site\siteManagement.resx">
+      <DependentUpon>siteManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="site\siteReceptionMaterials.resx">
+      <DependentUpon>siteReceptionMaterials.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="site\siteRegieEdit.resx">
+      <DependentUpon>siteRegieEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sitePlanning\teamsPlan.resx">
+      <DependentUpon>teamsPlan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Workers\workerClothesList.resx">
+      <DependentUpon>workerClothesList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Workers\workersAbsenceList.resx">
+      <DependentUpon>workersAbsenceList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Workers\workerDocuments.resx">
+      <DependentUpon>workerDocuments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkersAttendance\attendanceRecordsVerification.resx">
+      <DependentUpon>attendanceRecordsVerification.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DialogForms\entreprises.resx">
+      <DependentUpon>entreprises.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DialogForms\categories.resx">
+      <DependentUpon>categories.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BusyTasks\DownloadForm.resx">
+      <DependentUpon>DownloadForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Avisos.resx">
+      <DependentUpon>Avisos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Workers\workersClothes.resx">
+      <DependentUpon>workersClothes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Workers\workersAbsense.resx">
+      <DependentUpon>workersAbsense.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="site\SiteLivraisonEdit.resx">
+      <DependentUpon>SiteLivraisonEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MsgCenter.resx">
+      <DependentUpon>MsgCenter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BusyTasks\waitingServer.resx">
+      <DependentUpon>waitingServer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Workers\WorkersList.resx">
+      <DependentUpon>WorkersList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Workers\WorkerLocate.resx">
+      <DependentUpon>WorkerLocate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DialogForms\mobileDevices.resx">
+      <DependentUpon>mobileDevices.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DialogForms\Meteo.resx">
+      <DependentUpon>Meteo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DialogForms\Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BusyTasks\UploadForm.resx">
+      <DependentUpon>UploadForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DialogForms\holidays.resx">
+      <DependentUpon>holidays.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkersAttendance\loggerMultiday.resx">
+      <DependentUpon>loggerMultiday.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkersAttendance\report.resx">
+      <DependentUpon>report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BusyTasks\waiting.resx">
+      <DependentUpon>waiting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkersAttendance\logger.resx">
+      <DependentUpon>logger.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkersAttendance\loggerLogday.resx">
+      <DependentUpon>loggerLogday.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sitePlanning\teams.resx">
+      <DependentUpon>teams.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="site\site.resx">
+      <DependentUpon>site.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Workers\workers.resx">
+      <DependentUpon>workers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
+    <None Include="app.config" />
+    <None Include="library\nl.eon" />
+    <None Include="library\pt.eon" />
+    <None Include="library\fr.eon" />
+    <None Include="library\en.eon" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include=".config\App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".config\packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\personSmall.fw.png" />
+    <Content Include="app.ico" />
+    <Content Include="bin\Debug\images\qc.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Analyzer Include="..\packages\Microsoft.CodeAnalysis.Analyzers.2.9.8\analyzers\dotnet\vb\Microsoft.CodeAnalysis.Analyzers.dll" />
+    <Analyzer Include="..\packages\Microsoft.CodeAnalysis.Analyzers.2.9.8\analyzers\dotnet\vb\Microsoft.CodeAnalysis.VisualBasic.Analyzers.dll" />
+    <Analyzer Include="..\packages\Microsoft.CodeAnalysis.BannedApiAnalyzers.2.9.8\analyzers\dotnet\vb\Microsoft.CodeAnalysis.BannedApiAnalyzers.dll" />
+    <Analyzer Include="..\packages\Microsoft.CodeAnalysis.BannedApiAnalyzers.2.9.8\analyzers\dotnet\vb\Microsoft.CodeAnalysis.VisualBasic.BannedApiAnalyzers.dll" />
+    <Analyzer Include="..\packages\Microsoft.CodeAnalysis.PublicApiAnalyzers.2.9.8\analyzers\dotnet\Microsoft.CodeAnalysis.PublicApiAnalyzers.CodeFixes.dll" />
+    <Analyzer Include="..\packages\Microsoft.CodeAnalysis.PublicApiAnalyzers.2.9.8\analyzers\dotnet\Microsoft.CodeAnalysis.PublicApiAnalyzers.dll" />
+    <Analyzer Include="..\packages\Microsoft.CodeAnalysis.VersionCheckAnalyzer.2.9.8\analyzers\dotnet\Microsoft.CodeAnalysis.VersionCheckAnalyzer.dll" />
+    <Analyzer Include="..\packages\Microsoft.CodeQuality.Analyzers.2.9.8\analyzers\dotnet\vb\Humanizer.dll" />
+    <Analyzer Include="..\packages\Microsoft.CodeQuality.Analyzers.2.9.8\analyzers\dotnet\vb\Microsoft.CodeQuality.Analyzers.dll" />
+    <Analyzer Include="..\packages\Microsoft.CodeQuality.Analyzers.2.9.8\analyzers\dotnet\vb\Microsoft.CodeQuality.VisualBasic.Analyzers.dll" />
+    <Analyzer Include="..\packages\Microsoft.NetCore.Analyzers.2.9.8\analyzers\dotnet\vb\Microsoft.NetCore.Analyzers.dll" />
+    <Analyzer Include="..\packages\Microsoft.NetCore.Analyzers.2.9.8\analyzers\dotnet\vb\Microsoft.NetCore.VisualBasic.Analyzers.dll" />
+    <Analyzer Include="..\packages\Microsoft.NetFramework.Analyzers.2.9.8\analyzers\dotnet\vb\Microsoft.NetFramework.Analyzers.dll" />
+    <Analyzer Include="..\packages\Microsoft.NetFramework.Analyzers.2.9.8\analyzers\dotnet\vb\Microsoft.NetFramework.VisualBasic.Analyzers.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <Target Name="AfterBuild">
+    <ItemGroup>
+      <MoveToLibFolder Include="$(OutputPath)*.dll ; $(OutputPath)*.pdb ; $(OutputPath)*.xml" />
+    </ItemGroup>
+  </Target>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeAnalysis.Analyzers.2.9.8\build\Microsoft.CodeAnalysis.Analyzers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeAnalysis.Analyzers.2.9.8\build\Microsoft.CodeAnalysis.Analyzers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeAnalysis.VersionCheckAnalyzer.2.9.8\build\Microsoft.CodeAnalysis.VersionCheckAnalyzer.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeAnalysis.VersionCheckAnalyzer.2.9.8\build\Microsoft.CodeAnalysis.VersionCheckAnalyzer.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeQuality.Analyzers.2.9.8\build\Microsoft.CodeQuality.Analyzers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeQuality.Analyzers.2.9.8\build\Microsoft.CodeQuality.Analyzers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.NetCore.Analyzers.2.9.8\build\Microsoft.NetCore.Analyzers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.NetCore.Analyzers.2.9.8\build\Microsoft.NetCore.Analyzers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.NetFramework.Analyzers.2.9.8\build\Microsoft.NetFramework.Analyzers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.NetFramework.Analyzers.2.9.8\build\Microsoft.NetFramework.Analyzers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeAnalysis.FxCopAnalyzers.2.9.8\build\Microsoft.CodeAnalysis.FxCopAnalyzers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeAnalysis.FxCopAnalyzers.2.9.8\build\Microsoft.CodeAnalysis.FxCopAnalyzers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeAnalysis.BannedApiAnalyzers.2.9.8\build\Microsoft.CodeAnalysis.BannedApiAnalyzers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeAnalysis.BannedApiAnalyzers.2.9.8\build\Microsoft.CodeAnalysis.BannedApiAnalyzers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeAnalysis.PublicApiAnalyzers.2.9.8\build\Microsoft.CodeAnalysis.PublicApiAnalyzers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeAnalysis.PublicApiAnalyzers.2.9.8\build\Microsoft.CodeAnalysis.PublicApiAnalyzers.props'))" />
+  </Target>
+</Project>

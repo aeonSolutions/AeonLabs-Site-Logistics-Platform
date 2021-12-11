@@ -1,0 +1,80 @@
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\obj\Debug\Interop.SHDocVw.dll
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\obj\Debug\Interop.Shell32.dll
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\obj\Debug\MessageBox.vbproj.ResolveComReference.cache
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\obj\Debug\MessageBox.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\obj\Debug\MessageBox.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\obj\Debug\MessageBox.vbprojAssemblyReference.cache
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\obj\Debug\AeonLabs.messageBoxForm.resources
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\obj\Debug\AeonLabs.MessageBoxChild.resources
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\obj\Debug\AeonLabs.Resources.resources
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\obj\Debug\AeonLabs.strings.resources
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\bin\Debug\MessageBox.dll.config
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\bin\Debug\MessageBox.dll
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\bin\Debug\MessageBox.pdb
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\bin\Debug\MessageBox.xml
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\bin\Debug\environment.dll
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\bin\Debug\panel.dll
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\bin\Debug\System.Drawing.Common.dll
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\bin\Debug\environment.pdb
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\bin\Debug\panel.pdb
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\bin\Debug\panel.xml
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\obj\Debug\MessageBox.vbproj.CopyComplete
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\obj\Debug\MessageBox.dll
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\obj\Debug\MessageBox.xml
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\obj\Debug\MessageBox.pdb
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\bin\Debug\environment.xml
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\MessageBox\bin\Debug\environment.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\MessageBox.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\MessageBox.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\MessageBox.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\MessageBox.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\environment.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\panel.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\assemblyEnvironment.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\Custom Controls.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\environment.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\environment.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\environment.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\panel.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\panel.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\assemblyEnvironment.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\assemblyEnvironment.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\assemblyEnvironment.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\Custom Controls.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\Custom Controls.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\bin\Debug\Custom Controls.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\obj\Debug\Interop.SHDocVw.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\obj\Debug\Interop.Shell32.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\obj\Debug\MessageBox.vbproj.ResolveComReference.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\obj\Debug\AeonLabs.messageBoxForm.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\obj\Debug\AeonLabs.MessageBoxChild.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\obj\Debug\AeonLabs.Resources.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\obj\Debug\AeonLabs.strings.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\obj\Debug\MessageBox.vbproj.GenerateResource.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\obj\Debug\MessageBox.vbproj.CoreCompileInputs.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\obj\Debug\MessageBox.vbproj.CopyComplete
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\obj\Debug\MessageBox.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\obj\Debug\MessageBox.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\obj\Debug\MessageBox.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\MessageBox.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\MessageBox.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\MessageBox.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\MessageBox.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\AppsMain\builds\debug\MessageBox.dll.config
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\AppsMain\builds\debug\MessageBox.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\AppsMain\builds\debug\MessageBox.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\AppsMain\builds\debug\MessageBox.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\GUI\MessageBox\obj\Debug\MessageBox.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\GUI\MessageBox\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\GUI\MessageBox\obj\Debug\Interop.Shell32.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\GUI\MessageBox\obj\Debug\MessageBox.vbproj.ResolveComReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\GUI\MessageBox\obj\Debug\AeonLabs.messageBoxForm.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\GUI\MessageBox\obj\Debug\AeonLabs.MessageBoxChild.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\GUI\MessageBox\obj\Debug\AeonLabs.Resources.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\GUI\MessageBox\obj\Debug\AeonLabs.strings.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\GUI\MessageBox\obj\Debug\MessageBox.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\GUI\MessageBox\obj\Debug\MessageBox.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\GUI\MessageBox\obj\Debug\MessageBox.vbproj.CopyComplete
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\GUI\MessageBox\obj\Debug\MessageBox.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\GUI\MessageBox\obj\Debug\MessageBox.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\GUI\MessageBox\obj\Debug\MessageBox.pdb

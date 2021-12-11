@@ -1,0 +1,98 @@
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\medieval.startup.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\medieval.startup.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\medieval.startup.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\medieval.startup.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\AlphaGradientPanel.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Basic libraries.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\CircularProgressBar.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Contactless SmartCards Interface.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\contactless.smartcards.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Custom Controls.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\environment.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\environmentLoading.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\MessageBox.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Quote of the Day.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\startup.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\network.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\settings.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\security.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Newtonsoft.Json.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\assemblyEnvironment.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\tasksManager.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\panel.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\environmentLoading.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\environmentLoading.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\environmentLoading.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\environment.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\environment.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\environment.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\startup.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\startup.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\startup.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Custom Controls.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Custom Controls.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Custom Controls.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\MessageBox.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\MessageBox.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\MessageBox.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\AlphaGradientPanel.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\AlphaGradientPanel.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Basic libraries.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Basic libraries.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Basic libraries.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\CircularProgressBar.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\CircularProgressBar.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Contactless SmartCards Interface.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Contactless SmartCards Interface.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Contactless SmartCards Interface.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\contactless.smartcards.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\contactless.smartcards.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Quote of the Day.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Quote of the Day.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Quote of the Day.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\network.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\network.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\network.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\settings.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\settings.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\settings.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\security.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\security.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\security.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\Newtonsoft.Json.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\assemblyEnvironment.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\assemblyEnvironment.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\assemblyEnvironment.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\tasksManager.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\tasksManager.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\tasksManager.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\panel.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\startUp\medieval\bin\Debug\panel.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\StartUp\medieval\obj\Debug\medieval Layout StartUp.vbprojAssemblyReference.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\StartUp\medieval\obj\Debug\AeonLabs.Layouts.StartUp.Resources.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\StartUp\medieval\obj\Debug\AeonLabs.Layouts.StartUp.LayoutStartUpForm.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\StartUp\medieval\obj\Debug\AeonLabs.Layouts.StartUp.strings.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\StartUp\medieval\obj\Debug\medieval Layout StartUp.vbproj.GenerateResource.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\StartUp\medieval\obj\Debug\medieval Layout StartUp.vbproj.CoreCompileInputs.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\StartUp\medieval\obj\Debug\medieval Layout StartUp.vbproj.CopyComplete
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\medieval.startup.layout.dll.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\medieval.startup.layout.dll.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\medieval.startup.layout.dll.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\medieval.startup.layout.dll.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\StartUp\medieval\obj\Debug\medieval.startup.layout.dll.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\StartUp\medieval\obj\Debug\medieval.startup.layout.dll.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Layouts\StartUp\medieval\obj\Debug\medieval.startup.layout.dll.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\AppsMain\builds\debug\medieval.startup.layout.dll.dll.config
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\AppsMain\builds\debug\medieval.startup.layout.dll.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\AppsMain\builds\debug\medieval.startup.layout.dll.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\AppsMain\builds\debug\medieval.startup.layout.dll.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Layouts\startUp\medieval\obj\Debug\medieval Layout StartUp.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Layouts\startUp\medieval\obj\Debug\AeonLabs.Layouts.StartUp.Resources.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Layouts\startUp\medieval\obj\Debug\AeonLabs.Layouts.StartUp.LayoutStartUpForm.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Layouts\startUp\medieval\obj\Debug\AeonLabs.Layouts.StartUp.strings.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Layouts\startUp\medieval\obj\Debug\medieval Layout StartUp.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Layouts\startUp\medieval\obj\Debug\medieval Layout StartUp.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Layouts\startUp\medieval\obj\Debug\medieval Layout StartUp.vbproj.CopyComplete
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Layouts\startUp\medieval\obj\Debug\medieval.startup.layout.dll.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Layouts\startUp\medieval\obj\Debug\medieval.startup.layout.dll.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Layouts\startUp\medieval\obj\Debug\medieval.startup.layout.dll.pdb

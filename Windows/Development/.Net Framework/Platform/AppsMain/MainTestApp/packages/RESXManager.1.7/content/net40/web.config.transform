@@ -1,0 +1,25 @@
+<configuration>
+  <configSections>
+    <section name="RESXManager" type="RESXManager.Core.Configuration.RESXSection,
+			RESXManager.Core" />
+  </configSections>
+  <RESXManager configSource="config\RESXManager.config" />
+
+  <system.web>
+    <pages clientIDMode="AutoID" />
+    <httpRuntime requestValidationMode="2.0" />
+    <httpModules>
+      <add name="RESXManagerLogControl"
+				type="RESXManager.Presentation.HttpModules.RESXManagerLogControl,
+				RESXManager.Presentation.PureNet"/>
+    </httpModules>
+  </system.web>
+  <system.webServer>
+    <validation validateIntegratedModeConfiguration="false" />
+    <modules>
+      <add name="RESXManagerLogControl"
+				type="RESXManager.Presentation.HttpModules.RESXManagerLogControl,
+				RESXManager.Presentation.PureNet"/>
+    </modules>
+  </system.webServer>
+</configuration>

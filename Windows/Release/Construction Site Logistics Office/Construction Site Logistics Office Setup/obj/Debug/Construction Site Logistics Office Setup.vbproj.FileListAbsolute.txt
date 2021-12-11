@@ -1,0 +1,175 @@
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.vbprojAssemblyReference.cache
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.Resources.resources
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_country.resources
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_language.resources
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_ServerAddress.resources
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_signIn.resources
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_createDB.resources
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_addOns.resources
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_settingUp.resources
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_createAdminAccount.resources
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_DiagnosticsCrashData.resources
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_finnish.resources
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_NewFtpWebSettings.resources
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_platformType.resources
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics Office Setup.exe.config
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics Office Setup.exe
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics Office Setup.pdb
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics Office Setup.xml
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics.exe
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\AutoUpdater.NET.dll
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ClosedXML.dll
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ExcelNumberFormat.dll
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics.pdb
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics.xml
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics.exe.config
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\AutoUpdater.NET.xml
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ClosedXML.pdb
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ClosedXML.xml
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ExcelNumberFormat.xml
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.vbproj.CopyComplete
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.exe
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.xml
+C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.pdb
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics Office Setup.exe.config
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics Office Setup.exe
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics Office Setup.pdb
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics Office Setup.xml
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics.exe
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Newtonsoft.Json.dll
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\AutoUpdater.NET.dll
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ClosedXML.dll
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ExcelNumberFormat.dll
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics.pdb
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics.xml
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics.exe.config
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Newtonsoft.Json.xml
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\AutoUpdater.NET.pdb
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\AutoUpdater.NET.xml
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ClosedXML.pdb
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ClosedXML.xml
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ExcelNumberFormat.xml
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.vbprojAssemblyReference.cache
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.Resources.resources
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_country.resources
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_language.resources
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_ServerAddress.resources
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_signIn.resources
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_createDB.resources
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_addOns.resources
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_settingUp.resources
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_createAdminAccount.resources
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_DiagnosticsCrashData.resources
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_finnish.resources
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_NewFtpWebSettings.resources
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_platformType.resources
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.vbproj.GenerateResource.cache
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.vbproj.CopyComplete
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.exe
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.xml
+D:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.pdb
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics Office Setup.exe.config
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics Office Setup.exe
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics Office Setup.pdb
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics Office Setup.xml
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics.exe
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Newtonsoft.Json.dll
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\AutoUpdater.NET.dll
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ClosedXML.dll
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ExcelNumberFormat.dll
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics.pdb
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics.xml
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics.exe.config
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Newtonsoft.Json.xml
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\AutoUpdater.NET.pdb
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\AutoUpdater.NET.xml
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ClosedXML.pdb
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ClosedXML.xml
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ExcelNumberFormat.xml
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.vbprojAssemblyReference.cache
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.Resources.resources
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_country.resources
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_language.resources
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_ServerAddress.resources
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_signIn.resources
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_createDB.resources
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_addOns.resources
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_settingUp.resources
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_createAdminAccount.resources
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_DiagnosticsCrashData.resources
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_finnish.resources
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_NewFtpWebSettings.resources
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_platformType.resources
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.vbproj.GenerateResource.cache
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.vbproj.CopyComplete
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.exe
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.xml
+E:\Backup\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.pdb
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Setup.exe.config
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Setup.exe
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Setup.pdb
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Setup.xml
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Setup.exe.CodeAnalysisLog.xml
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Setup.exe.lastcodeanalysissucceeded
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics.exe
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\AutoUpdater.NET.dll
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ClosedXML.dll
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics.pdb
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics.xml
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Construction Site Logistics.exe.config
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\AutoUpdater.NET.xml
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ClosedXML.pdb
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ClosedXML.xml
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.vbprojAssemblyReference.cache
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.Resources.resources
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_country.resources
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_language.resources
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_ServerAddress.resources
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_signIn.resources
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_createDB.resources
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_addOns.resources
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_settingUp.resources
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_createAdminAccount.resources
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_DiagnosticsCrashData.resources
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_finnish.resources
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_NewFtpWebSettings.resources
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_platformType.resources
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.vbproj.GenerateResource.cache
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.vbproj.CopyComplete
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Setup.exe
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Setup.xml
+C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Setup.pdb
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.vbproj.AssemblyReference.cache
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.vbproj.SuggestedBindingRedirects.cache
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.Resources.resources
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_country.resources
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_language.resources
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_ServerAddress.resources
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_signIn.resources
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_createDB.resources
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_addOns.resources
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_settingUp.resources
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_createAdminAccount.resources
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_DiagnosticsCrashData.resources
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_finnish.resources
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_NewFtpWebSettings.resources
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction_Site_Logistics_Office_Setup.setupWizard_platformType.resources
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.vbproj.GenerateResource.cache
+G:\DiskContents\STASH\Programming\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office Setup\obj\Debug\Construction Site Logistics Office Setup.vbproj.CoreCompileInputs.cache

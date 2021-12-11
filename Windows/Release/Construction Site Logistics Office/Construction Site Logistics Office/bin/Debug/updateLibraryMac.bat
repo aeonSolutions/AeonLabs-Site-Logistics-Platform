@@ -1,0 +1,2 @@
+xcopy /K /D /H /Y /Z "C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office\library" "C:\Users\Aeon\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office\bin\Debug\library"
+pause

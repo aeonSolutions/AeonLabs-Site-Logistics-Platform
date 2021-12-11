@@ -1,0 +1,26 @@
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Management Coding Tasks\bin\Debug\tasksManager.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Management Coding Tasks\bin\Debug\tasksManager.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Management Coding Tasks\bin\Debug\tasksManager.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Management Coding Tasks\bin\Debug\tasksManager.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Management Coding Tasks\obj\Debug\AeonLabs.tasksManager.Resources.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Management Coding Tasks\obj\Debug\tasksManager.vbproj.GenerateResource.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Management Coding Tasks\obj\Debug\tasksManager.vbproj.CoreCompileInputs.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Management Coding Tasks\obj\Debug\tasksManager.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Management Coding Tasks\obj\Debug\tasksManager.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Management Coding Tasks\obj\Debug\tasksManager.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\tasksManager.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\tasksManager.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\tasksManager.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\tasksManager.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Management Coding Tasks\obj\Debug\tasksManager.vbprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\AppsMain\builds\debug\tasksManager.dll.config
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\AppsMain\builds\debug\tasksManager.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\AppsMain\builds\debug\tasksManager.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\AppsMain\builds\debug\tasksManager.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Management Coding Tasks\obj\Debug\tasksManager.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Management Coding Tasks\obj\Debug\AeonLabs.tasksManager.Resources.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Management Coding Tasks\obj\Debug\tasksManager.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Management Coding Tasks\obj\Debug\tasksManager.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Management Coding Tasks\obj\Debug\tasksManager.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Management Coding Tasks\obj\Debug\tasksManager.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Management Coding Tasks\obj\Debug\tasksManager.pdb

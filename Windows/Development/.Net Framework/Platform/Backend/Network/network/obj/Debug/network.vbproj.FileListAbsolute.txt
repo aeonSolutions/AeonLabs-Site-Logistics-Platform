@@ -1,0 +1,85 @@
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\obj\Debug\network.vbprojAssemblyReference.cache
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\obj\Debug\AeonLabs.Network.Resources.resources
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\obj\Debug\AeonLabs.Network.strings.resources
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\obj\Debug\network.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\obj\Debug\network.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\network.dll.config
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\network.dll
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\network.pdb
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\network.xml
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\environment.dll
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\MessageBox.dll
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\Newtonsoft.Json.dll
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\security.dll
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\panel.dll
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\environment.pdb
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\environment.xml
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\environment.dll.config
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\MessageBox.pdb
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\MessageBox.xml
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\MessageBox.dll.config
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\Newtonsoft.Json.xml
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\security.pdb
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\security.xml
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\security.dll.config
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\panel.pdb
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\bin\Debug\panel.xml
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\obj\Debug\network.vbproj.CopyComplete
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\obj\Debug\network.dll
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\obj\Debug\network.xml
+D:\DiskContents\Software\Code\AeonLabs Logistics\Windows\InternalCode\network\network\obj\Debug\network.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\network.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\network.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\network.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\network.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\environment.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\MessageBox.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\Newtonsoft.Json.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\security.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\panel.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\assemblyEnvironment.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\Custom Controls.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\MessageBox.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\MessageBox.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\MessageBox.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\environment.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\environment.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\environment.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\security.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\security.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\security.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\Newtonsoft.Json.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\panel.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\panel.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\assemblyEnvironment.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\assemblyEnvironment.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\assemblyEnvironment.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\Custom Controls.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\Custom Controls.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\bin\Debug\Custom Controls.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\obj\Debug\network.vbprojAssemblyReference.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\obj\Debug\AeonLabs.Network.Resources.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\obj\Debug\AeonLabs.Network.strings.resources
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\obj\Debug\network.vbproj.GenerateResource.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\obj\Debug\network.vbproj.CoreCompileInputs.cache
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\obj\Debug\network.vbproj.CopyComplete
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\obj\Debug\network.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\obj\Debug\network.xml
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Network\network\obj\Debug\network.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\network.dll.config
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\network.dll
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\network.pdb
+H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\debug\network.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\AppsMain\builds\debug\network.dll.config
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\AppsMain\builds\debug\network.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\AppsMain\builds\debug\network.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\AppsMain\builds\debug\network.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Network\network\obj\Debug\network.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Network\network\obj\Debug\AeonLabs.Network.Resources.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Network\network\obj\Debug\AeonLabs.Network.strings.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Network\network\obj\Debug\network.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Network\network\obj\Debug\network.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Network\network\obj\Debug\network.vbproj.CopyComplete
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Network\network\obj\Debug\network.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Network\network\obj\Debug\network.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Network\network\obj\Debug\network.pdb
