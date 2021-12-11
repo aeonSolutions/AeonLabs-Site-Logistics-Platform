@@ -1,0 +1,2 @@
+[25-Dec-2020 16:54:27 UTC] PHP Warning:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' (this will throw an Error in a future version of PHP) in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/index.php on line 2
+[08-Mar-2021 07:45:12 UTC] PHP Warning:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' (this will throw an Error in a future version of PHP) in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/index.php on line 2

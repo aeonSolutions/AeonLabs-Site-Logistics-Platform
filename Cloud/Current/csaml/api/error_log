@@ -1,0 +1,77 @@
+[15-Dec-2020 18:15:52 Europe/Brussels] PHP Notice:  Undefined offset: 3 in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/auth.php on line 47
+[15-Dec-2020 18:16:03 Europe/Brussels] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CheckCredentials(), 2 passed in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php on line 217 and at least 4 expected in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php:64
+Stack trace:
+#0 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php(217): CheckCredentials(Object(database_class), Array)
+#1 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/index.php(8): include('/home/h1xhyjfp3...')
+#2 {main}
+  thrown in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php on line 64
+[15-Dec-2020 18:16:23 Europe/Brussels] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CheckCredentials(), 2 passed in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php on line 217 and at least 4 expected in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php:64
+Stack trace:
+#0 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php(217): CheckCredentials(Object(database_class), Array)
+#1 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/index.php(8): include('/home/h1xhyjfp3...')
+#2 {main}
+  thrown in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php on line 64
+[15-Dec-2020 18:16:24 Europe/Brussels] PHP Notice:  Undefined variable: j in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/production.php on line 45
+[17-Dec-2020 14:18:17 Europe/Brussels] PHP Notice:  Undefined offset: 3 in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/auth.php on line 47
+[08-Jan-2021 13:38:54 Europe/Brussels] PHP Notice:  Undefined offset: 4 in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/office/site_bordereau.php on line 292
+[08-Jan-2021 13:38:54 Europe/Brussels] PHP Notice:  Undefined offset: 4 in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/office/site_bordereau.php on line 293
+[29-Jan-2021 17:27:59 Europe/Brussels] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/office/check_credentials.php on line 59
+[29-Jan-2021 17:27:59 Europe/Brussels] PHP Warning:  file_get_contents(http://www.sitelogistics.construction/shared/update/update.php?task=office): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/office/check_credentials.php on line 59
+[29-Jan-2021 18:59:11 Europe/Brussels] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/office/check_credentials.php on line 59
+[29-Jan-2021 18:59:11 Europe/Brussels] PHP Warning:  file_get_contents(http://www.sitelogistics.construction/shared/update/update.php?task=office): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/office/check_credentials.php on line 59
+[04-Mar-2021 12:49:28 Europe/Brussels] PHP Notice:  Undefined offset: 3 in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/auth.php on line 47
+[04-Mar-2021 12:49:31 Europe/Brussels] PHP Notice:  Undefined offset: 3 in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/auth.php on line 47
+[04-Mar-2021 12:49:38 Europe/Brussels] PHP Notice:  Undefined offset: 3 in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/auth.php on line 47
+[04-Mar-2021 12:49:49 Europe/Brussels] PHP Notice:  Undefined offset: 3 in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/auth.php on line 47
+[04-Mar-2021 12:50:06 Europe/Brussels] PHP Notice:  Undefined offset: 3 in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/auth.php on line 47
+[30-Nov-2021 21:11:17 Europe/Brussels] PHP Notice:  Undefined offset: 3 in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/auth.php on line 47
+[30-Nov-2021 22:03:11 Europe/Brussels] PHP Notice:  Undefined offset: 3 in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/auth.php on line 47
+[30-Nov-2021 22:03:24 Europe/Brussels] PHP Notice:  Undefined variable: j in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/production.php on line 45
+[30-Nov-2021 22:03:39 Europe/Brussels] PHP Notice:  Undefined variable: j in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/production.php on line 45
+[30-Nov-2021 22:06:05 Europe/Brussels] PHP Notice:  Undefined offset: 3 in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/auth.php on line 47
+[01-Dec-2021 01:23:04 Europe/Brussels] PHP Notice:  Undefined offset: 3 in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/auth.php on line 47
+[01-Dec-2021 01:26:59 Europe/Brussels] PHP Notice:  Undefined variable: j in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/production.php on line 45
+[01-Dec-2021 01:29:12 Europe/Brussels] PHP Notice:  Undefined offset: 3 in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/auth.php on line 47
+[01-Dec-2021 01:29:23 Europe/Brussels] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CheckCredentials(), 2 passed in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php on line 217 and at least 4 expected in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php:64
+Stack trace:
+#0 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php(217): CheckCredentials(Object(database_class), Array)
+#1 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/index.php(8): include('/home/h1xhyjfp3...')
+#2 {main}
+  thrown in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php on line 64
+[01-Dec-2021 01:29:39 Europe/Brussels] PHP Notice:  Undefined variable: j in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site/production.php on line 45
+[01-Dec-2021 01:29:44 Europe/Brussels] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CheckCredentials(), 2 passed in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php on line 217 and at least 4 expected in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php:64
+Stack trace:
+#0 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php(217): CheckCredentials(Object(database_class), Array)
+#1 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/index.php(8): include('/home/h1xhyjfp3...')
+#2 {main}
+  thrown in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php on line 64
+[01-Dec-2021 01:30:04 Europe/Brussels] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CheckCredentials(), 2 passed in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php on line 217 and at least 4 expected in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php:64
+Stack trace:
+#0 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php(217): CheckCredentials(Object(database_class), Array)
+#1 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/index.php(8): include('/home/h1xhyjfp3...')
+#2 {main}
+  thrown in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php on line 64
+[01-Dec-2021 01:30:25 Europe/Brussels] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CheckCredentials(), 2 passed in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php on line 217 and at least 4 expected in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php:64
+Stack trace:
+#0 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php(217): CheckCredentials(Object(database_class), Array)
+#1 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/index.php(8): include('/home/h1xhyjfp3...')
+#2 {main}
+  thrown in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php on line 64
+[01-Dec-2021 01:30:45 Europe/Brussels] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CheckCredentials(), 2 passed in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php on line 217 and at least 4 expected in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php:64
+Stack trace:
+#0 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php(217): CheckCredentials(Object(database_class), Array)
+#1 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/index.php(8): include('/home/h1xhyjfp3...')
+#2 {main}
+  thrown in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php on line 64
+[01-Dec-2021 01:31:05 Europe/Brussels] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CheckCredentials(), 2 passed in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php on line 217 and at least 4 expected in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php:64
+Stack trace:
+#0 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php(217): CheckCredentials(Object(database_class), Array)
+#1 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/index.php(8): include('/home/h1xhyjfp3...')
+#2 {main}
+  thrown in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php on line 64
+[01-Dec-2021 01:31:25 Europe/Brussels] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CheckCredentials(), 2 passed in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php on line 217 and at least 4 expected in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php:64
+Stack trace:
+#0 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/site.php(217): CheckCredentials(Object(database_class), Array)
+#1 /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/index.php(8): include('/home/h1xhyjfp3...')
+#2 {main}
+  thrown in /home/h1xhyjfp3e0c/public_html/sitelogistics.construction/shared/csaml/api/system/authentication.functions.php on line 64

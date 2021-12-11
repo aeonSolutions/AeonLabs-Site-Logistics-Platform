@@ -1,0 +1,5 @@
+v1.1.0
+Fixed an issue where the button "Skip this version" too small for Swedish localized text.
+Fixed an issue where forcing web browser control to use latest IE resulted in a crash.
+Fixed an issue where %path% used in AppCast is not working as expected.
+Now it is possible to use FTP for downloading XML and Update file.
