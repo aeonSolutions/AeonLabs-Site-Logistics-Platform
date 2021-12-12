@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "74Sq4SFaQ2QstRKDUuMfCHakK/DI4nSvUajxKtP2LK7oz7TxOcR9PR8ppXG1HYpR9xy6HUaYq2OlpWZAUb/ElA==",
+  "dgSpecHash": "mXTizDsgmw0R2LG3lbBf6+ilFDU6ZIzci7TprS2KMEb2hm3Y58B2mYqHcb5fKgsvoIAYIk6F3UMBl/zjMnVyxQ==",
   "success": true,
-  "projectFilePath": "G:\\DiskContents\\STASH\\Programming\\Software\\Code\\Construction Site Logistics Office\\finnish\\finnish.vbproj",
+  "projectFilePath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Release\\Construction Site Logistics Office\\finnish\\finnish.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
     "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",

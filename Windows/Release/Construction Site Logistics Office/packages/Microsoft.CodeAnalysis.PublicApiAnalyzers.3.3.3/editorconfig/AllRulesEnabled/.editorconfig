@@ -1,0 +1,44 @@
+# NOTE: Requires **VS2019 16.3** or later
+
+# All Rules Enabled as build warnings
+# Description: All Rules are enabled as build warnings. Rules with IsEnabledByDefault = false are force enabled as build warnings.
+
+# Code files
+[*.{cs,vb}]
+
+
+# RS0016: Add public types and members to the declared API
+dotnet_diagnostic.RS0016.severity = warning
+
+# RS0017: Remove deleted types and members from the declared API
+dotnet_diagnostic.RS0017.severity = warning
+
+# RS0022: Constructor make noninheritable base class inheritable
+dotnet_diagnostic.RS0022.severity = warning
+
+# RS0024: The contents of the public API files are invalid
+dotnet_diagnostic.RS0024.severity = warning
+
+# RS0025: Do not duplicate symbols in public API files
+dotnet_diagnostic.RS0025.severity = warning
+
+# RS0026: Do not add multiple public overloads with optional parameters
+dotnet_diagnostic.RS0026.severity = warning
+
+# RS0027: Public API with optional parameter(s) should have the most parameters amongst its public overloads
+dotnet_diagnostic.RS0027.severity = warning
+
+# RS0036: Annotate nullability of public types and members in the declared API
+dotnet_diagnostic.RS0036.severity = warning
+
+# RS0037: Enable tracking of nullability of reference types in the declared API
+dotnet_diagnostic.RS0037.severity = warning
+
+# RS0041: Public members should not use oblivious types
+dotnet_diagnostic.RS0041.severity = warning
+
+# RS0048: Missing shipped or unshipped public API file
+dotnet_diagnostic.RS0048.severity = warning
+
+# RS0050: Public API is marked as removed but it exists in source code
+dotnet_diagnostic.RS0050.severity = warning

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<RuleSet Name="ApiDesign Rules Enabled as build warnings" Description="All ApiDesign Rules are enabled as build warnings. ApiDesign Rules with IsEnabledByDefault = false are force enabled as build warnings. Rules from a different category are disabled." ToolsVersion="15.0">
+   <!-- ApiDesign Rules -->
+   <Rules AnalyzerId="Microsoft.CodeAnalysis.PublicApiAnalyzers" RuleNamespace="Microsoft.CodeAnalysis.PublicApiAnalyzers">
+      <Rule Id="RS0016" Action="Warning" />          <!-- Add public types and members to the declared API -->
+      <Rule Id="RS0017" Action="Warning" />          <!-- Remove deleted types and members from the declared API -->
+      <Rule Id="RS0022" Action="Warning" />          <!-- Constructor make noninheritable base class inheritable -->
+      <Rule Id="RS0024" Action="Warning" />          <!-- The contents of the public API files are invalid -->
+      <Rule Id="RS0025" Action="Warning" />          <!-- Do not duplicate symbols in public API files -->
+      <Rule Id="RS0026" Action="Warning" />          <!-- Do not add multiple public overloads with optional parameters -->
+      <Rule Id="RS0027" Action="Warning" />          <!-- Public API with optional parameter(s) should have the most parameters amongst its public overloads -->
+      <Rule Id="RS0036" Action="Warning" />          <!-- Annotate nullability of public types and members in the declared API -->
+      <Rule Id="RS0037" Action="Warning" />          <!-- Enable tracking of nullability of reference types in the declared API -->
+      <Rule Id="RS0041" Action="Warning" />          <!-- Public members should not use oblivious types -->
+      <Rule Id="RS0048" Action="Warning" />          <!-- Missing shipped or unshipped public API file -->
+      <Rule Id="RS0050" Action="Warning" />          <!-- Public API is marked as removed but it exists in source code -->
+   </Rules>
+
+
+
+   <!-- Other Rules -->
+</RuleSet>

@@ -1,7 +1,6 @@
 ﻿Imports System.Drawing.Text
 Imports System.Globalization
 Imports System.IO
-Imports ConstructionSiteLogistics
 
 Public Class setupWizard_finnish
     Private state As New State

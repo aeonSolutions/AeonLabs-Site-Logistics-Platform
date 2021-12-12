@@ -5,7 +5,7 @@ Imports ConstructionSiteLogistics
 Public Class setupWizard_country
     Public state As New State
     Public defaultEncryptionKey As String = "26kozQaMwRuNJ24t"
-    Public defaultApiServerAddrPath As String = "/sitelogistics.construction/shared/csaml/api/index.php"
+    Public defaultApiServerAddrPath As String = "/shared/csaml/api/index.php"
 
     Public settings As New Settings
     Private countryList As New SortedDictionary(Of String, String)

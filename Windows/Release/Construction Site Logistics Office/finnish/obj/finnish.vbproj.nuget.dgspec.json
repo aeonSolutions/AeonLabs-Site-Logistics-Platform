@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\DiskContents\\STASH\\Programming\\Software\\Code\\Construction Site Logistics Office\\finnish\\finnish.vbproj": {}
+    "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Release\\Construction Site Logistics Office\\finnish\\finnish.vbproj": {}
   },
   "projects": {
-    "G:\\DiskContents\\STASH\\Programming\\Software\\Code\\Construction Site Logistics Office\\finnish\\finnish.vbproj": {
+    "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Release\\Construction Site Logistics Office\\finnish\\finnish.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\DiskContents\\STASH\\Programming\\Software\\Code\\Construction Site Logistics Office\\finnish\\finnish.vbproj",
+        "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Release\\Construction Site Logistics Office\\finnish\\finnish.vbproj",
         "projectName": "finnish",
-        "projectPath": "G:\\DiskContents\\STASH\\Programming\\Software\\Code\\Construction Site Logistics Office\\finnish\\finnish.vbproj",
+        "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Release\\Construction Site Logistics Office\\finnish\\finnish.vbproj",
         "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-        "outputPath": "G:\\DiskContents\\STASH\\Programming\\Software\\Code\\Construction Site Logistics Office\\finnish\\obj\\",
+        "outputPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Release\\Construction Site Logistics Office\\finnish\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

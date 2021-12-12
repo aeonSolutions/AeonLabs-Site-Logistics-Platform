@@ -277,7 +277,7 @@ Partial Class logger_frm
         Me.detalhes_empresa.Name = "detalhes_empresa"
         Me.detalhes_empresa.Size = New System.Drawing.Size(224, 17)
         Me.detalhes_empresa.TabIndex = 41
-        Me.detalhes_empresa.Text = "Empresa: Quality Construction"
+        Me.detalhes_empresa.Text = "Empresa: AeonLabs"
         '
         'detalhes_cat
         '

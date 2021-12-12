@@ -3,7 +3,7 @@ Imports System.Globalization
 
 
 Public Class setupWizard_addOns
-    Private translations As New ConstructionSiteLogistics.languageTranslations
+    Private translations As New languageTranslations
     Public Sub New()
         Me.SetStyle(ControlStyles.DoubleBuffer Or ControlStyles.AllPaintingInWmPaint, True)
         Me.SetStyle(ControlStyles.UserPaint, True)
@@ -16,7 +16,7 @@ Public Class setupWizard_addOns
     Private Sub setupWizard_1_VisibleChanged(sender As Object, e As EventArgs) Handles MyBase.VisibleChanged
         If Me.Visible Then
             Me.SuspendLayout()
-            translations = New ConstructionSiteLogistics.languageTranslations(setupWizard_country.state)
+            translations = New languageTranslations(setupWizard_country.state)
             translations.load("setupWizard")
             title.Text = translations.getText("AddonsTitle")
             subtitle.Text = translations.getText("AddonsSubTitle")

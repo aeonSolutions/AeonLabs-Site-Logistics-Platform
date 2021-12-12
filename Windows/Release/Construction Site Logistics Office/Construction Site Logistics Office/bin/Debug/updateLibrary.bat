@@ -1,2 +1,0 @@
-xcopy /K /D /H /Y /Z "C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office\library" "C:\Users\USER\Documents\Software\Code\Construction Site Logistics Office\Construction Site Logistics Office\bin\Debug\library"
-pause

@@ -1,5 +1,5 @@
 ﻿Imports System.Drawing.Text
-Imports ConstructionSiteLogistics
+
 
 Public Class setupWizard_NewFtpWebSettings
     Private translations As languageTranslations

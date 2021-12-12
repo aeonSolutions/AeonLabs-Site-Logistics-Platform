@@ -37,7 +37,7 @@ Public NotInheritable Class SplashScreen
 
         Dim today As New MonthCalendar
         Dim oneYear As New MonthCalendar
-        oneYear.SetDate(Date.ParseExact("26/02/2021", "dd/MM/yyyy", System.Globalization.DateTimeFormatInfo.InvariantInfo))
+        oneYear.SetDate(Date.ParseExact("26/02/2022", "dd/MM/yyyy", System.Globalization.DateTimeFormatInfo.InvariantInfo))
 
         If Not settingsFile.Exists Or today.TodayDate > oneYear.SelectionStart Then
             Dim msgbox As message_box_frm

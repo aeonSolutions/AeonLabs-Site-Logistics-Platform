@@ -14,7 +14,7 @@ Public Class State
     Public fontsPath As String = String.Format("{0}\fonts\", Environment.CurrentDirectory)
     Public libraryPath As String = String.Format("{0}\library\", Environment.CurrentDirectory)
 
-    Public ServerBaseAddr As String = "" ' base path without final slash, ex: www.qualityconstruction.be
+    Public ServerBaseAddr As String = "" ' base path without final slash, ex: www.aeonlabs.solutions
     Public ApiServerAddrPath As String = "/sitelogistics.construction/shared/csaml/api/index.php"
     Public ApiHttpHeaderToken = "dfhdfghfghfgjhdfgjfdj"
     Public updateServerAddr As String = "http://www.sitelogistics.construction/shared/update/update.php?task=office"

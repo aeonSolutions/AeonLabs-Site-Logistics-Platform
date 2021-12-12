@@ -42,10 +42,13 @@ Public Class MainMdiForm
     Private Sub AutoUpdaterOnParseUpdateInfoEvent(ByVal args As ParseUpdateInfoEventArgs)
         Dim json = JsonConvert.DeserializeObject(Of Dictionary(Of String, Object))(args.RemoteData)
 
+        Dim mandatory As Mandatory = New Mandatory()
+        mandatory.Value = Convert.ToBoolean(json.Item("mandatory"))
+
         args.UpdateInfo = New UpdateInfoEventArgs With {
-        .CurrentVersion = New Version(json.Item("version")),
+        .CurrentVersion = json.Item("version").ToString,
         .ChangelogURL = json.Item("changelog"),
-        .Mandatory = Convert.ToBoolean(json.Item("mandatory")),
+        .Mandatory = mandatory,
         .DownloadURL = json.Item("url")
     }
     End Sub

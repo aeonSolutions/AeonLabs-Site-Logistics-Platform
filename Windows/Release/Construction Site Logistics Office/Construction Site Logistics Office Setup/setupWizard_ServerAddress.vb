@@ -1,5 +1,5 @@
 ﻿Imports System.Drawing.Text
-Imports ConstructionSiteLogistics
+
 Public Class setupWizard_ServerAddress
     Private translations As languageTranslations
 
@@ -24,6 +24,8 @@ Public Class setupWizard_ServerAddress
             server_web_addr_lbl.Text = translations.getText("serverWebAddr")
             If Not IsNothing(setupWizard_country.settings.serverWebAddr) Then
                 server_web_addr.Text = setupWizard_country.settings.serverWebAddr
+            Else
+                server_web_addr.Text = "http://www.aeonlabs.solutions/sitelogistics.construction"
             End If
             Me.ResumeLayout()
         End If
@@ -57,15 +59,34 @@ Public Class setupWizard_ServerAddress
         Me.Hide()
         setupWizard_platformType.Show()
     End Sub
+    Private Function ExtractDomainfromURL(ByRef URL As String) As String
+        Dim Domain As String = ""
+
+        If URL.Contains("//") Then
+            Dim URLSplit() As String = URL.Split("/"c)
+            Dim LastIndex As Integer = URLSplit(2).LastIndexOf("."c)
+            For i = LastIndex - 1 To 0 Step -1
+                If URLSplit(2)(i) = "." Then
+                    Domain = URLSplit(2).Substring(i + 1, URLSplit(2).Count - (i + 1))
+                    Exit For
+                End If
+            Next
+        Else
+            Domain = "Unable to extract Domain information."
+        End If
+
+        Return "http://www." & Domain
+    End Function
+
 
     Private Sub btnContinue_Click(sender As Object, e As EventArgs) Handles btnContinue.Click
-        If (IsValidUrl("http|https", server_web_addr.Text).Equals(True)) Then
+        If (IsValidUrl("http|https", ExtractDomainfromURL(server_web_addr.Text)).Equals(True)) Then
             wizardGoForward()
         End If
     End Sub
 
     Private Sub btnContinueTxt_Click(sender As Object, e As EventArgs) Handles btnContinueTxt.Click
-        If (IsValidUrl("http|https", server_web_addr.Text).Equals(True)) Then
+        If (IsValidUrl("http|https", ExtractDomainfromURL(server_web_addr.Text)).Equals(True)) Then
             wizardGoForward()
         End If
 
@@ -84,7 +105,12 @@ Public Class setupWizard_ServerAddress
         btnBack.Enabled = False
 
         server_web_addr.Text = If(server_web_addr.Text(server_web_addr.Text.Length - 1).Equals("/"), server_web_addr.Text.Substring(0, server_web_addr.Text.Length - 2), server_web_addr.Text)
-        If Not IsValidUrl("http|https", server_web_addr.Text) Then
+        If Not IsValidUrl("http|https", ExtractDomainfromURL(server_web_addr.Text)) Then
+
+            btnBackTxt.Enabled = True
+            btnContinueTxt.Enabled = True
+            btnContinue.Enabled = True
+            btnBack.Enabled = True
             Exit Sub
         ElseIf IsOnline(server_web_addr.Text) Then  ' check if is online and working
             setupWizard_country.settings.serverWebAddr = server_web_addr.Text
@@ -116,7 +142,7 @@ Public Class setupWizard_ServerAddress
             server_web_addr.SelectionStart = server_web_addr.Text.Length + 1
         End If
 
-        If (IsValidUrl("http|https", server_web_addr.Text).Equals(True)) Then
+        If (IsValidUrl("http|https", ExtractDomainfromURL(server_web_addr.Text)).Equals(True)) Then
             btnContinue.Image = Image.FromFile(setupWizard_country.state.imagesPath & "rightArrowBtnOn.png")
             btnContinue.SizeMode = PictureBoxSizeMode.StretchImage
             btnContinueTxt.ForeColor = Color.DimGray

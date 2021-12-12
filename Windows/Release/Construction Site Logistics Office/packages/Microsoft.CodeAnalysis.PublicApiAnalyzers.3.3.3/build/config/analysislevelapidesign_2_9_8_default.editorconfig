@@ -1,0 +1,24 @@
+# NOTE: Requires **VS2019 16.7** or later
+
+# 'ApiDesign' Rules from '2.9.8' release with 'Default' analysis mode
+# Description: 'ApiDesign' Rules with enabled-by-default state from '2.9.8' release with 'Default' analysis mode. Rules that are first released in a version later than '2.9.8' are disabled.
+
+is_global = true
+
+global_level = -99
+
+
+# RS0036: Annotate nullability of public types and members in the declared API
+dotnet_diagnostic.RS0036.severity = none
+
+# RS0037: Enable tracking of nullability of reference types in the declared API
+dotnet_diagnostic.RS0037.severity = none
+
+# RS0041: Public members should not use oblivious types
+dotnet_diagnostic.RS0041.severity = none
+
+# RS0048: Missing shipped or unshipped public API file
+dotnet_diagnostic.RS0048.severity = none
+
+# RS0050: Public API is marked as removed but it exists in source code
+dotnet_diagnostic.RS0050.severity = none

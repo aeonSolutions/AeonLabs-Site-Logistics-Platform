@@ -200,7 +200,7 @@ Partial Class frm_tablets
         Me.email.Name = "email"
         Me.email.Size = New System.Drawing.Size(270, 20)
         Me.email.TabIndex = 362
-        Me.email.Text = "@qualityconstruction.be"
+        Me.email.Text = "@aeonlabs.solutions"
         '
         'device_email_lbl
         '

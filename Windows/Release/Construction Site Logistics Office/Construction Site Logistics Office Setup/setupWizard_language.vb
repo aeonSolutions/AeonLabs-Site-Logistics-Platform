@@ -1,6 +1,6 @@
 ﻿Imports System.Drawing.Text
 Imports System.Globalization
-Imports ConstructionSiteLogistics
+
 
 Public Class setupWizard_language
     Private state As New State

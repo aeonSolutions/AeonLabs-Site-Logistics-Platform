@@ -1,0 +1,12 @@
+# NOTE: Requires **VS2019 16.7** or later
+
+# 'ApiDesign' Rules from '3.3.0' release with 'All' analysis mode
+# Description: 'ApiDesign' Rules with enabled-by-default state from '3.3.0' release with 'All' analysis mode. Rules that are first released in a version later than '3.3.0' are disabled.
+
+is_global = true
+
+global_level = -99
+
+
+# RS0050: Public API is marked as removed but it exists in source code
+dotnet_diagnostic.RS0050.severity = none

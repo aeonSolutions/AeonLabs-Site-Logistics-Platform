@@ -270,7 +270,7 @@ Partial Class MainMdiForm
         Me.enterprise_lbl.Name = "enterprise_lbl"
         Me.enterprise_lbl.Size = New System.Drawing.Size(1161, 23)
         Me.enterprise_lbl.TabIndex = 11
-        Me.enterprise_lbl.Text = "Quality Construction"
+        Me.enterprise_lbl.Text = "AeonLabs"
         '
         'MenuSidebar
         '

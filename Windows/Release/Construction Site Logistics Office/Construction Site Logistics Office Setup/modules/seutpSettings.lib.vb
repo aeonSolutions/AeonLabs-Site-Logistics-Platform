@@ -7,13 +7,15 @@ Public Class setupSettings
     Private setupConfig As Dictionary(Of String, String)
     Private state As State
 
-    Public Sub New(ByVal Optional _state As State = Nothing)
+    Public Sub New(ByVal Optional _state As State = Nothing, Optional state As State = Nothing)
         setupConfig = New Dictionary(Of String, String)
         If IsNothing(_state) Then
             state = New State
         Else
             state = _state
         End If
+
+        Me.state = state
     End Sub
 
     Public Function load() As Boolean

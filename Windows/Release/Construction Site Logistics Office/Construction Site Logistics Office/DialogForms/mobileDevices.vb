@@ -279,7 +279,7 @@ lastLine:
         site_logged.Text = ""
         section_logged.Text = ""
         last_login_date.Text = ""
-        email.Text = "@qualityconstruction.be"
+        email.Text = "@aeonlabs.solutions"
         active.Checked = False
     End Sub
 
