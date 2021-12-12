@@ -16,4 +16,4 @@ the test server for the Cloud API is currently located in : http://www.aeonlabs.
 # Requirments
 A mobile smartphone or tablet with NFC technology and location 
 
-![](https://github.com/aeonSolutions/Site-Logistics-Platform/blob/main/Android/ScreenShots/Screenshot_20201117-124355.jpg)
+![](https://github.com/aeonSolutions/Site-Logistics-Platform/blob/main/Android/Foreman/ScreenShots/Screenshot_20201117-124355.jpg)
