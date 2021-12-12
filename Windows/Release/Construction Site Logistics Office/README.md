@@ -12,7 +12,8 @@
 there is a global env. file located in modules/state.vb
 
 ## Test user Login credentials
-the test server for the Cloud API is located in : http://www.aeonlabs.solutions/sitelogistics.construction/shared/csaml/api/index.php
+(to be moved to easyThings. ???? )
+the test server for the Cloud API is currently located in : http://www.aeonlabs.solutions/sitelogistics.construction/shared/csaml/api/index.php
 
 - user: 123456789
 - pass: 0000
