@@ -1,3 +1,9 @@
+## Visual Studio 
+The visual studio solution has 3 projects:
+- Construction Site Logistics Office : main program for office management of all activities
+- Construction Site Logistics Office Setup : setup wizard for the Construction Site Logistics Office
+- finnish : support file for cleanning the setup procedure on first run of the Construction Site Logistics Office
+
 ## Setup Instructions for the Windows 10/11 Apps
 - Setup Git in Visual Studio 2022
 - Install All the Nuget Packages that may be missing using the NuGet package manager
@@ -26,8 +32,4 @@ in the VB code (all projects; see state.vb file): /shared/csaml/api/index.php
 ## Requirements
 Windows 10/11 ; .NET 4.7.2 / .NET 4.8
 
-## Visual Studio 
-The visual studio solution has 3 projects:
-- Construction Site Logistics Office : main program for office management of all activities
-- Construction Site Logistics Office Setup : setup wizard for the Construction Site Logistics Office
-- finnish : support file for cleanning the setup procedure on first run of the Construction Site Logistics Office
+
