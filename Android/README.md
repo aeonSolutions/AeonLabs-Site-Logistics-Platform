@@ -7,7 +7,8 @@ there is a global env. file located in \app\src\main\java\construction\site\logi
 # Test user Login credentials
 - user: 123456789
 - pass: 0000
-- 
+
+
 # Requirments
 A mobile smartphone or tablet with NFC technology and location 
 
