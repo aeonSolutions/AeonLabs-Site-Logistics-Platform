@@ -12,7 +12,7 @@ for the setup wizard the Cloud API server is :  http://www.aeonlabs.solutions/si
 
 in the VB code (all projects; see state.vb file): /shared/csaml/api/index.php
 
-username default credentials
+##### username default credentials
 - user: 123456789
 - pass: 0000
 
