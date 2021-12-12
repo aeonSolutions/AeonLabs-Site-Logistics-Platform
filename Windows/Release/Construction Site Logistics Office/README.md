@@ -1,4 +1,4 @@
-## Setup Instructions for the Android Apps
+## Setup Instructions for the Windows 10/11 Apps
 - Setup Git in Visual Studio 2022
 - Install All the Nuget Packages that may be missing using the NuGet package manager
 
