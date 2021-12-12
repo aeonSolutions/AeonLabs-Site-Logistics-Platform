@@ -5,9 +5,13 @@
 The default configuration setup to access the database is:
 
 // Database settings
+
 $DbHost='localhost';
+
 $DbUser='shared_csaml_usr';
+
 $DbPassword='dragon@1522';
+
 $DbName='shared_csaml';
 
 in file csamsl/system/settings.php
