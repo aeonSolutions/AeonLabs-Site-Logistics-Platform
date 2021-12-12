@@ -16,5 +16,6 @@ $DbName='shared_csaml';
 in file csamsl/system/settings.php
 
 #### API access address
-the API address is :
+the API can be reached at :
+
 [domain name]/[folders]/csaml/api/index.php
