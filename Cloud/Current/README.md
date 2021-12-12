@@ -17,4 +17,4 @@ in file csamsl/system/settings.php
 
 #### API access address
 the API address is :
-.../csaml/api/index.php
+[domain name]/[folders]/csaml/api/index.php
