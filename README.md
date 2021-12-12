@@ -5,7 +5,7 @@ https://www.aeonlabs.solutions/sitelogistics.construction/
 
 - Android : 
    - the code for the foreman android app (SDK 29) : 
-   https://github.com/aeonSolutions/Site-Logistics-Platform/tree/main/Android/Foreman
+ https://github.com/aeonSolutions/Site-Logistics-Platform/tree/main/Android/Foreman
    - the code for the construction worker android app (SDK 29):
    https://github.com/aeonSolutions/Site-Logistics-Platform/tree/main/Android/QCWorker
   
