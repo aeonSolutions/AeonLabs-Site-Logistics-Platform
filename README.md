@@ -14,3 +14,13 @@ https://github.com/aeonSolutions/Site-Logistics-Platform/tree/main/Windows/Relea
 
 - Cloud: the code for the Cloud API (PHP 7.x, MySQL 5.x ) : 
 https://github.com/aeonSolutions/Site-Logistics-Platform/tree/main/Cloud/Current
+
+
+#### Android
+presentation video for the Foreman android Aoo
+https://www.youtube.com/watch?v=0i_cGdDqLJ0
+
+#### Windows
+presentation video for the Office windows App
+https://www.youtube.com/watch?v=_Mb0Qagt6Ig
+
