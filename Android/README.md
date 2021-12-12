@@ -8,6 +8,11 @@ there is a global env. file located in \app\src\main\java\construction\site\logi
 (to be moved to easyThings. ???? )
 the test server for the Cloud API is currently located in : http://www.aeonlabs.solutions/sitelogistics.construction/shared/csaml/api/index.php
 
+for the setup wizard
+Cloud API server:  http://www.aeonlabs.solutions/sitelogistics.construction
+in the code: /shared/csaml/api/index.php
+
+username default credentials
 - user: 123456789
 - pass: 0000
 
