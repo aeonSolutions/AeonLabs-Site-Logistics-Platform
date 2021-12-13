@@ -16,4 +16,9 @@ the test server for the Cloud API is currently located in : http://www.aeonlabs.
 # Requirements
 A mobile smartphone or tablet with NFC technology and location 
 
+### Site Foreman Mobile App
 ![](https://github.com/aeonSolutions/Site-Logistics-Platform/blob/main/Android/Foreman/ScreenShots/Screenshot_20201117-124355.jpg)
+
+### Site Worker Mobile App
+![](https://github.com/aeonSolutions/Site-Logistics-Platform/blob/main/Android/siteWorker/ScreenShots/mainMenu.png)
+
