@@ -43,7 +43,7 @@ public class LoginViewModel extends ViewModel {
     }
 
     public void login(String username, Activity activity) {
-        new MakeServerCall(state.HostUrl + "api/api.php?task=auth&uuid=" + username, activity).execute();
+        new MakeServerCall(state.HostUrl + "api/index.php?task=auth&uuid=" + username, activity).execute();
     }
 
     public class MakeServerCall extends AsyncTask<Void, Void, String> {

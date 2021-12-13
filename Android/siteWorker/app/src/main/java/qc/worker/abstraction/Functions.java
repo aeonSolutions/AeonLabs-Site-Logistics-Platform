@@ -68,7 +68,8 @@ public class Functions {
      * @param adapter The {@link NfcAdapter} used for the foreground dispatch.
      */
     public static void stopForegroundDispatch(final Activity activity, NfcAdapter adapter) {
-        adapter.disableForegroundDispatch(activity);
+        if (adapter!=null)
+            adapter.disableForegroundDispatch(activity);
     }
 
     public static void alertbox(String title, String mymessage, Context context) {

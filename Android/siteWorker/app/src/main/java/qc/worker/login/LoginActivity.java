@@ -269,7 +269,7 @@ public class LoginActivity extends AppCompatActivity {
             card_txt.setVisibility(View.INVISIBLE);
             card_img.setVisibility(View.INVISIBLE);
             Toast.makeText(this, getResources().getString(R.string.error_nfc_not_supported), Toast.LENGTH_LONG).show();
-            finish();
+            //finish();
             return;
 
         }
