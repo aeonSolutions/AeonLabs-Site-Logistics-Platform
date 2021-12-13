@@ -18,6 +18,7 @@ A mobile smartphone or tablet with NFC technology and location
 
 ### Site Foreman Mobile App
 ![](https://github.com/aeonSolutions/Site-Logistics-Platform/blob/main/Android/Foreman/ScreenShots/Screenshot_20201117-124355.jpg)
+![](https://github.com/aeonSolutions/Site-Logistics-Platform/blob/main/Android/Foreman/ScreenShots/Screenshot_20201117-195718.jpg)
 ![](https://github.com/aeonSolutions/Site-Logistics-Platform/blob/main/Android/Foreman/ScreenShots/Screenshot_20201117-195654.jpg)
 
 ### Site Worker Mobile App
