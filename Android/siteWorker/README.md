@@ -1,6 +1,8 @@
 # Setup Instructions
 No special instructions simply load this project in Android Studio 
 
+TODO: Not compatible with the current version of the Cloud API. The code needs to be updated in the API calls.
+
 # App Global environment varibales
 there is a global env. file located in \app\src\main\java\construction\site\logistics\foreman\data\session.java with setup and configuration of all global variables whithin the app
 
@@ -16,11 +18,6 @@ the test server for the Cloud API is currently located in : http://www.aeonlabs.
 # Requirements
 A mobile smartphone or tablet with NFC technology and location 
 
-### Site Foreman Mobile App
-![](https://github.com/aeonSolutions/Site-Logistics-Platform/blob/main/Android/Foreman/ScreenShots/Screenshot_20201117-124355.jpg)
-![](https://github.com/aeonSolutions/Site-Logistics-Platform/blob/main/Android/Foreman/ScreenShots/Screenshot_20201117-195718.jpg)
-![](https://github.com/aeonSolutions/Site-Logistics-Platform/blob/main/Android/Foreman/ScreenShots/Screenshot_20201117-195654.jpg)
 
-### Site Worker Mobile App
+
 ![](https://github.com/aeonSolutions/Site-Logistics-Platform/blob/main/Android/siteWorker/ScreenShots/mainMenu.png)
-
