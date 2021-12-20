@@ -202,6 +202,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\..\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\assemblyEnvironment.vbproj">
+      <Project>{db6f9048-2a83-4bc3-b29e-36f185e2f4c8}</Project>
+      <Name>assemblyEnvironment</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\..\Backend\Layout\Menu Layout Vertical\Menu Layout Vertical\Menu Layout Vertical.vbproj">
       <Project>{91d6b342-9cb0-4e6b-b3d9-9a84b1d7ffb7}</Project>
       <Name>Menu Layout Vertical</Name>

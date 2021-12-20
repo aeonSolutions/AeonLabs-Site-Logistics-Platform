@@ -27,8 +27,8 @@ Public Class mainAppLayoutForm
         Dim errMsg As String = ""
 
         If enVars.assemblies.ContainsKey("settings.layout.widget.dll") Then
-            If enVars.assemblies("settings.layout.widget.dll").ContainsKey("lateralSettingsForm") Then
-                enVars.assemblies("settings.layout.widget.dll").Item("lateralSettingsForm").control = panelMenuOptionsContainer
+            If enVars.assemblies("settings.layout.widget.dll").assemblyFormName.Equals("lateralSettingsForm") Then
+                enVars.assemblies("settings.layout.widget.dll").control = panelMenuOptionsContainer
             Else
                 errMsg &= "lateralSettingsForm"
                 err = True

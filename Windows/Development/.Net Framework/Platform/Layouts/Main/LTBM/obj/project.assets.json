@@ -8,6 +8,18 @@
           "build/ILMerge.props": {}
         }
       },
+      "assemblyEnvironment/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Custom Controls": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/assemblyEnvironment.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/assemblyEnvironment.dll": {}
+        }
+      },
       "Custom Controls/1.0.0": {
         "type": "project",
         "compile": {
@@ -15,6 +27,15 @@
         },
         "runtime": {
           "bin/placeholder/Custom Controls.dll": {}
+        }
+      },
+      "Menu Layout Vertical/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Menu Layout Vertical.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Menu Layout Vertical.dll": {}
         }
       }
     },
@@ -25,6 +46,18 @@
           "build/ILMerge.props": {}
         }
       },
+      "assemblyEnvironment/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Custom Controls": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/assemblyEnvironment.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/assemblyEnvironment.dll": {}
+        }
+      },
       "Custom Controls/1.0.0": {
         "type": "project",
         "compile": {
@@ -32,6 +65,15 @@
         },
         "runtime": {
           "bin/placeholder/Custom Controls.dll": {}
+        }
+      },
+      "Menu Layout Vertical/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Menu Layout Vertical.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Menu Layout Vertical.dll": {}
         }
       }
     },
@@ -42,6 +84,18 @@
           "build/ILMerge.props": {}
         }
       },
+      "assemblyEnvironment/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Custom Controls": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/assemblyEnvironment.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/assemblyEnvironment.dll": {}
+        }
+      },
       "Custom Controls/1.0.0": {
         "type": "project",
         "compile": {
@@ -49,6 +103,15 @@
         },
         "runtime": {
           "bin/placeholder/Custom Controls.dll": {}
+        }
+      },
+      "Menu Layout Vertical/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Menu Layout Vertical.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Menu Layout Vertical.dll": {}
         }
       }
     },
@@ -59,6 +122,18 @@
           "build/ILMerge.props": {}
         }
       },
+      "assemblyEnvironment/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Custom Controls": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/assemblyEnvironment.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/assemblyEnvironment.dll": {}
+        }
+      },
       "Custom Controls/1.0.0": {
         "type": "project",
         "compile": {
@@ -66,6 +141,15 @@
         },
         "runtime": {
           "bin/placeholder/Custom Controls.dll": {}
+        }
+      },
+      "Menu Layout Vertical/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Menu Layout Vertical.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Menu Layout Vertical.dll": {}
         }
       }
     }
@@ -87,16 +171,28 @@
         "tools/net452/System.Compiler.dll"
       ]
     },
+    "assemblyEnvironment/1.0.0": {
+      "type": "project",
+      "path": "../../../Backend/Environment/EnvironmentAssembly/assemblyEnvironment/assemblyEnvironment.vbproj",
+      "msbuildProject": "../../../Backend/Environment/EnvironmentAssembly/assemblyEnvironment/assemblyEnvironment.vbproj"
+    },
     "Custom Controls/1.0.0": {
       "type": "project",
       "path": "../../../GUI/Custom Controls/Custom Controls.vbproj",
       "msbuildProject": "../../../GUI/Custom Controls/Custom Controls.vbproj"
+    },
+    "Menu Layout Vertical/1.0.0": {
+      "type": "project",
+      "path": "../../../Backend/Layout/Menu Layout Vertical/Menu Layout Vertical/Menu Layout Vertical.vbproj",
+      "msbuildProject": "../../../Backend/Layout/Menu Layout Vertical/Menu Layout Vertical/Menu Layout Vertical.vbproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.7.2": [
       "Custom Controls >= 1.0.0",
-      "ILMerge >= 3.0.29"
+      "ILMerge >= 3.0.29",
+      "Menu Layout Vertical >= 1.0.0",
+      "assemblyEnvironment >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -106,11 +202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj",
+      "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj",
       "projectName": "ltbm.layout",
-      "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj",
+      "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj",
       "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\obj\\",
+      "outputPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -131,8 +227,14 @@
       "frameworks": {
         "net472": {
           "projectReferences": {
-            "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\.Net Framework\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj": {
-              "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\.Net Framework\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj"
+            "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Backend\\Environment\\EnvironmentAssembly\\assemblyEnvironment\\assemblyEnvironment.vbproj": {
+              "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Backend\\Environment\\EnvironmentAssembly\\assemblyEnvironment\\assemblyEnvironment.vbproj"
+            },
+            "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Backend\\Layout\\Menu Layout Vertical\\Menu Layout Vertical\\Menu Layout Vertical.vbproj": {
+              "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Backend\\Layout\\Menu Layout Vertical\\Menu Layout Vertical\\Menu Layout Vertical.vbproj"
+            },
+            "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj": {
+              "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj"
             }
           }
         }

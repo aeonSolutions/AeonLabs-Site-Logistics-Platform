@@ -71,3 +71,15 @@ C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\E
 C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Environment\environmentLoading\environmentLoading\obj\Debug\environmentLoading.dll
 C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Environment\environmentLoading\environmentLoading\obj\Debug\environmentLoading.xml
 C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Environment\environmentLoading\environmentLoading\obj\Debug\environmentLoading.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\debug\environmentLoading.dll.config
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\debug\environmentLoading.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\debug\environmentLoading.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\debug\environmentLoading.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\environmentLoading\environmentLoading\obj\Debug\environmentLoading.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\environmentLoading\environmentLoading\obj\Debug\AeonLabs.environmentLoading.Resources.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\environmentLoading\environmentLoading\obj\Debug\environmentLoading.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\environmentLoading\environmentLoading\obj\Debug\environmentLoading.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\environmentLoading\environmentLoading\obj\Debug\environmentLoading.vbproj.CopyComplete
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\environmentLoading\environmentLoading\obj\Debug\environmentLoading.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\environmentLoading\environmentLoading\obj\Debug\environmentLoading.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\environmentLoading\environmentLoading\obj\Debug\environmentLoading.pdb

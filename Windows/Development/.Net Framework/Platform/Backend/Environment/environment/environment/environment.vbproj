@@ -131,5 +131,11 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\EnvironmentAssembly\assemblyEnvironment\assemblyEnvironment.vbproj">
+      <Project>{DB6F9048-2A83-4BC3-B29E-36F185E2F4C8}</Project>
+      <Name>assemblyEnvironment</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

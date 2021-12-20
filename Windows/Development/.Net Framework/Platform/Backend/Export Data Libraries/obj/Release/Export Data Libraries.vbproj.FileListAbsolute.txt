@@ -1,0 +1,11 @@
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\BUILD FILES\export.libraries.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\BUILD FILES\export.libraries.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\BUILD FILES\export.libraries.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Export Data Libraries\obj\Release\Export Data Libraries.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Export Data Libraries\obj\Release\ConstructionSiteLogistics.libraries.ExportData.Resources.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Export Data Libraries\obj\Release\Export Data Libraries.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Export Data Libraries\obj\Release\Export Data Libraries.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Export Data Libraries\obj\Release\Export Data Libraries.vbproj.CopyComplete
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Export Data Libraries\obj\Release\export.libraries.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Export Data Libraries\obj\Release\export.libraries.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Export Data Libraries\obj\Release\export.libraries.pdb

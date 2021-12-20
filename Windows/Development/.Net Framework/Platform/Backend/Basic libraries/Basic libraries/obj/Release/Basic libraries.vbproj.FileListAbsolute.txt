@@ -10,3 +10,10 @@ H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic l
 H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Release\BasicLibraries.dll
 H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Release\BasicLibraries.xml
 H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\Backend\Basic libraries\Basic libraries\obj\Release\BasicLibraries.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Basic libraries\Basic libraries\obj\Release\Basic libraries.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Basic libraries\Basic libraries\obj\Release\AeonLabs.BasicLibraries.Resources.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Basic libraries\Basic libraries\obj\Release\Basic libraries.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Basic libraries\Basic libraries\obj\Release\Basic libraries.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Basic libraries\Basic libraries\obj\Release\BasicLibraries.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Basic libraries\Basic libraries\obj\Release\BasicLibraries.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Basic libraries\Basic libraries\obj\Release\BasicLibraries.pdb

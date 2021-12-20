@@ -13,3 +13,18 @@ H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\Custom Cont
 H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\Custom Controls\obj\Release\customControls.xml
 H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\Custom Controls\obj\Release\customControls.pdb
 H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\Custom Controls\obj\Release\Custom Controls.vbprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\release\customControls.dll.config
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\release\customControls.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\release\customControls.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\release\customControls.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\Custom Controls\obj\Release\Custom Controls.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\Custom Controls\obj\Release\Interop.SHDocVw.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\Custom Controls\obj\Release\Interop.Shell32.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\Custom Controls\obj\Release\Custom Controls.vbproj.ResolveComReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\Custom Controls\obj\Release\FormCustomized.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\Custom Controls\obj\Release\Resources.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\Custom Controls\obj\Release\Custom Controls.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\Custom Controls\obj\Release\Custom Controls.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\Custom Controls\obj\Release\customControls.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\Custom Controls\obj\Release\customControls.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\Custom Controls\obj\Release\customControls.pdb

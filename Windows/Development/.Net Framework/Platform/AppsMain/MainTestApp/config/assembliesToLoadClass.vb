@@ -24,7 +24,7 @@ Public Class assembliesToLoadClass
             .AssemblyObject = Nothing
             .spaceName = ""
         End With
-        enVars.assemblies.Add("", assItem)
+        enVars.assemblies.Add("MyProfile", assItem)
 
         assItem = New environmentAssembliesClass
         With assItem
@@ -34,21 +34,10 @@ Public Class assembliesToLoadClass
             .assemblyFormName = ""
             .assemblyFormToLoad = Nothing
             .AssemblyObject = Nothing
-            .spaceName = ""
+            .spaceName = "MySettings"
         End With
-        enVars.assemblies.Add("", assItem)
+        enVars.assemblies.Add("MySettings", assItem)
 
-        assItem = New environmentAssembliesClass
-        With assItem
-            .assemblyFileName = "settings.dll"
-            .friendlyUID = "MySettings"
-            .UID = ""
-            .assemblyFormName = ""
-            .assemblyFormToLoad = Nothing
-            .AssemblyObject = Nothing
-            .spaceName = ""
-        End With
-        enVars.assemblies.Add("", assItem)
     End Sub
 #End Region
 
@@ -64,7 +53,7 @@ Public Class assembliesToLoadClass
             .AssemblyObject = Nothing
             .spaceName = ""
         End With
-        enVars.assemblies.Add("", assItem)
+        enVars.assemblies.Add("checkUpdate", assItem)
 
         assItem = New environmentAssembliesClass
         With assItem
@@ -76,7 +65,7 @@ Public Class assembliesToLoadClass
             .AssemblyObject = Nothing
             .spaceName = ""
         End With
-        enVars.assemblies.Add("", assItem)
+        enVars.assemblies.Add("about", assItem)
 
     End Sub
 #End Region

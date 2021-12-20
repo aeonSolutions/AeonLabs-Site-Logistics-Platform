@@ -1,4 +1,6 @@
-﻿Public Class EnvironmentAssignedToControlClass
+﻿Imports AeonLabs.Environment.Assembly
+
+Public Class EnvironmentAssignedToControlClass
     Public Property positionX As Integer
     Public Property positionY As Integer
     Public Property control As Control

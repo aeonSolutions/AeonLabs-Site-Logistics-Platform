@@ -104,3 +104,16 @@ C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\E
 C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Environment\Settings\settings\obj\Debug\settings.dll
 C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Environment\Settings\settings\obj\Debug\settings.xml
 C:\Users\Miguel\Desktop\Site Logistics\Windows\.Net Framework\Platform\Backend\Environment\Settings\settings\obj\Debug\settings.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\debug\settings.dll.config
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\debug\settings.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\debug\settings.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\debug\settings.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\Settings\settings\obj\Debug\settings.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\Settings\settings\obj\Debug\AeonLabs.Settings.Resources.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\Settings\settings\obj\Debug\AeonLabs.Settings.strings.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\Settings\settings\obj\Debug\settings.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\Settings\settings\obj\Debug\settings.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\Settings\settings\obj\Debug\settings.vbproj.CopyComplete
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\Settings\settings\obj\Debug\settings.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\Settings\settings\obj\Debug\settings.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\Environment\Settings\settings\obj\Debug\settings.pdb

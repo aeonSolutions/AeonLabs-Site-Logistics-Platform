@@ -382,9 +382,9 @@
     <Content Include="scripts\resxmanager\jquery.watermark.min.js" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Windows .NetCore\Platform\Backend\Environment\EnvironmentAssembly\EnvironmentAssembly\EnvironmentAssembly.csproj">
-      <Project>{fdf6d515-7ebf-4632-b8d7-f6d6218f7647}</Project>
-      <Name>EnvironmentAssembly</Name>
+    <ProjectReference Include="..\..\Backend\Environment\EnvironmentAssembly\assemblyEnvironment\assemblyEnvironment.vbproj">
+      <Project>{DB6F9048-2A83-4BC3-B29E-36F185E2F4C8}</Project>
+      <Name>assemblyEnvironment</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\Backend\Environment\environmentLoading\environmentLoading\environmentLoading.vbproj">
       <Project>{C2FF0762-AA5D-4C42-8249-339EB1D2D5F0}</Project>

@@ -25,3 +25,13 @@ H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\CircularPro
 H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\CircularProgressBarDll\obj\Release\CircularProgressBar.dll
 H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\CircularProgressBarDll\obj\Release\CircularProgressBar.xml
 H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\CircularProgressBarDll\obj\Release\CircularProgressBar.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\release\CircularProgressBar.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\release\CircularProgressBar.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\release\CircularProgressBar.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\CircularProgressBarDll\obj\Release\CircularProgressBar.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\CircularProgressBarDll\obj\Release\CircularProgressBar.Resources.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\CircularProgressBarDll\obj\Release\CircularProgressBar.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\CircularProgressBarDll\obj\Release\CircularProgressBar.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\CircularProgressBarDll\obj\Release\CircularProgressBar.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\CircularProgressBarDll\obj\Release\CircularProgressBar.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\CircularProgressBarDll\obj\Release\CircularProgressBar.pdb

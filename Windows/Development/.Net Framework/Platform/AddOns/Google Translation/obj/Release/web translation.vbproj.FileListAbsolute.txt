@@ -1,0 +1,4 @@
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AddOns\Google Translation\obj\Release\web translation.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AddOns\Google Translation\obj\Release\ConstructionSiteLogistics.AddOn.Translations.Web.Resources.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AddOns\Google Translation\obj\Release\web translation.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AddOns\Google Translation\obj\Release\web translation.vbproj.CoreCompileInputs.cache

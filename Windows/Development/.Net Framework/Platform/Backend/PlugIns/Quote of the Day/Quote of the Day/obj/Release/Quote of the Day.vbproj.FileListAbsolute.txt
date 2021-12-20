@@ -1,0 +1,25 @@
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\Quote of the Day.dll.config
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\Quote of the Day.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\Quote of the Day.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\Quote of the Day.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\environment.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\customControls.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\FontAwesome.Sharp.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\assemblyEnvironment.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\environment.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\environment.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\environment.dll.config
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\customControls.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\customControls.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\customControls.dll.config
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\assemblyEnvironment.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\assemblyEnvironment.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\bin\Release\assemblyEnvironment.dll.config
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\obj\Release\Quote of the Day.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\obj\Release\AeonLabs.Backend.PlugIns.Resources.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\obj\Release\Quote of the Day.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\obj\Release\Quote of the Day.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\obj\Release\Quote of the Day.vbproj.CopyComplete
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\obj\Release\Quote of the Day.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\obj\Release\Quote of the Day.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Backend\PlugIns\Quote of the Day\Quote of the Day\obj\Release\Quote of the Day.pdb

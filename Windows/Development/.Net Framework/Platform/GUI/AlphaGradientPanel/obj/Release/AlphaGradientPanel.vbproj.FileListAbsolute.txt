@@ -25,3 +25,13 @@ H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\AlphaGradie
 H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\release\panel.dll
 H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\release\panel.pdb
 H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\AppsMain\builds\release\panel.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\release\panel.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\release\panel.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\release\panel.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\AlphaGradientPanel\obj\Release\AlphaGradientPanel.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\AlphaGradientPanel\obj\Release\BlueActivity.Resources.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\AlphaGradientPanel\obj\Release\AlphaGradientPanel.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\AlphaGradientPanel\obj\Release\AlphaGradientPanel.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\AlphaGradientPanel\obj\Release\panel.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\AlphaGradientPanel\obj\Release\panel.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\AlphaGradientPanel\obj\Release\panel.pdb

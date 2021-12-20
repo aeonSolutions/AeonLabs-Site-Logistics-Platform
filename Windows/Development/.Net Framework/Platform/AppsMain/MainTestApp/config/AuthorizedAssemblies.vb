@@ -1,5 +1,6 @@
 ﻿
 Imports AeonLabs.Environment
+Imports AeonLabs.Environment.Assembly
 
 Public Class AuthorizedAssemblies
 #Region "LOAD STATIC ASSEMBLIES"

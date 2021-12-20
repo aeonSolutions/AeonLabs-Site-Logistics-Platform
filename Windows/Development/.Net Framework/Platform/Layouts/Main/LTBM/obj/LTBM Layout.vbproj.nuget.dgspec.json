@@ -1,14 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj": {}
+    "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\.Net Framework\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj": {
+    "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Backend\\Environment\\EnvironmentAssembly\\assemblyEnvironment\\assemblyEnvironment.vbproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\.Net Framework\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj",
-        "projectName": "Custom Controls",
-        "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\.Net Framework\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj",
+        "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Backend\\Environment\\EnvironmentAssembly\\assemblyEnvironment\\assemblyEnvironment.vbproj",
+        "projectName": "assemblyEnvironment",
+        "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Backend\\Environment\\EnvironmentAssembly\\assemblyEnvironment\\assemblyEnvironment.vbproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj": {
+                "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Backend\\Layout\\Menu Layout Vertical\\Menu Layout Vertical\\Menu Layout Vertical.vbproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Backend\\Layout\\Menu Layout Vertical\\Menu Layout Vertical\\Menu Layout Vertical.vbproj",
+        "projectName": "Menu Layout Vertical",
+        "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Backend\\Layout\\Menu Layout Vertical\\Menu Layout Vertical\\Menu Layout Vertical.vbproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,14 +38,29 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj": {
+    "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj",
+        "projectName": "Custom Controls",
+        "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj",
+        "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj",
         "projectName": "ltbm.layout",
-        "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj",
+        "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\LTBM Layout.vbproj",
         "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\obj\\",
+        "outputPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Layouts\\Main\\LTBM\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -47,8 +81,14 @@
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\.Net Framework\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj": {
-                "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\.Net Framework\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj"
+              "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Backend\\Environment\\EnvironmentAssembly\\assemblyEnvironment\\assemblyEnvironment.vbproj": {
+                "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Backend\\Environment\\EnvironmentAssembly\\assemblyEnvironment\\assemblyEnvironment.vbproj"
+              },
+              "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Backend\\Layout\\Menu Layout Vertical\\Menu Layout Vertical\\Menu Layout Vertical.vbproj": {
+                "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\Backend\\Layout\\Menu Layout Vertical\\Menu Layout Vertical\\Menu Layout Vertical.vbproj"
+              },
+              "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj": {
+                "projectPath": "C:\\Users\\Miguel\\Desktop\\Site Logistics\\Windows\\Development\\.Net Framework\\Platform\\GUI\\Custom Controls\\Custom Controls.vbproj"
               }
             }
           }

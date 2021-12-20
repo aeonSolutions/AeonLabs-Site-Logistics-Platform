@@ -1,4 +1,5 @@
-﻿Imports AeonLabs.Environment
+﻿
+Imports AeonLabs.Environment.Assembly
 
 Public Class initializeLayoutClass
 

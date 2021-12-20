@@ -26,7 +26,7 @@ Module AppCustomization
 
             'TODO: replace by API ACCESS KEY string : office435dfgjdn4235
             .softwareAccessMode = "humanResources"  'possible values: office, site, contractor, rh
-            .expireDate = "01/01/2021"
+            .expireDate = "01/01/2023"
             .updateServerAddr = "http://www.store.aeonlabs.solutions/index.php"
             .crashReportServerAddr = "http://www.sitelogistics.construction/shared/crash/api.php?task=crash"
             .websiteToLoadProgram = "http://www.sitelogistics.construction"

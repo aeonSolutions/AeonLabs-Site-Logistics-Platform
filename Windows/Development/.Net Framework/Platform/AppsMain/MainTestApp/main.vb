@@ -27,7 +27,7 @@ Module main
 #Region "sub main"
     Public Sub main()
         Application.EnableVisualStyles()
-        Application.SetCompatibleTextRenderingDefault(False)
+        'Application.SetCompatibleTextRenderingDefault(False)
 
         'Instantiating the delegate for update data from child forms
         updateMainApp = AddressOf updateMain
@@ -84,7 +84,7 @@ Module main
         If mainForm Is Nothing Then
             mainForm = loadLayout(enVars.customization.designLayoutAssemblyFileName, enVars.customization.designLayoutAssemblyNameSpace)
             If mainForm Is Nothing Then
-                MsgBox("Error initializing main layout:")
+                MsgBox("Error initializing main layout file:" + enVars.customization.designLayoutAssemblyFileName + ". Name spaxe:" + enVars.customization.designLayoutAssemblyNameSpace)
                 Application.Exit()
                 Exit Sub
             End If

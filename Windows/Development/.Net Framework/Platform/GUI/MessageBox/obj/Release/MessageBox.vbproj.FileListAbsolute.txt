@@ -16,3 +16,21 @@ H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\
 H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\obj\Release\MessageBox.dll
 H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\obj\Release\MessageBox.xml
 H:\DiskContents\Software\Code\AeonLabs Platform\Windows\Platform\GUI\MessageBox\obj\Release\MessageBox.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\release\MessageBox.dll.config
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\release\MessageBox.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\release\MessageBox.pdb
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\AppsMain\builds\release\MessageBox.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\MessageBox\obj\Release\MessageBox.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\MessageBox\obj\Release\Interop.SHDocVw.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\MessageBox\obj\Release\Interop.Shell32.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\MessageBox\obj\Release\MessageBox.vbproj.ResolveComReference.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\MessageBox\obj\Release\AeonLabs.messageBoxForm.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\MessageBox\obj\Release\AeonLabs.MessageBoxChild.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\MessageBox\obj\Release\AeonLabs.Resources.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\MessageBox\obj\Release\AeonLabs.strings.resources
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\MessageBox\obj\Release\MessageBox.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\MessageBox\obj\Release\MessageBox.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\MessageBox\obj\Release\MessageBox.vbproj.CopyComplete
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\MessageBox\obj\Release\MessageBox.dll
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\MessageBox\obj\Release\MessageBox.xml
+C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\GUI\MessageBox\obj\Release\MessageBox.pdb
