@@ -154,5 +154,23 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Backend\Environment\environment\environment\environment.vbproj">
+      <Project>{82ad9932-5319-4ce8-a398-75b91133feec}</Project>
+      <Name>environment</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\GUI\Custom Controls\Custom Controls.vbproj">
+      <Project>{139894e5-2335-4583-b449-dc1d2a94937a}</Project>
+      <Name>Custom Controls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\GUI\MessageBox\MessageBox.vbproj">
+      <Project>{19A34A5B-0354-408D-AF53-6B852BB0AB25}</Project>
+      <Name>MessageBox</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\contactless.smartcards\contactless.smartcards.library.vbproj">
+      <Project>{46318B4A-F3FD-4433-A641-23CB0ED3EF5F}</Project>
+      <Name>contactless.smartcards.library</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

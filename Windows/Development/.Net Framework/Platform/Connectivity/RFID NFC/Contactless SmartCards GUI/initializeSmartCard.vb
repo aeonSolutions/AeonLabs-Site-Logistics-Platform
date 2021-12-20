@@ -1,16 +1,18 @@
 ﻿Imports System.Drawing
 Imports System.Windows.Forms
-Imports ConstructionSiteLogistics.Gui.Forms.Core
-Imports ConstructionSiteLogistics.Libraries.Core
-Imports siteConstructionSiteLogistics.SmartCards.Library
+Imports AeonLabs
+Imports AeonLabs.Connectivity.SmartCards
+Imports AeonLabs.Environment
+
+
 
 Public Class initializeSmartCard
     Private msgbox As messageBoxForm
-    Private state As New environmentVars
+    Private state As New environmentVarsCore
     Private translations As languageTranslations
     Private nfCard As New smartCard
 
-    public property mainForm as MainMdiForm
+    Public Property mainForm As Form
 
     Private currentUID As String = ""
     Private currentCode As String = ""
@@ -26,7 +28,7 @@ Public Class initializeSmartCard
         Me.Close()
     End Sub
 
-    Public Sub New(_mainMdiForm As MainMdiForm, _state As environmentVars, _currentFormData As Dictionary(Of String, String))
+    Public Sub New(_mainMdiForm As Form, _state As environmentVarsCore, _currentFormData As Dictionary(Of String, String))
         mainForm = _mainMdiForm
         state = _state
         currentFormData = _currentFormData

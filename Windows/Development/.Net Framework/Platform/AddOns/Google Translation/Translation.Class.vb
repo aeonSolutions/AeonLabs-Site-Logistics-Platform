@@ -1,12 +1,13 @@
-﻿Imports ConstructionSiteLogistics.Libraries.Core
+﻿Imports AeonLabs.Environment
+Imports AeonLabs.Network
 Imports Newtonsoft.Json.Linq
 
 Public Class TranslationLibrary
     Public Event getTranslationText(sender As Object, responseData As String)
 
     Private translated As String = ""
-    Private stateCore As New environmentVars
-    Private translations As languageTranslations
+    Private stateCore As New environmentVarsCore
+    'Private translations As languageTranslations
     Private WithEvents HttpDataRequestGoogleFree As HttpDataGetData
 
     Private includeOriginalString As Boolean
@@ -21,8 +22,8 @@ Public Class TranslationLibrary
         langToTranslate = _langToTranslate
 
         If Not stateCore.addonsLoaded OrElse Not stateCore.addons.ContainsKey("translation") Then
-            translations.load("errorMessages")
-            translated = "{'error':true,'message':'" & translations.getText("errorWeatherAddonNotFound") & ". " & translations.getText("contactEnterpriseSupport") & "'}"
+            'translations.load("errorMessages")
+            'translated = "{'error':true,'message':'" & translations.getText("errorWeatherAddonNotFound") & ". " & translations.getText("contactEnterpriseSupport") & "'}"
             RaiseEvent getTranslationText(Me, translated)
             Exit Sub
         ElseIf stateCore.addons("translation")("name").Equals("googleFreeTranslation") Then
@@ -32,7 +33,7 @@ Public Class TranslationLibrary
     Public Sub googleFreeTranslation()
         'https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl={langtotranslate}&hl={originlang}&dt=t&dt=bd&dj=1&source=icon&q={text}
 
-        translations = New languageTranslations(stateCore)
+        'translations = New languageTranslations(stateCore)
         If langToTranslate.Equals("") Then
             langToTranslate = stateCore.defaultTranslatedLang
         End If
@@ -57,7 +58,7 @@ Public Class TranslationLibrary
         HttpDataRequestGoogleFree.startRequest()
     End Sub
 
-    Private Sub HttpDataRequestGoogleFree_dataArrived(sender As Object, responseData As String, misc As Dictionary(Of String,String)) Handles HttpDataRequestGoogleFree.dataArrived
+    Private Sub HttpDataRequestGoogleFree_dataArrived(sender As Object, responseData As String, misc As Dictionary(Of String, String)) Handles HttpDataRequestGoogleFree.dataArrived
         Try
             Dim step3 As Newtonsoft.Json.Linq.JObject = JObject.Parse(responseData)
             Dim responseStr As String = step3.SelectToken("sentences[0]").SelectToken("trans").ToString()
@@ -79,7 +80,7 @@ Public Class TranslationLibrary
             RaiseEvent getTranslationText(Me, translated)
 
         Catch ex As Exception
-            saveCrash(ex)
+            'saveCrash(ex)
             RaiseEvent getTranslationText(Me, ex.ToString)
         End Try
     End Sub

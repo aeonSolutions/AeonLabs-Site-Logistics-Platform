@@ -86,9 +86,8 @@
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\BUILD FILES\Newtonsoft.Json.dll</HintPath>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\..\AeonLabs .NET Platform\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -157,12 +156,9 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Shared Code\Core Libraries\Core Libraries.vbproj">
-      <Project>{0F6BD189-ED33-45CC-96F8-0DF6B1037CC3}</Project>
-      <Name>Core Libraries</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\GUI\AlphaGradientPanel\AlphaGradientPanel.vbproj">
       <Project>{a65d2f89-5203-411b-8111-cd0b17b8a642}</Project>
       <Name>AlphaGradientPanel</Name>

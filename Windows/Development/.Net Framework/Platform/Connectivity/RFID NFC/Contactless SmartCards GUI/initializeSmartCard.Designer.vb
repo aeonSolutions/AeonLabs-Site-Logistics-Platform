@@ -155,7 +155,7 @@ Partial Class initializeSmartCard
     Friend WithEvents progressBar As ProgressBar
     Friend WithEvents StartBtn As Button
     Friend WithEvents PictureBox1 As PictureBox
-    Friend WithEvents cardIdCode As ConstructionSiteLogistics.Gui.Forms.Core.LabelDoubleBuffer
+    Friend WithEvents cardIdCode As LabelDoubleBuffer
     Friend WithEvents readCodeOnly As LinkLabel
-    Friend WithEvents authCode_lbl As ConstructionSiteLogistics.Gui.Forms.Core.LabelDoubleBuffer
+    Friend WithEvents authCode_lbl As LabelDoubleBuffer
 End Class
