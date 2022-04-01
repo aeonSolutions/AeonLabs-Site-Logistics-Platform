@@ -1,5 +1,5 @@
 # Site Logistics Multi Environment System
-![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon.svg)
+![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon.svg) 
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/total)
 
  This is development repo for the site logistics management system
@@ -35,12 +35,13 @@ https://www.youtube.com/watch?v=_Mb0Qagt6Ig
 
 ## Revisions
 
-
+-
 
 ## Download options
+-
 
 
-## Fully assembled PCB
+## Fully built and ready to Run
 Alternatively, and if you do not want to build this software by yourself and like to buy already ready to run, mail me at mtpsilva@gmail.com. 
 
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
