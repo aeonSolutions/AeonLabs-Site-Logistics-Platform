@@ -33,13 +33,9 @@ presentation video for the Office windows App
 
 https://www.youtube.com/watch?v=_Mb0Qagt6Ig
 
-## Revisions
-
--
-
-## Download options
--
-
+## Join the WhatsApp Group
+If you like this kind of projects and want to stay updated with the lastest research ideias and prototypes during the day and week, join the WhatsApp Group
+[LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
 
 ## Fully built and ready to Run
 Alternatively, and if you do not want to build this software by yourself and like to buy already ready to run, mail me at mtpsilva@gmail.com. 
