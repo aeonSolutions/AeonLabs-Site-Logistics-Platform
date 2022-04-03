@@ -34,7 +34,7 @@ presentation video for the Office windows App
 https://www.youtube.com/watch?v=_Mb0Qagt6Ig
 
 ## Join the WhatsApp Group
-If you like this kind of projects and want to stay updated with the lastest research ideias and prototypes during the day and week, join the WhatsApp Group
+If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
 [LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
 
 ## Fully built and ready to Run
