@@ -16,7 +16,7 @@ Between 2018 and mid-2020, I successfully implemented a digital transformation t
 
 The current state of development allows remote human resource management using a location-sensitive attendance log system where the worker, at the construction site, uses his company smartcard, union card, or smartphone to register entrance and exit the perimeter of the construction site. It is also possible to document all construction building materials delivered at each construction site: each time a truck arrives at the site, a designated worker opens an entry in the system and adds a photocopy of the delivery document for the materials that are being unloaded. 
 You can download a testing version of the software at
- www.aeonlabs.solutions/sitelogistics.construction (mot working anymore)
+ www.aeonlabs.solutions/sitelogistics.construction (not working anymore)
 
   <p align="center">
   <img src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/Designs/anroid_app.jpg" width=450>
