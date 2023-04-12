@@ -12,9 +12,33 @@
 # Site Logistics Multi Environment System
 
 
- This is development repo for the site logistics management system
-there is an old website located here:
-https://www.aeonlabs.solutions/sitelogistics.construction/
+
+Digital Transformation AdvisorDigital Transformation Advisor
+Quality Construction · Full-timeQuality Construction · Full-time
+Oct 2018 - Jul 2020 · 1 yr 10 mosOct 2018 - Jul 2020 · 1 yr 10 mos
+Brussels Area, BelgiumBrussels Area, Belgium
+Total work hours: ~4218 w.h 
+
+Below is a brief summary of what solutions were prototyped and deployed: ( P. & D. )
+
+■ Health & Safety
+I proposed the implementation of mandatory usage of an OEM smartwatch at a construction site to all construction workers.
+
+■ Improve response time and communication 
+ Implemented a communication chat with photos and video sharing, between office workers and workers at a construction site using the well-known Slack Messaging Mobile App. Remote managing and drastically lowered response time on issues, occurrences, and problems encountered by workers: from bad planning to detection of project errors during the execution phase. 
+
+■ Management of workers' attendance
+P&D a cloud database for management of attendance at a construction site, using NFC smartcards handed to each construction worker with a photo ID and work category. 
+
+■ Remote Management of work tasks 
+P&D a Logging of extra hours of work not stated on the initial contract
+
+■ P&D a remote Management of building materials stocks, tools, and machinery at the construction site. Documental Logging of all delivery notes from building materials delivered at the construction site
+
+■ Technologies: Visual Studio VB.NET, Android Studio SDK 28, PHP 7.x , HTML 5, CSS 3, MySQL 5.x, AES 128bit encryption, Cloud ReST API, Development & Deployment using AGILE. 
+
+Unfortunately, Covid19 happened in 2020, Quality Construction Laid me off,  and this logistics solution is now parked on one of my many repositories hosted by GitHub.  anyone can view all the programming code below, in there you will find links to tutorial videos on my youtube channel. 
+
 
 - Android : 
    - the code for the foreman android app (SDK 29) : 
