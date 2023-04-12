@@ -31,6 +31,9 @@ P&D a Logging of extra hours of work not stated on the initial contract
 
 Unfortunately, Covid19 happened in 2020, Quality Construction Laid me off,  and this logistics solution is now parked on one of my many repositories hosted by GitHub.  anyone can view all the programming code below, in there you will find links to tutorial videos on my youtube channel. 
 
+<br>
+
+### Software Apps prototyped and deployed
 
 - Android : 
    - the code for the foreman android app (SDK 29) : 
