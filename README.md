@@ -11,6 +11,44 @@
 
 # Site Logistics Multi Environment System
 
+Business Technology Implementation
+Between 2018 and mid-2020, I successfully implemented a digital transformation to a startup in the construction sector and moved the enterprise forward by enabling the delivery of works to all 70+ construction workers, with the implementation of digital methodologies and communication in real time at each construction site and at the same time managing all logistics aspects of construction works through a cloud logistics platform, also designed from start by me, developed, and coded. Currently consists of 2 android Apps, an MS Windows desktop App in.NETCore. All connecting to a cloud server API and where data is stored and shared among devices using current encryption standards. 
+
+The current state of development allows remote human resource management using a location-sensitive attendance log system where the worker, at the construction site, uses his company smartcard, union card, or smartphone to register entrance and exit the perimeter of the construction site. It is also possible to document all construction building materials delivered at each construction site: each time a truck arrives at the site, a designated worker opens an entry in the system and adds a photocopy of the delivery document for the materials that are being unloaded. 
+You can download a testing version of the software at
+ www.aeonlabs.solutions/sitelogistics.construction
+
+  
+Figure 4 - main activity of the Construction Site management and Logistics Android App
+But that is not all, I also identified at the beginning, poor communication, and efficiency of transmitting basic information to workers. Misunderstandings, the incomplete transmission of the message needed to transmit. For example, in simple information about planning the next vacation or quality assessment of lunch food. To mitigate, I implemented a messaging system using a well-known commercial messaging app to share not only messages, but also photos among the foreman at each construction site and office personnel. Current results show a significant improvement in the general mood of workers in that regard.
+ Impact
+•	Eliminated errors in logging attendance of workers count at each construction site
+•	Lowered from 400% to 15% the total unpaid hours on works on unscheduled tasks
+•	Increased invoice revenue in 5% of the total amount subcontracted by adding metrics control on monthly works with logging of delivery notes quantities of building materials delivered at the construction site
+•	Significantly reduced communication problems between worker teams, site engineers, and office personnel with the implementation of a chat app with photos and file sharing.
+•	Enabled log of daily metrics of the work done by workers. Previously, a task was only done by the subcontractor.
+
+Enterprises I was involved, as a project manager, and doing construction site management using the logistics platform stated above:
+
+Duchêne SA at the construction site 
+Tramway in the outskirts of Liège for building a Tram Gare (2019/20)
+
+Thomas & Piron at the construction sites
+Building a residential apartment building in the city center of Nivelles (2018/19); 
+Building a residential apartment building in the outskirts of Balmoral (2019/20);
+Wust at the construction sites 
+Building a 'Maison de Repo' near Perwez (2018/20);
+Repurposing a “Palais de justice” building in Eupen;
+Construction of a school in Ans near Liege;
+Jazy SA on the construction site
+Building a residential apartment building in Evere (2019/20)
+BAUNV at the construction sites
+Renovation and repurposing of a building in the city center of Antwerp (2019);
+Building a residential apartment building in Mechelen (2019/20);
+Repurpose a residential apartment building in Verviers (2020);
+
+
+
 Brief summary of what solutions were prototyped and deployed: ( P. & D. )
 
 ■ Health & Safety
