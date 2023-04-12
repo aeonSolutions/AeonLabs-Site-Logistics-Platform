@@ -21,10 +21,10 @@ You can download a testing version of the software at
   <p align="center">
   <img src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/Designs/anroid_app.jpg" width=450>
   
-  Figure 4 - main activity of the Construction Site management and Logistics Android App
+  <p align=center> Figure 4 - main activity of the Construction Site management and Logistics Android App</p>
 </p>
 
-
+<br>
 
 **Brief summary of what solutions were prototyped and deployed: ( P. & D. )**
 
@@ -82,7 +82,8 @@ P&D a Logging of extra hours of work not stated on the initial contract
 
 <br>
 
-- Jazy SA on the construction site
+**Jazy SA on the construction site**
+
 - Building a residential apartment building in Evere (2019/20)
 
 <br>
