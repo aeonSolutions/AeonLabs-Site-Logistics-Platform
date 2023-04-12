@@ -11,15 +11,7 @@
 
 # Site Logistics Multi Environment System
 
-
-
-Digital Transformation AdvisorDigital Transformation Advisor
-Quality Construction · Full-timeQuality Construction · Full-time
-Oct 2018 - Jul 2020 · 1 yr 10 mosOct 2018 - Jul 2020 · 1 yr 10 mos
-Brussels Area, BelgiumBrussels Area, Belgium
-Total work hours: ~4218 w.h 
-
-Below is a brief summary of what solutions were prototyped and deployed: ( P. & D. )
+Brief summary of what solutions were prototyped and deployed: ( P. & D. )
 
 ■ Health & Safety
 I proposed the implementation of mandatory usage of an OEM smartwatch at a construction site to all construction workers.
