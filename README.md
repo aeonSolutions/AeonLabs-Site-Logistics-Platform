@@ -51,20 +51,30 @@ Unfortunately, Covid19 happened in 2020, Quality Construction Laid me off,  and 
 
      https://github.com/aeonSolutions/Site-Logistics-Platform/tree/main/Cloud/Current
 
+<br>
 
-#### Android
+### Prensentation videos
+
+**Android**
+
 presentation video for the Foreman android Aop
 
 https://www.youtube.com/watch?v=0i_cGdDqLJ0
 
-#### Windows
+<br>
+
+**Windows**
 presentation video for the Office windows App
 
 https://www.youtube.com/watch?v=_Mb0Qagt6Ig
 
+<br>
+
 ## Join the WhatsApp Group
 If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
 [LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
+
+<br>
 
 ## Fully built and ready to Run
 Alternatively, and if you do not want to build this software by yourself and like to buy already ready to run, mail me at mtpsilva@gmail.com. 
