@@ -46,7 +46,7 @@ P&D a Logging of extra hours of work not stated on the initial contract
 
 <br>
 
-## Enterprises I was involved, as a project manager, and doing construction site management using the logistics platform stated above:
+## Enterprises I was involved, as a project manager, and doing construction site management using this logistics platform
 
 
 **Duchêne SA at the construction site** 
