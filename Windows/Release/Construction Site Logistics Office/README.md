@@ -18,7 +18,7 @@ The visual studio solution has 3 projects:
 there is a global env. file located in modules/state.vb
 
 ## Test user Login credentials
-(to be moved to easyThings. ???? )
+
 the test server for the Cloud API is currently located in : http://www.aeonlabs.solutions/sitelogistics.construction/shared/csaml/api/index.php
 
 for the setup wizard the Cloud API server is :  http://www.aeonlabs.solutions/sitelogistics.construction
