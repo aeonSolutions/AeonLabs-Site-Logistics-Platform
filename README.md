@@ -64,7 +64,7 @@ P&D a Logging of extra hours of work not stated on the initial contract
 ## Enterprises I was involved, as a project manager, and doing construction site management using this logistics platform
 
 
-**Duchêne SA at the construction site** 
+### [Duchêne SA](https://www.linkedin.com/company/duchene-sa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_companies%3B3czxpt9ySnS087O0lJ5IFQ%3D%3D) at the construction site
 
 <p align="center">
   <img src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/Designs/duchene_logo.jpg" height=90>  
@@ -74,7 +74,7 @@ P&D a Logging of extra hours of work not stated on the initial contract
 
 <br>
 
-**Thomas & Piron at the construction sites**
+### [Thomas & Piron](https://www.linkedin.com/company/thomas-et-piron-luxembourg/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_companies%3BcqEVCzXYSh6qdviRWi9ZOQ%3D%3D) at the construction sites
 
 <p align="center">
   <img src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/Designs/thomas_piron_logo.png" height=90>  
@@ -85,7 +85,7 @@ P&D a Logging of extra hours of work not stated on the initial contract
 
 <br>
 
-**Wust at the construction sites**
+### [Wust](https://www.linkedin.com/company/wust/) at the construction sites**
 
 <p align="center">
   <img src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/Designs/besix_logo.jpg" height=90>  
@@ -97,13 +97,13 @@ P&D a Logging of extra hours of work not stated on the initial contract
 
 <br>
 
-**Jazy SA on the construction site**
+### Jazy SA on the construction site
 
 - Building a residential apartment building in Evere (2019/20)
 
 <br>
 
-**BAUNV at the construction sites**
+### [BAUNV](https://www.linkedin.com/company/bau-nv---aannemingen---contracting/) at the construction sites
 
 <p align="center">
   <img src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/Designs/bau_logo.png" height=90>  
