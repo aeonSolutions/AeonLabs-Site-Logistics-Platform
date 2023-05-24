@@ -26,6 +26,19 @@ You can download a testing version of the software at
   <p align=center> Figure 4 - main activity of the Construction Site management and Logistics Android App</p>
 </p>
 
+### Prensentation videos
+
+**Android**
+
+presentation video for the Foreman android App: https://www.youtube.com/watch?v=0i_cGdDqLJ0
+
+<br>
+
+**Windows**
+
+presentation video for the Office windows App: https://www.youtube.com/watch?v=_Mb0Qagt6Ig
+
+<br>
 <br>
 
 **Brief summary of what solutions were prototyped and deployed: ( P. & D. )**
@@ -123,23 +136,6 @@ Unfortunately, Covid19 happened in 2020, Quality Construction Laid me off,  and 
 - Cloud: the code for the Cloud API (PHP 7.x, MySQL 5.x ) : 
 
      https://github.com/aeonSolutions/Site-Logistics-Platform/tree/main/Cloud/Current
-
-<br>
-
-### Prensentation videos
-
-**Android**
-
-presentation video for the Foreman android Aop
-
-https://www.youtube.com/watch?v=0i_cGdDqLJ0
-
-<br>
-
-**Windows**
-presentation video for the Office windows App
-
-https://www.youtube.com/watch?v=_Mb0Qagt6Ig
 
 <br>
 
