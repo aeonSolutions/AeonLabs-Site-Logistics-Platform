@@ -1,4 +1,4 @@
-[Open Software Caralog](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)  >>  Construction Site Remote Logistics Platform  >> Foreman App for Android Devices
+[Open Software Caralog](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)  >>  [Construction Site Remote Logistics Platform](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/README.md)  >> Foreman App for Android Devices
 
 [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
  [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
