@@ -1,4 +1,6 @@
 ## Visual Studio 
+This is the last revision of code , before covid19 happned.  Is fully working and it has bugs. It also has implemnted automatic crash and diagnostics  dump to the cloud database server. This aloowed me to evaluated coding errors remotly even when times a construction worker , failed to mention it to me. 
+
 The visual studio solution has 3 projects:
 - Construction Site Logistics Office : main program for office management of all activities
 - Construction Site Logistics Office Setup : setup wizard for the Construction Site Logistics Office
@@ -19,9 +21,9 @@ there is a global env. file located in modules/state.vb
 
 ## Test user Login credentials
 
-the test server for the Cloud API is currently located in : http://www.aeonlabs.solutions/sitelogistics.construction/shared/csaml/api/index.php
+the test server for the Cloud API is currently located in : ~~http://www.aeonlabs.solutions/sitelogistics.construction/shared/csaml/api/index.php~~
 
-for the setup wizard the Cloud API server is :  http://www.aeonlabs.solutions/sitelogistics.construction
+for the setup wizard the Cloud API server is :  ~~http://www.aeonlabs.solutions/sitelogistics.construction~~
 
 in the VB code (all projects; see state.vb file): /shared/csaml/api/index.php
 
