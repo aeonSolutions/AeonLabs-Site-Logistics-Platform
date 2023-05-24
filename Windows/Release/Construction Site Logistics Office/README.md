@@ -1,5 +1,5 @@
 ## Visual Studio 
-This is the last revision of the code before covid19 happened. Is fully working and it has bugs. It also has implemented automatic crash and diagnostics dump to the cloud database server. This aloowed me to evaluated coding errors remotly even when times a construction worker, failed to mention it to me.
+This is the last revision of the code before covid19 happened. Is fully working and it has bugs. It also has implemented automatic crash and diagnostics dump to the cloud database server. This allowed me to evaluate coding errors remotely even when times a construction worker, failed to mention it to me.
 
 The visual studio solution has 3 projects:
 - Construction Site Logistics Office : main program for office management of all activities
