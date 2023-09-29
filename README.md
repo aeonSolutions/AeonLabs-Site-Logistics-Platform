@@ -26,6 +26,16 @@ You can download a testing version of the software at
   <p align=center> Figure 4 - main activity of the Construction Site management and Logistics Android App</p>
 </p>
 
+
+A scientific research paper was written about this digital transformation. Titled 
+
+"**Digital Transformation on a Small Start-Up Enterprise: Design, Prototyping, and Deployment based on Human-Centered Design Principles for the Construction Sector**"
+
+It can be read in full at Elsevier's prePrint server SSRN using the link below <br>
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4027801
+
+<br>
+
 ### Prensentation videos
 
 **Android**
