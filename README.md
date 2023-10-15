@@ -149,6 +149,15 @@ Unfortunately, Covid19 happened in 2020, Quality Construction Laid me off,  and 
 
 <br>
 
+## PhotoLog
+Anyone Can view a Photo Log [here](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media) for the construction sites where i did remote project managment and this digital transformation.
+
+<p align="center">
+   <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media/IMG_0756.JPG">
+   <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media/IMG_0766.JPG">
+    <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media/IMG_E0989.JPG">
+</p>
+
 ## Join the WhatsApp Group
 If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
 [LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
