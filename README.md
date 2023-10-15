@@ -150,7 +150,7 @@ Unfortunately, Covid19 happened in 2020, Quality Construction Laid me off,  and 
 <br>
 
 ## PhotoLog
-Anyone Can view a Photo Log [here](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media) for the construction sites where i did remote project managment and this digital transformation.
+Anyone Can view a Photo Log [here](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media), with more than 100 photos, for the construction sites where i did remote project managment and this digital transformation.
 
 <p align="center">
    <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media/IMG_0756.JPG">
