@@ -1,5 +1,3 @@
-[Open Software Caralog](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)  >>  Construction Site Remote Logistics Platform 
-
 [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
  [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
@@ -11,6 +9,61 @@
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon.svg) 
 
+[Open Software Caralog](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)  >>  Construction Site Remote Logistics Platform 
+
+<div align="right">
+Goto <a href="https://github.com/aeonSolutions/Open-Scientific-Research">Open Science Research</a> | <a href="https://github-com.translate.goog/aeonSolutions/AeonLabs-Site-Logistics-Platform?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
+Last update 26-12-2023
+</div>
+
+# Digital Transformation on a Small Start-Up Enterprise: Design, Prototype, and Deployment Based on Human-Centered Design Principles for the Construction Sector
+
+## Miguel Tomás<sup>1*</sup>, Kiera Tabatha<sup>2</sup>
+<sup>1,2</sup> Department of Computer Sciences, Universidad Alcalá, Madrid, Spain <br>
+
+<div align="justify"> 
+
+## Abstract
+Logistics with real-time management of work activities at a construction site, including building materials and human resources, is an innovation for micro and small enterprises starting up in the construction sector. Enterprises of this size are being run using traditional turn-of-the-century technology tools, namely, excel spreadsheets as data storage. This paper presents a case study of technology implementation at a startup enterprise in the Belgian construction sector between 2018 and mid-2020, and discusses the challenges needed to overcome during the period of digital transformation. A multi-environment logistics platform was designed and prototyped following human-centered design principles enabling the enterprise to move forward and improve work methodologies to work with real-time data. Results after 18 months demonstrated an increased efficiency in all work processes, with a reduction of losses in all aspects of work activities and improved control of production estimates and measurements
+
+<br>
+
+**Keywords:** logistics, task optimization, human-centered design, Machine learning, Process mining, Digital Transformation
+
+#
+**Suggested Citation**
+[Tomás M](https://orcid.org/0000-0002-5910-5179), Tabatha K. Digital Transformation on a Small Start-Up Enterprise: Design, Prototype, and Deployment Based on Human-Centered Design Principles for the Construction Sector (February 6, 2022). Available at SSRN: https://ssrn.com/abstract=4027801 or http://dx.doi.org/10.2139/ssrn.4027801
+
+#
+
+**Status:**  being peer reviwerd &nbsp;  **Date:** ..-..-....  &nbsp; ***Corresponding author:** [+32 471 632 520](https://wa.me/32471632520) (WhatsApp only)  <br>
+**short URL address to this document here on GitHub**: http://tinyurl.com/constructionSiteLogistics
+
+<br>
+
+**Data Availability**<br>
+The software and hardware solutions presented on this research work is available on GitHub with a Creative Commons License: https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform
+ 
+<br>
+
+**Declaration of Competing Interest**<br>
+To this date, the author declares to have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+<br>
+
+**About the Author**<br>
+Miguel Tomás has been researching and implementing technology solutions for start-up businesses and public institutions for the past 20 years. To learn more about the author, connect to his LinkedIn profile page using the following web address: https://www.linkedin.com/in/migueltomas/
+
+<br>
+
+**A final statement about Mental Health in Science**<br>
+It is found recurrently on the internet news and comments about another scientific researcher, in particular junior and medior researchers, going through some kind of mental health difficulties in particular those associated with sensory overload events. Promoted by abusive usage of wireless devices, assembled or modified to actuate at a distance and invisible, causing harm to a victim’s neurobiology. This is an old area of knowledge, that now needs to be openly discussed and commented, in a peaceful constructive way towards identification of solutions to all abusive usages of wireless frequency waves (radiation or vibration) in electronic devices. Open solutions are the correct path toward safety in usage of all things related to such technologies. Be knowledgeable to stay safe.  
+
+<br>
+
+#
+
+<br>
 
 # Business Technology Implementation
 
@@ -26,17 +79,7 @@ You can download a testing version of the software at
   <p align=center> Figure 4 - main activity of the Construction Site management and Logistics Android App</p>
 </p>
 
-
-A scientific research paper was written about this digital transformation. Titled 
-
-"**Digital Transformation on a Small Start-Up Enterprise: Design, Prototyping, and Deployment based on Human-Centered Design Principles for the Construction Sector**"
-
-It can be read in full at Elsevier's prePrint server SSRN using the link below <br>
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4027801
-
-<br>
-
-### Prensentation videos
+## Prensentation videos
 
 **Android**
 
@@ -181,48 +224,43 @@ You can get in touch with me on my LinkedIn Profile:
 
 <a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-<a href="https://app.userfeel.com/t/2f6cb1e0" target="_blank"><img src="https://app.userfeel.com/tester/737648/image?.png" width="257" class="no-b-lazy"></a>
-
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/aeonSolutions)
 
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB design Files I provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
-<p align+"left">
-<a href="https://www.buymeacoffee.com/migueltomas">
-   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" />
- </a>
-<br>
-<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Designs/bmc_qr.png" height="130">
+<p align="center">
+    <a href="https://www.buymeacoffee.com/migueltomas">
+        <img height="35" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
+    </a>
 </p>
 
 
+### Make a donation on PayPal
+Make a donation on PayPal and get a TAX refund*.
 
-<br />
+<p align="center">
+    <a href="http://paypal.me/mtpsilva">
+        <img height="35" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png">
+    </a>
+</p>
 
-### Make a donation on Paypal
-Make a donation on paypal and get a TAX refund*.
+### Support all these open hardware projects and become a GitHub sponsor  
+Liked any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
+</p>
 
-<br>
+# 
 
-### Support all these open hardware projects and become a patreon  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
-In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
-
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
-
-<br />
-<br />
-
-______________________________________________________________________________________________________________________________
 ### License
 
 Before proceeding to download any of AeonLabs software solutions for open-source development and/or PCB hardware electronics development make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. 
-
-
-
-______________________________________________________________________________________________________________________________
