@@ -36,7 +36,7 @@ Logistics with real-time management of work activities at a construction site, i
 
 #
 
-**Status:**  being peer reviwerd &nbsp;  **Date:** ..-..-....  &nbsp; ***Corresponding author:** [+32 471 632 520](https://wa.me/32471632520) (WhatsApp only)  <br>
+**Status:**  being peer reviewed &nbsp;  **Date:** 26-12-2023  &nbsp; ***Corresponding author:** [+32 471 632 520](https://wa.me/32471632520) (WhatsApp only)  <br>
 **short URL address to this document here on GitHub**: http://tinyurl.com/constructionSiteLogistics
 
 <br>
