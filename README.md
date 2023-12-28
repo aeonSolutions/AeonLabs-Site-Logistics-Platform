@@ -168,7 +168,7 @@ P&D a Logging of extra hours of work not stated on the initial contract
 
 <br>
 
-Unfortunately, Covid19 happened in 2020, Quality Construction Laid me off,  and this logistics solution is now parked here on GitHub.  Anyone can view all the programming code. In there you will find links to tutorial videos on my youtube channel. 
+Unfortunately, Covid19 happened in 2020, [Quality Construction s.p.r.l.](https://www.linkedin.com/in/quality-construction-688026162/) Laid me off,  and this logistics solution is now parked here on GitHub.  Anyone can view all the programming code. In there you will find links to tutorial videos on my youtube channel. 
 
 <br>
 
