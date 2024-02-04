@@ -199,6 +199,12 @@ Anyone Can view a Photo Log [here](https://github.com/aeonSolutions/AeonLabs-Sit
    <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media/IMG_0756.JPG">
    <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media/IMG_0766.JPG">
     <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media/IMG_E0989.JPG">
+    <img height="200" src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media/taking_measurments_on_site.jpg">
+</p>
+
+
+<p align="center">
+   <img width="100%" src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media/construction_site_logistics.jpg">
 </p>
 
 ## Join the WhatsApp Group
