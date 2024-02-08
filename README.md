@@ -52,7 +52,7 @@ To this date, the author declares to have no known competing financial interests
 <br>
 
 **About the Author**<br>
-Miguel Tomás has been researching and implementing technology solutions for start-up businesses and public institutions for the past 20 years. To learn more about the author, connect to his LinkedIn profile page using the following web address: https://www.linkedin.com/in/migueltomas/
+Miguel Tomás has been researching and implementing technology solutions for start-up businesses and public institutions for the past 20 years. To learn more about the author, connect to his LinkedIn profile page using the following web address: https://www.linkedin.com/in/migueltomas/. Visit my [publications page](https://aeonsolutions.github.io/publications/) to find out more about published scientific communications in peer reviewed journals.
 
 <br>
 
