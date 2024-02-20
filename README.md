@@ -204,7 +204,7 @@ Anyone Can view a Photo Log [here](https://github.com/aeonSolutions/AeonLabs-Sit
 
 
 <p align="center">
-   <img width="100%" src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media/construction_site_logistics.jpg">
+   <img width="80%" src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media/construction_site_logistics.jpg">
 </p>
 
 ## Join the WhatsApp Group
