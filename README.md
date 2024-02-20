@@ -76,7 +76,7 @@ You can download a testing version of the software at
   <p align="center">
   <img width="45%"  src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/Designs/anroid_app.jpg">
   <img width="45%" src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media/worker_card.jpg">
-  <p align=center> Figure 4 - main activity on the Android App< and a Contactless RFID NFC Worker card/p>
+  <p align=center> Figure 4 - main activity on the Android App< and a Contactless RFID NFC Worker card</p>
 </p>
 
 ## Prensentation videos
