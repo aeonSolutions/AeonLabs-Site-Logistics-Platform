@@ -74,8 +74,8 @@ You can download a testing version of the software at
  www.aeonlabs.solutions/sitelogistics.construction (not working anymore)
 
   <p align="center">
-  <img src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/Designs/anroid_app.jpg" width=450>
-  
+  <img width="45%"  src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/Designs/anroid_app.jpg">
+  <img width="45%" src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media/worker_card.jpg">
   <p align=center> Figure 4 - main activity of the Construction Site management and Logistics Android App</p>
 </p>
 
