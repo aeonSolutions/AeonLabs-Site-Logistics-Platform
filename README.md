@@ -24,7 +24,7 @@ Last update 20-2-2024
 <div align="justify"> 
 
 ## Abstract
-Logistics with real-time management of work activities at a construction site, including building materials and human resources, is an innovation for micro and small enterprises starting up in the construction sector. Enterprises of this size are being run using traditional turn-of-the-century technology tools, namely, excel spreadsheets as data storage. This paper presents a case study of technology implementation at a startup enterprise in the Belgian construction sector between 2018 and mid-2020, and discusses the challenges needed to overcome during the period of digital transformation. A multi-environment logistics platform was designed and prototyped following human-centered design principles enabling the enterprise to move forward and improve work methodologies to work with real-time data. Results after 18 months demonstrated an increased efficiency in all work processes, with a reduction of losses in all aspects of work activities and improved control of production estimates and measurements
+Logistics with real-time management of work activities at a construction site, including building materials and human resources, is an innovation for micro and small enterprises starting up in the construction sector. Enterprises of this size are being run using traditional turn-of-the-century technology tools, namely, excel spreadsheets as data storage. This paper presents a case study of technology implementation at a startup enterprise in the Belgian construction sector between 2018 and mid-2020 and discusses the challenges needed to overcome during the period of digital transformation. A multi-environment logistics platform was designed and prototyped following human-centered design principles enabling the enterprise to move forward and improve work methodologies to work with real-time data. Results after 18 months demonstrated an increased efficiency in all work processes, with a reduction of losses in all aspects of work activities and improved control of production estimates and measurements
 
 <br>
 
@@ -42,7 +42,7 @@ Logistics with real-time management of work activities at a construction site, i
 <br>
 
 **Data Availability**<br>
-The software and hardware solutions presented on this research work is available on GitHub with a Creative Commons License: https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform
+The software and hardware solutions presented in this research work are available on GitHub with a Creative Commons License: https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform
  
 <br>
 
@@ -52,12 +52,12 @@ To this date, the author declares to have no known competing financial interests
 <br>
 
 **About the Author**<br>
-Miguel Tomás has been researching and implementing technology solutions for start-up businesses and public institutions for the past 20 years. To learn more about the author, connect to his LinkedIn profile page using the following web address: https://www.linkedin.com/in/migueltomas/. Visit my [publications page](https://aeonsolutions.github.io/publications/) to find out more about published scientific communications in peer reviewed journals.
+Miguel Tomás has been researching and implementing technology solutions for start-up businesses and public institutions for the past 20 years. To learn more about the author, connect to his LinkedIn profile page using the following web address: https://www.linkedin.com/in/migueltomas/. Visit my [publications page](https://aeonsolutions.github.io/publications/) to find out more about published scientific communications in peer-reviewed journals.
 
 <br>
 
 **A final statement about Mental Health in Science**<br>
-It is found recurrently on the internet news and comments about another scientific researcher, in particular junior and medior researchers, going through some kind of mental health difficulties in particular those associated with sensory overload events. Promoted by abusive usage of wireless devices, assembled or modified to actuate at a distance and invisible, causing harm to a victim’s neurobiology. This is an old area of knowledge, that now needs to be openly discussed and commented, in a peaceful constructive way towards identification of solutions to all abusive usages of wireless frequency waves (radiation or vibration) in electronic devices. Open solutions are the correct path toward safety in usage of all things related to such technologies. Be knowledgeable to stay safe.  
+It is found recurrently on the internet news and comments about another scientific researcher, in particular junior and medior researchers, going through some kind of mental health difficulties in particular those associated with sensory overload events. Promoted by abusive usage of wireless devices, assembled or modified to actuate at a distance and invisible, causing harm to a victim’s neurobiology. This is an old area of knowledge, that now needs to be openly discussed and commented, on in a peaceful constructive way toward the identification of solutions to all abusive usages of wireless frequency waves (radiation or vibration) in electronic devices. Open solutions are the correct path toward safety in the usage of all things related to such technologies. Be knowledgeable to stay safe.  
 
 <br>
 
@@ -67,7 +67,7 @@ It is found recurrently on the internet news and comments about another scientif
 
 # Business Technology Implementation
 
-Between 2018 and mid-2020, I successfully implemented a digital transformation to a startup in the construction sector and moved the enterprise forward by enabling the delivery of works to all 70+ construction workers, with the implementation of digital methodologies and communication in real time at each construction site and at the same time managing all logistics aspects of construction works through a cloud logistics platform, also designed from start by me, developed, and coded. Currently consists of 2 android Apps, an MS Windows desktop App in.NETCore. All connecting to a cloud server API and where data is stored and shared among devices using current encryption standards. 
+Between 2018 and mid-2020, I successfully implemented a digital transformation to a startup in the construction sector and moved the enterprise forward by enabling the delivery of works to all 70+ construction workers, with the implementation of digital methodologies and communication in real-time at each construction site and at the same time managing all logistics aspects of construction works through a cloud logistics platform, also designed from start by me, developed, and coded. Currently consists of 2 Android apps, an MS Windows desktop App in.NETCore. All connect to a cloud server API and where data is stored and shared among devices using current encryption standards. 
 
 The current state of development allows remote human resource management using a location-sensitive attendance log system where the worker, at the construction site, uses his company smartcard, union card, or smartphone to register entrance and exit the perimeter of the construction site. It is also possible to document all construction building materials delivered at each construction site: each time a truck arrives at the site, a designated worker opens an entry in the system and adds a photocopy of the delivery document for the materials that are being unloaded. 
 You can download a testing version of the software at
@@ -83,13 +83,13 @@ You can download a testing version of the software at
 
 **Android**
 
-presentation video for the Foreman android App: https://www.youtube.com/watch?v=0i_cGdDqLJ0
+presentation video for the Foreman Android App: https://www.youtube.com/watch?v=0i_cGdDqLJ0
 
 <br>
 
 **Windows**
 
-presentation video for the Office windows App: https://www.youtube.com/watch?v=_Mb0Qagt6Ig
+presentation video for the Office Windows app: https://www.youtube.com/watch?v=_Mb0Qagt6Ig
 
 <br>
 <br>
@@ -134,7 +134,7 @@ P&D a Logging of extra hours of work not stated on the initial contract
 </p>
 
 - Building a residential apartment building in the city center of Nivelles (2018/19); 
-- Building a residential apartment building in the outskirts of Balmoral (2019/20);
+- Building a residential apartment building on the outskirts of Balmoral (2019/20);
 
 <br>
 
@@ -145,7 +145,7 @@ P&D a Logging of extra hours of work not stated on the initial contract
 </p>
 
 - Building a 'Maison de Repo' near Perwez (2018/20);
-- Repurposing a “Palais de justice” building in Eupen;
+- Repurposing a “Palais de Justice” building in Eupen;
 - Construction of a school in Ans near Liege;
 
 <br>
@@ -168,21 +168,21 @@ P&D a Logging of extra hours of work not stated on the initial contract
 
 <br>
 
-Unfortunately, Covid19 happened in 2020, [Quality Construction s.p.r.l.](https://www.linkedin.com/in/quality-construction-688026162/) Laid me off,  and this logistics solution is now parked here on GitHub.  Anyone can view all the programming code. In there you will find links to tutorial videos on my youtube channel. 
+Unfortunately, COVID-19 happened in 2020, [Quality Construction s.p.r.l.](https://www.linkedin.com/in/quality-construction-688026162/) Laid me off,  and this logistics solution is now parked here on GitHub.  Anyone can view all the programming code. In there, you will find links to tutorial videos on my YouTube channel. 
 
 <br>
 
 ### Software Apps prototyped and deployed
 
 - Android : 
-   - the code for the foreman android app (SDK 29) : 
+   - the code for the foreman Android app (SDK 29) : 
    
      https://github.com/aeonSolutions/Site-Logistics-Platform/tree/main/Android/Foreman
-   - the code for the construction worker android app (SDK 29):
+   - the code for the construction worker Android app (SDK 29):
    
-     https://github.com/aeonSolutions/Site-Logistics-Platform/tree/main/Android/QCWorker
+     https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/tree/main/Android/siteWorker
   
-- Windows : the code for the office windows app (latest working vb.net): 
+- Windows : the code for the office Windows app (latest working vb.net): 
 
      https://github.com/aeonSolutions/Site-Logistics-Platform/tree/main/Windows/Release/Construction%20Site%20Logistics%20Office
 
@@ -208,13 +208,13 @@ Anyone Can view a Photo Log [here](https://github.com/aeonSolutions/AeonLabs-Sit
 </p>
 
 ## Join the WhatsApp Group
-If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
+If you like this kind of project and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
 [LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
 
 <br>
 
 ## Fully built and ready to Run
-Alternatively, and if you do not want to build this software by yourself and like to buy already ready to run, mail me at mtpsilva@gmail.com. 
+Alternatively, and if you do not want to build this software by yourself and like to buy already ready-to-run, mail me at mtpsilva@gmail.com. 
 
 
 <br />
@@ -254,7 +254,7 @@ Make a donation on PayPal and get a TAX refund*.
 </p>
 
 ### Support all these open hardware projects and become a GitHub sponsor  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
+Did you like any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
