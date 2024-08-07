@@ -1,5 +1,4 @@
-[![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
- [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
+[![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
  [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
 ![](https://img.shields.io/github/last-commit/aeonSolutions/PCB-Prototyping-Catalogue?style=for-the-badge)
@@ -13,7 +12,7 @@
 
 <div align="right">
 Goto <a href="https://github.com/aeonSolutions/Open-Scientific-Research">Open Science Research</a> | <a href="https://github-com.translate.goog/aeonSolutions/AeonLabs-Site-Logistics-Platform?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
-Last update 20-2-2024
+Last update 07-08-2024
 </div>
 
 # Digital Transformation on a Small Start-Up Enterprise: Design, Prototype, and Deployment Based on Human-Centered Design Principles for the Construction Sector
@@ -209,9 +208,11 @@ Anyone Can view a Photo Log [here](https://github.com/aeonSolutions/AeonLabs-Sit
    <img width="80%" src="https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform/blob/main/media/construction_site_logistics.jpg">
 </p>
 
-## Join the WhatsApp Group
-If you like this kind of project and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
-[LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
+## Join the Discord Server
+If you like this kind of project and want to stay updated with the latest research ideas and prototypes during the day and week, join the Discord Server
+
+[![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
+
 
 <br>
 
