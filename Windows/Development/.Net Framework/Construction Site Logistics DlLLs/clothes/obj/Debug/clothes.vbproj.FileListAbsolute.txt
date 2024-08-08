@@ -1,0 +1,60 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\clothes.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\clothes.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\clothes.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\clothes.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\clothes.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\core.libraries.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\gui.core.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\gui.lib.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\Newtonsoft.Json.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\ClosedXML.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\AutoUpdater.NET.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\ExcelNumberFormat.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\FastMember.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\core.libraries.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\core.libraries.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\gui.core.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\gui.core.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\gui.core.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\gui.lib.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\gui.lib.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\Newtonsoft.Json.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\ClosedXML.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\ClosedXML.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\AutoUpdater.NET.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\AutoUpdater.NET.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\bin\Debug\ExcelNumberFormat.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\clothes.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\workers.clothes.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\workers.clothes.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\workers.clothes.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\workers.clothes.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\ConstructionSiteLogistics.Workers.Clothes.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\ConstructionSiteLogistics.Workers.Clothes.workersClothesList_frm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\ConstructionSiteLogistics.Workers.Clothes.workersClothesForm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\workers.clothes.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\workers.clothes.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\workers.clothes.pdb
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\clothes.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\ConstructionSiteLogistics.Workers.Clothes.Resources.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\ConstructionSiteLogistics.Workers.Clothes.workersClothesList_frm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\ConstructionSiteLogistics.Workers.Clothes.workersClothesForm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\clothes.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\clothes.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x86\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\workers.clothes.dll.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\workers.clothes.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\workers.clothes.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\workers.clothes.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\clothes.vbproj.AssemblyReference.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\ConstructionSiteLogistics.Workers.Clothes.Resources.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\ConstructionSiteLogistics.Workers.Clothes.workersClothesList_frm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\ConstructionSiteLogistics.Workers.Clothes.workersClothesForm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\clothes.vbproj.GenerateResource.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\clothes.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\clothes.vbproj.Up2Date
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\workers.clothes.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\workers.clothes.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\clothes\obj\Debug\workers.clothes.pdb

@@ -1,0 +1,34 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\BUILD FILES\site.shared.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\BUILD FILES\site.shared.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\BUILD FILES\site.shared.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\BUILD FILES\site.shared.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.shared.vbprojAssemblyReference.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\ConstructionSiteLogistics.Site.Shared.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\ConstructionSiteLogistics.Site.Shared.siteProductionEditTasksForm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.shared.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.shared.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.shared.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.shared.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.shared.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.shared.pdb
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.shared.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\ConstructionSiteLogistics.Site.Shared.Resources.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\ConstructionSiteLogistics.Site.Shared.siteProductionEditTasksForm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.shared.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.shared.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\BUILD FILES\runtimes\win-x86\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\BUILD FILES\runtimes\win-x64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\BUILD FILES\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\BUILD FILES\site.shared.dll.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\BUILD FILES\site.shared.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\BUILD FILES\site.shared.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\BUILD FILES\site.shared.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.shared.vbproj.AssemblyReference.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\ConstructionSiteLogistics.Site.Shared.Resources.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\ConstructionSiteLogistics.Site.Shared.siteProductionEditTasksForm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.shared.vbproj.GenerateResource.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.shared.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.sha.B5A45256.Up2Date
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.shared.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.shared.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site shared\Construction Site Shared\obj\Debug\site.shared.pdb

@@ -1,5 +1,0 @@
-C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Connectivity\RFID NFC\Contactless SmartCards GUI\obj\Release\Contactless SmartCards GUI.vbproj.AssemblyReference.cache
-C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Connectivity\RFID NFC\Contactless SmartCards GUI\obj\Release\ConstructionSiteLogistics.SmartCards.GUI.initializeSmartCard.resources
-C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Connectivity\RFID NFC\Contactless SmartCards GUI\obj\Release\ConstructionSiteLogistics.SmartCards.GUI.Resources.resources
-C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Connectivity\RFID NFC\Contactless SmartCards GUI\obj\Release\Contactless SmartCards GUI.vbproj.GenerateResource.cache
-C:\Users\Miguel\Desktop\Site Logistics\Windows\Development\.Net Framework\Platform\Connectivity\RFID NFC\Contactless SmartCards GUI\obj\Release\Contactless SmartCards GUI.vbproj.CoreCompileInputs.cache

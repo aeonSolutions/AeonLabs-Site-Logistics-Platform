@@ -1,0 +1,75 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\ConstructionSiteLogistics.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Foreman.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Foreman.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\Construction Site Logistics Foreman.exe.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\Construction Site Logistics Foreman.exe
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\Construction Site Logistics Foreman.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\Construction Site Logistics Foreman.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\core.libraries.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\gui.core.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\gui.shared.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\Newtonsoft.Json.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\contactless.smartcards.gui.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\ClosedXML.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\CircularProgressBar.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\panel.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\AutoUpdater.NET.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\WinFormAnimation.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\contactless.smartcards.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\ExcelNumberFormat.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\core.libraries.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\core.libraries.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\gui.shared.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\gui.shared.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\gui.shared.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\gui.core.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\gui.core.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\gui.core.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\Newtonsoft.Json.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\contactless.smartcards.gui.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\contactless.smartcards.gui.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\contactless.smartcards.gui.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\ClosedXML.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\ClosedXML.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\CircularProgressBar.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\panel.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\panel.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\AutoUpdater.NET.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\AutoUpdater.NET.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\contactless.smartcards.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\contactless.smartcards.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\bin\Debug\ExcelNumberFormat.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Foreman.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Construction Site Logistics Foreman.exe
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Construction Site Logistics Foreman.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Construction Site Logistics Foreman.pdb
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Foreman.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Foreman.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\ConstructionSiteLogistics.Resources.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Foreman.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Foreman.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\BUILD FILES\Construction Site Logistics Foreman.exe.config
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\BUILD FILES\Construction Site Logistics Foreman.exe
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\BUILD FILES\Construction Site Logistics Foreman.pdb
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\BUILD FILES\Construction Site Logistics Foreman.xml
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Foreman.vbproj.CopyComplete
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Construction Site Logistics Foreman.exe
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Construction Site Logistics Foreman.xml
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Construction Site Logistics Foreman.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x86\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\Construction Site Logistics Foreman.exe.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\Construction Site Logistics Foreman.exe
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\Construction Site Logistics Foreman.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\Construction Site Logistics Foreman.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Foreman.vbproj.AssemblyReference.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\ConstructionSiteLogistics.Resources.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Foreman.vbproj.GenerateResource.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Foreman.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Foreman.vbproj.Up2Date
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Construction Site Logistics Foreman.exe
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Construction Site Logistics Foreman.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Foreman\Foreman\obj\Debug\Construction Site Logistics Foreman.pdb

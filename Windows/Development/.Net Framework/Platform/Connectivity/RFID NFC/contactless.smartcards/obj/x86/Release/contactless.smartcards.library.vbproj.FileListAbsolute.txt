@@ -1,9 +1,0 @@
-D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\contactless.smartcards\bin\x86\Release\contactless.smartcards.dll
-D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\contactless.smartcards\bin\x86\Release\contactless.smartcards.pdb
-D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\contactless.smartcards\bin\x86\Release\contactless.smartcards.xml
-D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\contactless.smartcards\obj\x86\Release\siteConstructionSiteLogistics.SmartCards.Library.Resources.resources
-D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\contactless.smartcards\obj\x86\Release\contactless.smartcards.library.vbproj.GenerateResource.cache
-D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\contactless.smartcards\obj\x86\Release\contactless.smartcards.library.vbproj.CoreCompileInputs.cache
-D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\contactless.smartcards\obj\x86\Release\contactless.smartcards.dll
-D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\contactless.smartcards\obj\x86\Release\contactless.smartcards.xml
-D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\contactless.smartcards\obj\x86\Release\contactless.smartcards.pdb

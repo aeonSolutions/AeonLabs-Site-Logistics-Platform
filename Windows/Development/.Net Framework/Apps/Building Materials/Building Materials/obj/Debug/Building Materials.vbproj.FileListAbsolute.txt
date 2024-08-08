@@ -1,0 +1,112 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\ConstructionSiteLogistics.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Building Materials.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Building Materials.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Construction Site Logistics Construction Materials.exe.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Construction Site Logistics Construction Materials.exe
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Construction Site Logistics Construction Materials.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Construction Site Logistics Construction Materials.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\core.libraries.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\gui.core.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Newtonsoft.Json.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\ClosedXML.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\CircularProgressBar.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\panel.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\AutoUpdater.NET.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\WinFormAnimation.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\ExcelNumberFormat.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\core.libraries.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\core.libraries.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\gui.core.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\gui.core.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\gui.core.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Newtonsoft.Json.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\ClosedXML.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\ClosedXML.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\CircularProgressBar.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\panel.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\panel.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\AutoUpdater.NET.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\AutoUpdater.NET.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\ExcelNumberFormat.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Building Materials.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Construction Site Logistics Construction Materials.exe
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Construction Site Logistics Construction Materials.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Construction Site Logistics Construction Materials.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Building Materials.vbprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Building Materials.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Building Materials.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\ConstructionSiteLogistics.Resources.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Building Materials.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Building Materials.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Construction Site Logistics Construction Materials.exe.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Construction Site Logistics Construction Materials.exe
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Construction Site Logistics Construction Materials.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Construction Site Logistics Construction Materials.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\core.libraries.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Newtonsoft.Json.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\ClosedXML.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\CircularProgressBar.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\AutoUpdater.NET.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\WinFormAnimation.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\System.Memory.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\SixLabors.Fonts.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\ExcelNumberFormat.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\System.IO.Packaging.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Irony.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\System.Buffers.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\XLParser.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\System.Numerics.Vectors.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\core.libraries.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\core.libraries.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\core.libraries.dll.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Newtonsoft.Json.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\ClosedXML.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\CircularProgressBar.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\AutoUpdater.NET.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\AutoUpdater.NET.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\System.Memory.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\SixLabors.Fonts.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\ExcelNumberFormat.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\System.IO.Packaging.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\System.Buffers.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\System.Numerics.Vectors.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\ar\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\cs\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\da\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\de\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\es\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\fr\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\it\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\ja-JP\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\ko\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\lv\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\nl\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\pl\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\pt\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\pt-BR\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\ru\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\sk\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\sv\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\th\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\tr\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\zh\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\bin\Debug\zh-TW\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Building Materials.vbproj.AssemblyReference.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\ConstructionSiteLogistics.Resources.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Building Materials.vbproj.GenerateResource.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Building Materials.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Building.ADAE2B51.Up2Date
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Construction Site Logistics Construction Materials.exe
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Construction Site Logistics Construction Materials.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Building Materials\Building Materials\obj\Debug\Construction Site Logistics Construction Materials.pdb

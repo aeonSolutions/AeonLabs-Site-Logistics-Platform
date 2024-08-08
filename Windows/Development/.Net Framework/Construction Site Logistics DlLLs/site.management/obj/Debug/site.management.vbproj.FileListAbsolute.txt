@@ -1,0 +1,40 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.management.vbprojAssemblyReference.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\ConstructionSiteLogistics.Site.Management.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\ConstructionSiteLogistics.Site.Management.CheckFileCompatibility_frm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\ConstructionSiteLogistics.Site.Management.site_mng_frm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\ConstructionSiteLogistics.Site.Management.siteManagementActivitiesForm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.management.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.management.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\site.management.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\site.management.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\site.management.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\site.management.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.management.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.management.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.management.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.management.pdb
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.management.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\ConstructionSiteLogistics.Site.Management.Resources.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\ConstructionSiteLogistics.Site.Management.CheckFileCompatibility_frm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\ConstructionSiteLogistics.Site.Management.site_mng_frm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\ConstructionSiteLogistics.Site.Management.siteManagementActivitiesForm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.management.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.management.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x86\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\site.management.dll.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\site.management.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\site.management.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\site.management.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.management.vbproj.AssemblyReference.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\ConstructionSiteLogistics.Site.Management.Resources.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\ConstructionSiteLogistics.Site.Management.CheckFileCompatibility_frm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\ConstructionSiteLogistics.Site.Management.site_mng_frm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\ConstructionSiteLogistics.Site.Management.siteManagementActivitiesForm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.management.vbproj.GenerateResource.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.management.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.man.C62997DA.Up2Date
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.management.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.management.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\site.management\obj\Debug\site.management.pdb

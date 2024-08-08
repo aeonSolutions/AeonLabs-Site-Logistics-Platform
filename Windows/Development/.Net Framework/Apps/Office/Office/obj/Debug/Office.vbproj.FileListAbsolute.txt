@@ -1,0 +1,134 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\ConstructionSiteLogistics.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Office.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Office.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Office.vbprojAssemblyReference.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Construction Site Logistics Office.exe.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Construction Site Logistics Office.exe
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Construction Site Logistics Office.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Construction Site Logistics Office.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\core.libraries.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\gui.core.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\gui.shared.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Newtonsoft.Json.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\contactless.smartcards.gui.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\ClosedXML.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\CircularProgressBar.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\panel.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\AutoUpdater.NET.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\WinFormAnimation.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\contactless.smartcards.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\ExcelNumberFormat.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\core.libraries.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\core.libraries.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\gui.shared.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\gui.shared.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\gui.shared.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\gui.core.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\gui.core.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\gui.core.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Newtonsoft.Json.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\contactless.smartcards.gui.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\contactless.smartcards.gui.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\contactless.smartcards.gui.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\ClosedXML.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\ClosedXML.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\CircularProgressBar.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\panel.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\panel.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\AutoUpdater.NET.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\AutoUpdater.NET.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\contactless.smartcards.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\contactless.smartcards.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\ExcelNumberFormat.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Office.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Construction Site Logistics Office.exe
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Construction Site Logistics Office.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Construction Site Logistics Office.pdb
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Office.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Office.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\ConstructionSiteLogistics.Resources.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Office.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Office.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Construction Site Logistics Office.exe.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Construction Site Logistics Office.exe
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Construction Site Logistics Office.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Construction Site Logistics Office.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\core.libraries.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\gui.shared.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Newtonsoft.Json.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\ClosedXML.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\CircularProgressBar.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\AutoUpdater.NET.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\WinFormAnimation.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\contactless.smartcards.gui.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\System.Memory.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\SixLabors.Fonts.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\ExcelNumberFormat.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Irony.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\System.Buffers.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\XLParser.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\contactless.smartcards.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\System.Numerics.Vectors.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\core.libraries.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\core.libraries.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\core.libraries.dll.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\gui.shared.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\gui.shared.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\gui.shared.dll.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Newtonsoft.Json.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\ClosedXML.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\CircularProgressBar.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\AutoUpdater.NET.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\AutoUpdater.NET.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\contactless.smartcards.gui.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\contactless.smartcards.gui.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\contactless.smartcards.gui.dll.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\System.Memory.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\SixLabors.Fonts.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\ExcelNumberFormat.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\System.Buffers.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\contactless.smartcards.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\contactless.smartcards.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\System.Numerics.Vectors.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\ar\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\cs\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\da\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\de\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\es\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\fr\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\it\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\ja-JP\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\ko\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\lv\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\nl\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\pl\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\pt\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\pt-BR\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\ru\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\sk\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\sv\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\th\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\tr\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\zh\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\bin\Debug\zh-TW\AutoUpdater.NET.resources.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Office.vbproj.AssemblyReference.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\ConstructionSiteLogistics.Resources.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Office.vbproj.GenerateResource.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Office.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Office.vbproj.Up2Date
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Construction Site Logistics Office.exe
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Construction Site Logistics Office.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Office\Office\obj\Debug\Construction Site Logistics Office.pdb

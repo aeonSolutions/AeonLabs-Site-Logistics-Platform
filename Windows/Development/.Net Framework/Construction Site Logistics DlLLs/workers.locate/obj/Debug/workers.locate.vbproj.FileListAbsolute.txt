@@ -1,0 +1,34 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\workers.locate.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\workers.locate.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\workers.locate.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\workers.locate.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\ConstructionSiteLogistics.Workers.Locate.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\ConstructionSiteLogistics.Workers.Locate.workerLocateForm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers.locate.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers.locate.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers.locate.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers.locate.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers.locate.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers.locate.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers.locate.vbprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers.locate.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\ConstructionSiteLogistics.Workers.Locate.Resources.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\ConstructionSiteLogistics.Workers.Locate.workerLocateForm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers.locate.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers.locate.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x86\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\workers.locate.dll.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\workers.locate.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\workers.locate.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\workers.locate.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers.locate.vbproj.AssemblyReference.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\ConstructionSiteLogistics.Workers.Locate.Resources.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\ConstructionSiteLogistics.Workers.Locate.workerLocateForm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers.locate.vbproj.GenerateResource.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers.locate.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers..48E4661A.Up2Date
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers.locate.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers.locate.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\workers.locate\obj\Debug\workers.locate.pdb

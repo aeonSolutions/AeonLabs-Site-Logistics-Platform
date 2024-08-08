@@ -1,0 +1,40 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.vbprojAssemblyReference.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\ConstructionSiteLogistics.Attendance.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\ConstructionSiteLogistics.Attendance.duplicateRecordsCheck_frm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\ConstructionSiteLogistics.Attendance.attendanceLoggerForm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\ConstructionSiteLogistics.Attendance.logday_frm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\attendance.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\attendance.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\attendance.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\attendance.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.pdb
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\ConstructionSiteLogistics.Attendance.Resources.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\ConstructionSiteLogistics.Attendance.duplicateRecordsCheck_frm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\ConstructionSiteLogistics.Attendance.attendanceLoggerForm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\ConstructionSiteLogistics.Attendance.logday_frm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x86\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\attendance.dll.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\attendance.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\attendance.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\attendance.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.vbproj.AssemblyReference.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\ConstructionSiteLogistics.Attendance.Resources.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\ConstructionSiteLogistics.Attendance.duplicateRecordsCheck_frm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\ConstructionSiteLogistics.Attendance.attendanceLoggerForm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\ConstructionSiteLogistics.Attendance.logday_frm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.vbproj.GenerateResource.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.vbproj.Up2Date
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance\obj\Debug\attendance.pdb

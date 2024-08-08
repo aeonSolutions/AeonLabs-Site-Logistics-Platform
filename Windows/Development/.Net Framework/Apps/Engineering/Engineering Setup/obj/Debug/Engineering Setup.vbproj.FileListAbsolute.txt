@@ -1,0 +1,55 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Engineering Setup\obj\Debug\Engineering Setup.vbprojAssemblyReference.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Engineering Setup\obj\Debug\ConstructionSiteLogistics.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Engineering Setup\obj\Debug\Engineering Setup.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Engineering Setup\obj\Debug\Engineering Setup.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\ConstructionSiteLogistics.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Engineering Setup.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Engineering Setup.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\Construction Site Logistics Engineering Setup.exe.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\Construction Site Logistics Engineering Setup.exe
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\Construction Site Logistics Engineering Setup.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\Construction Site Logistics Engineering Setup.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\setup.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\panel.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\core.libraries.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\Newtonsoft.Json.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\setup.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\setup.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\panel.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\panel.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\core.libraries.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\core.libraries.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\Newtonsoft.Json.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Engineering Setup.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Construction Site Logistics Engineering Setup.exe
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Construction Site Logistics Engineering Setup.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Construction Site Logistics Engineering Setup.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Engineering Setup.vbprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\Construction Site Logistics Engineering Setup.exe.config
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\Construction Site Logistics Engineering Setup.exe
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\Construction Site Logistics Engineering Setup.pdb
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\Construction Site Logistics Engineering Setup.xml
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\setup.dll
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\AlphaGradientPanel.dll
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\core.libraries.dll
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\setup.pdb
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\setup.xml
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\AlphaGradientPanel.pdb
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\AlphaGradientPanel.xml
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\core.libraries.pdb
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\core.libraries.xml
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Engineering Setup.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Engineering Setup.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\ConstructionSiteLogistics.Resources.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Engineering Setup.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Engineering Setup.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Engineering Setup.vbproj.CopyComplete
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Construction Site Logistics Engineering Setup.exe
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Construction Site Logistics Engineering Setup.xml
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Construction Site Logistics Engineering Setup.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Engineering Setup.vbproj.AssemblyReference.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\ConstructionSiteLogistics.Resources.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Engineering Setup.vbproj.GenerateResource.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Apps\Engineering\Engineering Setup\obj\Debug\Engineering Setup.vbproj.CoreCompileInputs.cache

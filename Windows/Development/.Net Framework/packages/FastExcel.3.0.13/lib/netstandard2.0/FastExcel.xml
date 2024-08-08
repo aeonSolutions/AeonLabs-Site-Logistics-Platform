@@ -1,0 +1,635 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FastExcel</name>
+    </assembly>
+    <members>
+        <member name="T:FastExcel.Cell">
+            <summary>
+            Contains the actual value
+            </summary>
+        </member>
+        <member name="P:FastExcel.Cell.ColumnNumber">
+            <summary>
+            Column Numnber (Starts at 1)
+            </summary>
+        </member>
+        <member name="P:FastExcel.Cell.Value">
+            <summary>
+            The value that is stored
+            </summary>
+        </member>
+        <member name="P:FastExcel.Cell.ColumnName">
+            <summary>
+            Defined name or the column letter(s) for column this cell is in
+            </summary>
+        </member>
+        <member name="P:FastExcel.Cell.XElement">
+            <summary>
+            Raw underlying XElement of cell
+            </summary>
+        </member>
+        <member name="P:FastExcel.Cell.CellNames">
+            <summary>
+            List of defined names assigned to this cell
+            *Does not include names of ranges this cell is within*
+            </summary>
+        </member>
+        <member name="P:FastExcel.Cell.CellName">
+            <summary>
+            First defined name assigned to cell or cell Letter + row number if no named defined.
+            </summary>
+        </member>
+        <member name="P:FastExcel.Cell.RowNumber">
+            <summary>
+            Number of the row this cell is on
+            </summary>
+        </member>
+        <member name="M:FastExcel.Cell.#ctor(System.Int32,System.Object)">
+            <summary>
+            Create a new Cell
+            </summary>
+            <param name="columnNumber">Column number starting at 1</param>
+            <param name="value">Cell Value</param>
+        </member>
+        <member name="M:FastExcel.Cell.#ctor(System.Xml.Linq.XElement,FastExcel.Worksheet)">
+            <summary>
+            Create a new Cell
+            </summary>
+            <param name="cellElement">Cell</param>
+            <param name="worksheet">The worksheet that this cell is on</param>
+        </member>
+        <member name="M:FastExcel.Cell.GetExcelColumnName(System.Int32)">
+            <summary>
+            Convert Column Number into Column Name - Character(s) eg 1-A, 2-B
+            </summary>
+            <param name="columnNumber">Column Number</param>
+            <returns>Column Name - Character(s)</returns>
+        </member>
+        <member name="M:FastExcel.Cell.GetExcelColumnNumber(System.String,System.Boolean)">
+            <summary>
+            Covert Column Name - Character(s) into a Column Number eg A-1, B-2, A1 - 1, B9 - 2
+            </summary>
+            <param name="columnName">Column Name - Character(s) optinally with the Row Number</param>
+            <param name="includesRowNumber">Specify if the row number is included</param>
+            <returns>Column Number</returns>
+        </member>
+        <member name="M:FastExcel.Cell.Merge(FastExcel.Cell)">
+            <summary>
+            Merge the parameter cell into this cell
+            </summary>
+            <param name="cell">Cell to merge</param>
+        </member>
+        <member name="M:FastExcel.Cell.ToString">
+            <summary>
+            
+            </summary>
+            <returns>Cell's Value</returns>
+        </member>
+        <member name="T:FastExcel.CellRange">
+            <summary>
+            Represents a range of cells
+            </summary>
+        </member>
+        <member name="P:FastExcel.CellRange.ColumnStart">
+            <summary>
+            Column Range Start
+            </summary>
+        </member>
+        <member name="P:FastExcel.CellRange.ColumnEnd">
+            <summary>
+            Column Range End
+            </summary>
+        </member>
+        <member name="P:FastExcel.CellRange.RowStart">
+            <summary>
+            Row Range Start
+            </summary>
+        </member>
+        <member name="P:FastExcel.CellRange.RowEnd">
+            <summary>
+            Row Range End
+            </summary>
+        </member>
+        <member name="M:FastExcel.CellRange.#ctor(System.String)">
+            <summary>
+            Defines a range of cells using a reference string
+            </summary>
+            <param name="reference">Reference string i.e. Sheet1!$A$1</param>
+            <exception cref="T:System.ArgumentException">Thrown when reference is invalid or not supported</exception>
+        </member>
+        <member name="M:FastExcel.CellRange.#ctor(System.String,System.String,System.Int32,System.Nullable{System.Int32})">
+            <summary>
+            Defines a cell range using varibles
+            </summary>
+            <param name="columnStart">Column Letter start</param>
+            <param name="columnEnd">Column Letter end</param>
+            <param name="rowStart">First row number</param>
+            <param name="rowEnd">last row number</param>
+        </member>
+        <member name="T:FastExcel.DefinedName">
+            <summary>
+            Reads/hold information from XElement representing a stored DefinedName
+            A defined name is an alias for a cell, multiple cells, a range of cells or multiple ranges of cells
+            It is also used as an alias for a column
+            </summary>
+        </member>
+        <member name="T:FastExcel.DefinedNameLoadException">
+            <summary>
+            Exception used during loading process of defined names
+            </summary>
+        </member>
+        <member name="M:FastExcel.DefinedNameLoadException.#ctor(System.String,System.Exception)">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="T:FastExcel.DefinedNamesExtensions">
+            <summary>
+            Extensions to use on Dictionary of DefinedNames
+            </summary>
+        </member>
+        <member name="M:FastExcel.DefinedNamesExtensions.FindCellNames(System.Collections.Generic.IReadOnlyDictionary{System.String,FastExcel.DefinedName},System.String,System.String,System.Int32)">
+            <summary>
+            Finds all the cell names for a given cell
+            </summary>
+            <param name="definedNames"></param>
+            <param name="sheetName">Name of sheet containing cell</param>
+            <param name="columnLetter">Column letter of cell</param>
+            <param name="rowNumber">Row number of cell</param>
+            <returns>
+            List of cell names that is assigned to this cell. Does not include names which this cell is within range.
+            Empty List if none found
+            </returns>
+        </member>
+        <member name="M:FastExcel.DefinedNamesExtensions.FindColumnName(System.Collections.Generic.IReadOnlyDictionary{System.String,FastExcel.DefinedName},System.String,System.String)">
+            <summary>
+            Finds the column name for a given column letter
+            </summary>
+            <param name="definedNames"></param>
+            <param name="sheetName">Name of sheet containing column</param>
+            <param name="columnLetter">Column letter</param>
+            <returns></returns>
+        </member>
+        <member name="T:FastExcel.ExcelColumnAttribute">
+            <summary>
+            Add a custom name to the field
+            </summary>
+        </member>
+        <member name="P:FastExcel.ExcelColumnAttribute.Name">
+            <summary>
+            Column name in  Excel
+            </summary>
+        </member>
+        <member name="T:FastExcel.FastExcel">
+            <summary>
+            Fast Excel
+            </summary>
+            <summary>
+            Fast Excel
+            </summary>
+            <summary>
+            Fast Excel
+            </summary>
+        </member>
+        <member name="P:FastExcel.FastExcel.ExcelFile">
+            <summary>
+             Output excel file
+            </summary>
+        </member>
+        <member name="P:FastExcel.FastExcel.TemplateFile">
+            <summary>
+            The template excel file
+            </summary>
+        </member>
+        <member name="P:FastExcel.FastExcel.ReadOnly">
+            <summary>
+            Is the excel file read only
+            </summary>
+        </member>
+        <member name="P:FastExcel.FastExcel.MaxSheetNumber">
+            <summary>
+            Maximum sheet number, obtained when a sheet is added
+            </summary>
+        </member>
+        <member name="P:FastExcel.FastExcel.DeleteWorksheets">
+            <summary>
+            A list of worksheet indexs to delete
+            </summary>
+        </member>
+        <member name="P:FastExcel.FastExcel.AddWorksheets">
+            <summary>
+            A list of worksheet indexs to insert
+            </summary>
+        </member>
+        <member name="M:FastExcel.FastExcel.#ctor(System.IO.FileInfo,System.Boolean)">
+            <summary>
+            Update an existing excel file
+            </summary>
+            <param name="excelFile">location of an existing excel file</param>
+            <param name="readOnly">is the file read only</param>
+        </member>
+        <member name="M:FastExcel.FastExcel.#ctor(System.IO.FileInfo,System.IO.FileInfo)">
+            <summary>
+            Create a new excel file from a template
+            </summary>
+            <param name="templateFile">template location</param>
+            <param name="excelFile">location of where a new excel file will be saved to</param>
+        </member>
+        <member name="M:FastExcel.FastExcel.#ctor(System.IO.FileInfo,System.IO.FileInfo,System.Boolean,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="templateFile"></param>
+            <param name="excelFile"></param>
+            <param name="updateExisting"></param>
+            <param name="readOnly"></param>
+        </member>
+        <member name="M:FastExcel.FastExcel.#ctor(System.IO.Stream)">
+            <summary>
+            Update an existing excel file stream
+            </summary>
+            <param name="excelStream"></param>
+        </member>
+        <member name="M:FastExcel.FastExcel.#ctor(System.IO.Stream,System.IO.Stream,System.Boolean,System.Boolean)">
+            <summary>
+            Create a new excel file from a template
+            </summary>
+            <param name="templateStream">Input Template Stream</param>
+            <param name="excelStream">Output Excel Stream</param>
+            <param name="updateExisting"></param>
+            <param name="readOnly"></param>
+        </member>
+        <member name="M:FastExcel.FastExcel.CheckFiles">
+            <summary>
+            Ensure files are ready for use
+            </summary>
+        </member>
+        <member name="M:FastExcel.FastExcel.UpdateRelations(System.Boolean)">
+            <summary>
+            Update xl/_rels/workbook.xml.rels file
+            </summary>
+        </member>
+        <member name="M:FastExcel.FastExcel.UpdateWorkbook">
+            <summary>
+            Update xl/workbook.xml file
+            </summary>
+        </member>
+        <member name="M:FastExcel.FastExcel.RenameAndRebildWorksheetProperties(System.Xml.Linq.XElement[])">
+            <summary>
+            If sheets have been added or deleted, sheets need to be renamed
+            </summary>
+        </member>
+        <member name="M:FastExcel.FastExcel.UpdateContentTypes(System.Boolean)">
+            <summary>
+            Update [Content_Types].xml file
+            </summary>
+        </member>
+        <member name="M:FastExcel.FastExcel.GetWorksheetIndexFromName(System.String)">
+            <summary>
+            Retrieves the index for given worksheet name
+            </summary>
+            <param name="name"></param>
+            <returns>1 based index of sheet or 0 if not found</returns>
+        </member>
+        <member name="M:FastExcel.FastExcel.UpdateDocPropsApp(System.String[])">
+            <summary>
+            Update docProps/app.xml file
+            </summary>
+        </member>
+        <member name="M:FastExcel.FastExcel.Dispose">
+            <summary>
+            Saves any pending changes to the Excel stream and adds/updates associated files if needed
+            </summary>
+        </member>
+        <member name="M:FastExcel.FastExcel.Dispose(System.Boolean)">
+            <summary>
+            Main disposal function
+            </summary>
+        </member>
+        <member name="P:FastExcel.FastExcel.DefinedNames">
+            <summary>
+            Dictionary of defined names
+            </summary>
+        </member>
+        <member name="M:FastExcel.FastExcel.GetCellRangesByDefinedName(System.String,System.Nullable{System.Int32})">
+            <summary>
+            Retrieves ranges of cells by their defined name
+            </summary>
+            <param name="definedName">Defined Name</param>
+            <param name="worksheetIndex">If scoped to a sheet, the worksheetIndex</param>
+            <returns>List of cells encapsulated in another list representing seperate ranges</returns>
+        </member>
+        <member name="M:FastExcel.FastExcel.GetCellsByDefinedName(System.String,System.Nullable{System.Int32})">
+            <summary>
+            Gets all cells by defined name
+            Like GetCellRangesByCellName, but just retreives all cells in a single list
+            </summary>
+            <param name="definedName"></param>
+            <param name="worksheetIndex"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FastExcel.FastExcel.GetCellByDefinedName(System.String,System.Nullable{System.Int32})">
+            <summary>
+            Returns cell by defined name
+            If theres more than one, this is the first one.
+            </summary>
+        </member>
+        <member name="M:FastExcel.FastExcel.GetCellsByColumnName(System.String,System.Int32,System.Nullable{System.Int32})">
+            <summary>
+            Returns all cells in a column by name, within optional row range
+            </summary>
+            <param name="columnName"></param>
+            <param name="rowStart"></param>
+            <param name="rowEnd"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FastExcel.FastExcel.Read(System.Int32,System.Int32)">
+            <summary>
+            Read a sheet by sheet number
+            </summary>
+        </member>
+        <member name="M:FastExcel.FastExcel.Read(System.String,System.Int32)">
+            <summary>
+            Read a sheet by sheet name
+            </summary>
+            <param name="sheetName"></param>
+            <param name="existingHeadingRows"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FastExcel.FastExcel.Update(FastExcel.Worksheet,System.Int32)">
+            <summary>
+            Update the worksheet
+            </summary>
+            <param name="data">The worksheet</param>
+            <param name="sheetNumber">eg 1,2,4</param>
+        </member>
+        <member name="M:FastExcel.FastExcel.Update(FastExcel.Worksheet,System.String)">
+            <summary>
+            Update the worksheet
+            </summary>
+            <param name="data">The worksheet</param>
+            <param name="sheetName">eg. Sheet1, Sheet2</param>
+        </member>
+        <member name="P:FastExcel.FastExcel.Worksheets">
+            <summary>
+            List of worksheets, loaded on first access of property
+            </summary>
+        </member>
+        <member name="M:FastExcel.FastExcel.Write(FastExcel.Worksheet)">
+            <summary>
+            Write data to a sheet
+            </summary>
+            <param name="worksheet">A dataset</param>
+        </member>
+        <member name="M:FastExcel.FastExcel.Write(FastExcel.Worksheet,System.Int32,System.Int32)">
+            <summary>
+            Write data to a sheet
+            </summary>
+            <param name="worksheet">A dataset</param>
+            <param name="sheetNumber">The number of the sheet starting at 1</param>
+            <param name="existingHeadingRows">How many rows in the template sheet you would like to keep</param>
+        </member>
+        <member name="M:FastExcel.FastExcel.Write(FastExcel.Worksheet,System.String,System.Int32)">
+            <summary>
+            Write data to a sheet
+            </summary>
+            <param name="worksheet">A dataset</param>
+            <param name="sheetName">The display name of the sheet</param>
+            <param name="existingHeadingRows">How many rows in the template sheet you would like to keep</param>
+        </member>
+        <member name="M:FastExcel.FastExcel.Write``1(System.Collections.Generic.IEnumerable{``0},System.Int32,System.Int32)">
+            <summary>
+            Write a list of objects to a sheet
+            </summary>
+            <typeparam name="T">Row Object</typeparam>
+            <param name="rows">IEnumerable list of objects</param>
+            <param name="sheetNumber">The number of the sheet starting at 1</param>
+            <param name="existingHeadingRows">How many rows in the template sheet you would like to keep</param>
+        </member>
+        <member name="M:FastExcel.FastExcel.Write``1(System.Collections.Generic.IEnumerable{``0},System.String,System.Int32)">
+            <summary>
+            Write a list of objects to a sheet
+            </summary>
+            <typeparam name="T">Row Object</typeparam>
+            <param name="rows">IEnumerable list of objects</param>
+            <param name="sheetName">The display name of the sheet</param>
+            <param name="existingHeadingRows">How many rows in the template sheet you would like to keep</param>
+        </member>
+        <member name="M:FastExcel.FastExcel.Write``1(System.Collections.Generic.IEnumerable{``0},System.Int32,System.Boolean)">
+            <summary>
+            Write a list of objects to a sheet
+            </summary>
+            <typeparam name="T">Row Object</typeparam>
+            <param name="objectList">IEnumerable list of objects</param>
+            <param name="sheetNumber">The number of the sheet starting at 1</param>
+            <param name="usePropertiesAsHeadings">Use property names from object list as headings</param>
+        </member>
+        <member name="M:FastExcel.FastExcel.Write``1(System.Collections.Generic.IEnumerable{``0},System.String,System.Boolean)">
+            <summary>
+            Write a list of objects to a sheet
+            </summary>
+            <typeparam name="T">Row Object</typeparam>
+            <param name="rows">IEnumerable list of objects</param>
+            <param name="sheetName">The display name of the sheet</param>
+            <param name="usePropertiesAsHeadings">Use property names from object list as headings</param>
+        </member>
+        <member name="M:FastExcel.FastExcel.Write(System.Data.DataTable,System.String)">
+            <summary>
+            Write a excel from datatable
+            </summary>
+        </member>
+        <member name="T:FastExcel.Row">
+            <summary>
+            Row that contains the Cells
+            </summary>
+        </member>
+        <member name="P:FastExcel.Row.RowNumber">
+            <summary>
+            The Row Number (Row numbers start at 1)
+            </summary>
+        </member>
+        <member name="P:FastExcel.Row.Cells">
+            <summary>
+            The collection of cells for this row
+            </summary>
+        </member>
+        <member name="M:FastExcel.Row.#ctor(System.Int32,System.Collections.Generic.IEnumerable{FastExcel.Cell})">
+            <summary>
+            Create a new Row
+            </summary>
+            <param name="rowNumber">Row number starting with 1</param>
+            <param name="cells">Cells on this row</param>
+        </member>
+        <member name="M:FastExcel.Row.#ctor(System.Xml.Linq.XElement,FastExcel.Worksheet)">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:FastExcel.Row.GetCellByColumnName(System.String)">
+            <summary>
+            Retreive cell that is in column specified
+            </summary>
+            <param name="columnName">Column letter or defined name</param>
+            <returns>Matching cell or null if not found</returns>
+        </member>
+        <member name="M:FastExcel.Row.Merge(FastExcel.Row)">
+            <summary>
+            Merge this row and the passed one togeather
+            </summary>
+            <param name="row">Row to be merged into this one</param>
+        </member>
+        <member name="T:FastExcel.SharedStrings">
+            <summary>
+            Read and update xl/sharedStrings.xml file
+            </summary>
+        </member>
+        <member name="P:FastExcel.SharedStrings.PendingChanges">
+            <summary>
+            Is there any pending changes
+            </summary>
+        </member>
+        <member name="P:FastExcel.SharedStrings.ReadWriteMode">
+            <summary>
+            Is in read/write mode
+            </summary>
+        </member>
+        <member name="T:FastExcel.Worksheet">
+            <summary>
+            Excel Worksheet
+            </summary>
+        </member>
+        <member name="P:FastExcel.Worksheet.Rows">
+            <summary>
+            Collection of rows in this worksheet
+            </summary>
+        </member>
+        <member name="P:FastExcel.Worksheet.Headings">
+            <summary>
+            Heading Names
+            </summary>
+        </member>
+        <member name="P:FastExcel.Worksheet.Index">
+            <summary>
+            Index of this worksheet (Starts at 1)
+            </summary>
+        </member>
+        <member name="P:FastExcel.Worksheet.Name">
+            <summary>
+            Name of this worksheet
+            </summary>
+        </member>
+        <member name="P:FastExcel.Worksheet.ExistingHeadingRows">
+            <summary>
+            Is there any existing heading rows
+            </summary>
+        </member>
+        <member name="P:FastExcel.Worksheet.Template">
+            <summary>
+            Template
+            </summary>
+        </member>
+        <member name="P:FastExcel.Worksheet.FastExcel">
+            <summary>
+            Fast Excel
+            </summary>
+        </member>
+        <member name="M:FastExcel.Worksheet.GetFileName(System.Int32)">
+            <summary>
+            Get the internal file name of this worksheet
+            </summary>
+        </member>
+        <member name="M:FastExcel.Worksheet.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:FastExcel.Worksheet.#ctor(FastExcel.FastExcel)">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:FastExcel.Worksheet.PopulateRows``1(System.Collections.Generic.IEnumerable{``0},System.Int32,System.Boolean)">
+            <summary>
+            Populate rows
+            </summary>
+        </member>
+        <member name="M:FastExcel.Worksheet.PopulateRowsFromDataTable(System.Data.DataTable,System.Int32)">
+            <summary>
+            Populate rows from datatable
+            </summary>
+        </member>
+        <member name="M:FastExcel.Worksheet.GetHeaderName(System.Reflection.PropertyInfo)">
+            <summary>
+            Get Header Column Name from [ExcelColumn(Name="column1")] or the property name
+            </summary>
+        </member>
+        <member name="M:FastExcel.Worksheet.AddRow(System.Object[])">
+            <summary>
+            Add a row using a collection of value objects
+            </summary>
+            <param name="cellValues">Collection of objects</param>
+        </member>
+        <member name="M:FastExcel.Worksheet.AddValue(System.Int32,System.Int32,System.Object)">
+            <summary>
+            Note: This method is slow
+            </summary>
+        </member>
+        <member name="M:FastExcel.Worksheet.Merge(FastExcel.Worksheet)">
+            <summary>
+            Merges the parameter into the current DatSet object, the parameter takes precedence
+            </summary>
+            <param name="data">A DataSet to merge</param>
+        </member>
+        <member name="P:FastExcel.Worksheet.Exists">
+            <summary>
+            Does the file exist
+            </summary>
+        </member>
+        <member name="M:FastExcel.Worksheet.Read(System.Int32)">
+            <summary>
+            Read the worksheet
+            </summary>
+            <param name="existingHeadingRows"></param>
+        </member>
+        <member name="M:FastExcel.Worksheet.GetCellsInRange(FastExcel.CellRange)">
+            <summary>
+            Returns cells using provided range
+            </summary>
+            <param name="cellRange">Definition of range to use</param>
+            <returns></returns>
+        </member>
+        <member name="M:FastExcel.Worksheet.ReadHeadersAndFooters(System.IO.StreamReader,FastExcel.Worksheet@)">
+            <summary>
+            Read the existing sheet and copy some of the existing content
+            </summary>
+            <param name="stream">Worksheet stream</param>
+            <param name="worksheet">Saves the header and footer to the worksheet</param>
+        </member>
+        <member name="M:FastExcel.Worksheet.GetWorksheetProperties(FastExcel.FastExcel,System.Nullable{System.Int32},System.String)">
+            <summary>
+            Get worksheet file name from xl/workbook.xml
+            </summary>
+        </member>
+        <member name="T:FastExcel.WorksheetProperties">
+            <summary>
+            Extra properties for a worksheet
+            </summary>
+        </member>
+        <member name="P:FastExcel.WorksheetProperties.CurrentIndex">
+            <summary>
+            Sheet index
+            </summary>
+        </member>
+        <member name="P:FastExcel.WorksheetProperties.SheetId">
+            <summary>
+            Sheet Id
+            </summary>
+        </member>
+        <member name="P:FastExcel.WorksheetProperties.Name">
+            <summary>
+            Sheet name
+            </summary>
+        </member>
+    </members>
+</doc>

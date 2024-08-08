@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software Dev\\Construction Site Logistics\\Desktop Apps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6BD189-ED33-45CC-96F8-0DF6B1037CC3}|Shared Code\\Core Libraries\\Core Libraries.vbproj|d:\\software dev\\construction site logistics\\desktop apps\\shared code\\core libraries\\setup wizard\\setupwizardmainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0F6BD189-ED33-45CC-96F8-0DF6B1037CC3}|Shared Code\\Core Libraries\\Core Libraries.vbproj|solutionrelative:shared code\\core libraries\\setup wizard\\setupwizardmainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6BD189-ED33-45CC-96F8-0DF6B1037CC3}|Shared Code\\Core Libraries\\Core Libraries.vbproj|d:\\software dev\\construction site logistics\\desktop apps\\shared code\\core libraries\\setup wizard\\setupwizardmainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0F6BD189-ED33-45CC-96F8-0DF6B1037CC3}|Shared Code\\Core Libraries\\Core Libraries.vbproj|solutionrelative:shared code\\core libraries\\setup wizard\\setupwizardmainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 212,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "setupWizardMainForm.vb",
+              "DocumentMoniker": "D:\\Software Dev\\Construction Site Logistics\\Desktop Apps\\Shared Code\\Core Libraries\\Setup Wizard\\setupWizardMainForm.vb",
+              "RelativeDocumentMoniker": "Shared Code\\Core Libraries\\Setup Wizard\\setupWizardMainForm.vb",
+              "ToolTip": "D:\\Software Dev\\Construction Site Logistics\\Desktop Apps\\Shared Code\\Core Libraries\\Setup Wizard\\setupWizardMainForm.vb*",
+              "RelativeToolTip": "Shared Code\\Core Libraries\\Setup Wizard\\setupWizardMainForm.vb*",
+              "ViewState": "AQIAADcBAAAAAAAAAAAIwEkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-08T12:48:24.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "setupWizardMainForm.vb [Design]",
+              "DocumentMoniker": "D:\\Software Dev\\Construction Site Logistics\\Desktop Apps\\Shared Code\\Core Libraries\\Setup Wizard\\setupWizardMainForm.vb",
+              "RelativeDocumentMoniker": "Shared Code\\Core Libraries\\Setup Wizard\\setupWizardMainForm.vb",
+              "ToolTip": "D:\\Software Dev\\Construction Site Logistics\\Desktop Apps\\Shared Code\\Core Libraries\\Setup Wizard\\setupWizardMainForm.vb [Design]*",
+              "RelativeToolTip": "Shared Code\\Core Libraries\\Setup Wizard\\setupWizardMainForm.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-08T12:48:17.159Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

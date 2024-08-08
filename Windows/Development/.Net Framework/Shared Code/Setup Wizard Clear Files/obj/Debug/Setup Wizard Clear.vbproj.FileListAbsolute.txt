@@ -1,0 +1,34 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\Setup Wizard Clear.vbprojAssemblyReference.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\ConstructionSiteLogistics.Setup.Finnish.finnishTasks.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\ConstructionSiteLogistics.Setup.Finnish.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\Setup Wizard Clear.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\Setup Wizard Clear.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\finnish.exe.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\finnish.exe
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\finnish.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\Setup Wizard Clear.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\finnish.exe
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\finnish.pdb
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\BUILD FILES\finnish.exe.config
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\BUILD FILES\finnish.exe
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\BUILD FILES\finnish.pdb
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\Setup Wizard Clear.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\Setup Wizard Clear.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\ConstructionSiteLogistics.Setup.Finnish.finnishTasks.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\ConstructionSiteLogistics.Setup.Finnish.Resources.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\Setup Wizard Clear.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\Setup Wizard Clear.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\Setup Wizard Clear.vbproj.CopyComplete
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\finnish.exe
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\finnish.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\finnish.exe.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\finnish.exe
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\finnish.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\Setup Wizard Clear.vbproj.AssemblyReference.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\ConstructionSiteLogistics.Setup.Finnish.finnishTasks.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\ConstructionSiteLogistics.Setup.Finnish.Resources.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\Setup Wizard Clear.vbproj.GenerateResource.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\Setup Wizard Clear.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\Setup Wi.4E518396.Up2Date
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\finnish.exe
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Setup Wizard Clear Files\obj\Debug\finnish.pdb

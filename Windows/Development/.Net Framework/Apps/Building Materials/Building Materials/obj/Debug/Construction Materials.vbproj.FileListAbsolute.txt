@@ -1,0 +1,4 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Materials\obj\Debug\Construction Materials.vbprojAssemblyReference.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Materials\obj\Debug\ConstructionSiteLogistics.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Materials\obj\Debug\Construction Materials.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Materials\obj\Debug\Construction Materials.vbproj.CoreCompileInputs.cache

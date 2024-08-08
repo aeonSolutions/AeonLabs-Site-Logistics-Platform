@@ -1,0 +1,36 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\ConstructionSiteLogistics.Site.Planning.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\ConstructionSiteLogistics.Site.Planning.PlanDailyTasks_frm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\ConstructionSiteLogistics.Site.Planning.PlanDailyTasksAddTeams_frm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.Planning.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.Planning.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\site.planning.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\site.planning.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\site.planning.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.Planning.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.planning.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.planning.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.planning.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.Planning.vbprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.Planning.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\ConstructionSiteLogistics.Site.Planning.Resources.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\ConstructionSiteLogistics.Site.Planning.PlanDailyTasks_frm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\ConstructionSiteLogistics.Site.Planning.PlanDailyTasksAddTeams_frm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.Planning.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.Planning.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x86\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\site.planning.dll.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\site.planning.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\site.planning.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\site.planning.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.Planning.vbproj.AssemblyReference.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\ConstructionSiteLogistics.Site.Planning.Resources.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\ConstructionSiteLogistics.Site.Planning.PlanDailyTasks_frm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\ConstructionSiteLogistics.Site.Planning.PlanDailyTasksAddTeams_frm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.Planning.vbproj.GenerateResource.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.Planning.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.Pla.14A561B0.Up2Date
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.planning.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.planning.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\Planning\obj\Debug\site.planning.pdb

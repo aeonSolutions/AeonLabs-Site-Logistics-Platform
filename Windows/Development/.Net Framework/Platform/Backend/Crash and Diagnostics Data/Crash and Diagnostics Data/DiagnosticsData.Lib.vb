@@ -1,4 +1,0 @@
-﻿Module DiagnosticsDataLib
-
-
-End Module

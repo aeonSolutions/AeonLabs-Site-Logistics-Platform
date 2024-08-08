@@ -1,0 +1,37 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendance.report.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendance.report.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\ConstructionSiteLogistics.Attendance.Reports.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\ConstructionSiteLogistics.Attendance.Reports.frm_attendances_close_status.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\ConstructionSiteLogistics.Attendance.Reports.attendanceReportsForm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\attendance.report.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\attendance.report.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\attendance.report.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\attendance.report.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendance.report.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendance.report.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendance.report.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendance.report.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendance.report.vbprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendance.report.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\ConstructionSiteLogistics.Attendance.Reports.Resources.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\ConstructionSiteLogistics.Attendance.Reports.frm_attendances_close_status.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\ConstructionSiteLogistics.Attendance.Reports.attendanceReportsForm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendance.report.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendance.report.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x86\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\attendance.report.dll.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\attendance.report.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\attendance.report.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\attendance.report.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendance.report.vbproj.AssemblyReference.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\ConstructionSiteLogistics.Attendance.Reports.Resources.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\ConstructionSiteLogistics.Attendance.Reports.frm_attendances_close_status.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\ConstructionSiteLogistics.Attendance.Reports.attendanceReportsForm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendance.report.vbproj.GenerateResource.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendance.report.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendan.527A20A4.Up2Date
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendance.report.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendance.report.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Construction Site Logistics DlLLs\attendance.report\obj\Debug\attendance.report.pdb

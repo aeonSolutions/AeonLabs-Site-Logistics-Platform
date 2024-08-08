@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{98431DF3-285B-4E4C-B198-DA7DA9A6C4B3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ConstructionSiteLogistics.Site.Activity</RootNamespace>
+    <AssemblyName>site.activity</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\..\BUILD FILES\</OutputPath>
+    <DocumentationFile>site.activity.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\BUILD FILES\</OutputPath>
+    <DocumentationFile>site.activity.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="http\siteDataRequests.vb" />
+    <Compile Include="siteForms\journalView.Designer.vb">
+      <DependentUpon>journalView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="siteForms\journalView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="siteForms\receptionMaterialsList.Designer.vb">
+      <DependentUpon>receptionMaterialsList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="siteForms\receptionMaterialsList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="siteForms\site.Designer.vb">
+      <DependentUpon>site.vb</DependentUpon>
+    </Compile>
+    <Compile Include="siteForms\site.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="siteForms\siteClosure.Designer.vb">
+      <DependentUpon>siteClosure.vb</DependentUpon>
+    </Compile>
+    <Compile Include="siteForms\siteClosure.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="siteForms\siteClosureList.Designer.vb">
+      <DependentUpon>siteClosureList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="siteForms\siteClosureList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="siteForms\SiteLivraisonEdit.Designer.vb">
+      <DependentUpon>SiteLivraisonEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="siteForms\SiteLivraisonEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="siteForms\siteLivraisonStats.Designer.vb">
+      <DependentUpon>siteLivraisonStats.vb</DependentUpon>
+    </Compile>
+    <Compile Include="siteForms\siteLivraisonStats.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="siteForms\siteReceptionMaterials.Designer.vb">
+      <DependentUpon>siteReceptionMaterials.vb</DependentUpon>
+    </Compile>
+    <Compile Include="siteForms\siteReceptionMaterials.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="siteForms\siteRegieEdit.Designer.vb">
+      <DependentUpon>siteRegieEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="siteForms\siteRegieEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="siteForms\journalView.resx">
+      <DependentUpon>journalView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="siteForms\receptionMaterialsList.resx">
+      <DependentUpon>receptionMaterialsList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="siteForms\site.resx">
+      <DependentUpon>site.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="siteForms\siteClosure.resx">
+      <DependentUpon>siteClosure.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="siteForms\siteClosureList.resx">
+      <DependentUpon>siteClosureList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="siteForms\SiteLivraisonEdit.resx">
+      <DependentUpon>SiteLivraisonEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="siteForms\siteLivraisonStats.resx">
+      <DependentUpon>siteLivraisonStats.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="siteForms\siteReceptionMaterials.resx">
+      <DependentUpon>siteReceptionMaterials.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="siteForms\siteRegieEdit.resx">
+      <DependentUpon>siteRegieEdit.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\AddOns\Google Translation\web translation.vbproj">
+      <Project>{B13CE5AB-E69C-4B90-983C-E8C3587B66BA}</Project>
+      <Name>web translation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Shared Code\Core Libraries\Core Libraries.vbproj">
+      <Project>{0F6BD189-ED33-45CC-96F8-0DF6B1037CC3}</Project>
+      <Name>Core Libraries</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Shared Code\GUI\GUI libraries.vbproj">
+      <Project>{26346eb3-cd2b-4aaa-af58-99118a2e6d74}</Project>
+      <Name>GUI libraries</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\site shared\Construction Site Shared\site.shared.vbproj">
+      <Project>{E2983499-D568-4F6F-B425-508863F9DDCB}</Project>
+      <Name>site.shared</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

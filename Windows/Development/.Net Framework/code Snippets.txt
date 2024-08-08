@@ -1,0 +1,6 @@
+        If PanelMain.Controls.Find(setupWizCountry.Name, True).Length > 0 Then
+        Dim setupWizCo As setupWizard_country = TryCast(PanelMain.Controls.Find(setupWizCountry.Name, True).ElementAt(0), setupWizard_country)
+            If setupWizCo.ListBox1.SelectedIndex > -1 Then
+        settings.country = setupWizCo.ListBox1.SelectedItem.ToString
+        
+        End If

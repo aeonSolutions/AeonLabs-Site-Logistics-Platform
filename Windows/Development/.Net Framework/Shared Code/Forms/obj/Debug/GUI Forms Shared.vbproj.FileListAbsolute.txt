@@ -1,0 +1,69 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\GUI Forms Shared.vbprojAssemblyReference.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.activity_frm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.avisos_frm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.msgCenter_frm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.holidays_frm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.settings_frm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.logger_stats_frm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.mobileDevicesForm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.tableSearchOptionsForm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.userProfileForm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.aboutForm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\GUI Forms Shared.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\GUI Forms Shared.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\gui.shared.dll.config
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\gui.shared.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\gui.shared.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\gui.shared.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\GUI Forms Shared.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\gui.shared.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\gui.shared.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\gui.shared.pdb
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\GUI Forms Shared.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.activity_frm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.avisos_frm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.msgCenter_frm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.holidays_frm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.settings_frm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.logger_stats_frm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.mobileDevicesForm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.tableSearchOptionsForm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.userProfileForm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.aboutForm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.Resources.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\GUI Forms Shared.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\GUI Forms Shared.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\BUILD FILES\gui.shared.dll.config
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\BUILD FILES\gui.shared.dll
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\BUILD FILES\gui.shared.pdb
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\BUILD FILES\gui.shared.xml
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\GUI Forms Shared.vbproj.CopyComplete
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\gui.shared.dll
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\gui.shared.xml
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\gui.shared.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x86\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\gui.shared.dll.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\gui.shared.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\gui.shared.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\gui.shared.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\GUI Forms Shared.vbproj.AssemblyReference.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.activity_frm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.avisos_frm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.msgCenter_frm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.holidays_frm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.settings_frm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.logger_stats_frm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.mobileDevicesForm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.tableSearchOptionsForm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.userProfileForm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.aboutForm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\ConstructionSiteLogistics.Gui.Forms.Shared.Resources.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\GUI Forms Shared.vbproj.GenerateResource.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\GUI Forms Shared.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\GUI Form.24EBA32D.Up2Date
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\gui.shared.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\gui.shared.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Forms\obj\Debug\gui.shared.pdb

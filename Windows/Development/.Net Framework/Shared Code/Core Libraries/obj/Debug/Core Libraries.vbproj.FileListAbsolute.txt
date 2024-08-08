@@ -1,0 +1,62 @@
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\core.libraries.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\core.libraries.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\BUILD FILES\core.libraries.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.messageBoxForm.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.Resources.resources
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\Core Libraries.vbproj.GenerateResource.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\Core Libraries.vbproj.CoreCompileInputs.cache
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\Core Libraries.vbproj.CopyComplete
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\core.libraries.dll
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\core.libraries.xml
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\core.libraries.pdb
+D:\DiskContents\Software\Code\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\Core Libraries.vbprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\BUILD FILES\core.libraries.dll
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\BUILD FILES\core.libraries.pdb
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\BUILD FILES\core.libraries.xml
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\Core Libraries.vbproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.messageBoxForm.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.MessageBoxChild.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.Resources.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.strings.resources
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\Core Libraries.vbproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\Core Libraries.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\Core Libraries.vbproj.CopyComplete
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\core.libraries.dll
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\core.libraries.xml
+C:\Users\Miguel\Desktop\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\core.libraries.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x86\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-x64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\core.libraries.dll.config
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\core.libraries.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\core.libraries.pdb
+D:\Software Dev\Construction Site Logistics\Desktop Apps\BUILD FILES\core.libraries.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\Core Libraries.vbproj.AssemblyReference.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.DownloadForm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.upload_frm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.waiting_frm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.MainMdiForm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.messageBoxForm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.MessageBoxChild.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.Resources.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.setupWizardMainForm.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.setupWizard_addOns.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.setupWizard_country.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.setupWizard_createAdminAccount.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.setupWizard_createDB.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.setupWizard_DiagnosticsCrashData.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.setupWizard_finnish.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.setupWizard_language.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.setupWizard_NewFtpWebSettings.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.setupWizard_platformType.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.setupWizard_ServerAddress.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.setupWizard_settingUp.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.setupWizard_signIn.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.SplashScreen.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\ConstructionSiteLogistics.Libraries.Core.strings.resources
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\Core Libraries.vbproj.GenerateResource.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\Core Libraries.vbproj.CoreCompileInputs.cache
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\Core Lib.8F622E8B.Up2Date
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\core.libraries.dll
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\core.libraries.xml
+D:\Software Dev\Construction Site Logistics\Desktop Apps\Shared Code\Core Libraries\obj\Debug\core.libraries.pdb
