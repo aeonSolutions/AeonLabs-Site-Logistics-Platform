@@ -8,7 +8,7 @@
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon.svg) 
 
-[Open Software Caralog](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)  >>  Construction Site Remote Logistics Platform 
+ **Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >> [Open Source Code Software](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)  >>  Construction Site Remote Logistics Platform 
 
 <div align="right">
 Goto <a href="https://github.com/aeonSolutions/Open-Scientific-Research">Open Science Research</a> | <a href="https://github-com.translate.goog/aeonSolutions/AeonLabs-Site-Logistics-Platform?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
